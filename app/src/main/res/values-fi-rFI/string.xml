@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 Ohjelmistopäivitys</string>
+    <string name="button_next">"Seuraava"</string>
+    <string name="exit">"Ok"</string>
+    <string name="button_update">"Päivittää"</string>
+
+    <string name="prompt_text1">Sinun on noudatettava joitain keskeisiä vaiheita, jotta tämä päivitys voidaan asentaa onnistuneesti,
+        lue ja ota huomioon seuraavat vaiheet.</string>
+    <string name="prompt_text2">Paina ja pidä painettuna sekä äänenvoimakkuuden lisäys- että virtapainikkeita samanaikaisesti...</string>
+    <string name="prompt_text3">Paina molempia näppäimiä 3 sekunnin ajan ja vapauta sitten vain ”Äänenvoimakkuuden lisäys” -näppäin.</string>
+    <string name="prompt_text4">Kun näet valikkovaihtoehdot, vapauta virtapainike. </string>
+    <string name="prompt_text5">Korosta ”Apply update from SD card” ”Äänenvoimakkuus ylös / alas” -näppäimellä ja paina ”Virta” -näppäintä. </string>
+    <string name="prompt_text6">Kun päivitys on onnistunut, näet näytön alareunassa
+        "Install from SD card completed with status 0".</string>
+    <string name="prompt_text7">Korosta ”Reboot system now” painamalla ”Äänenvoimakkuuden lisäys/alas” -näppäintä.
+        Kun se on korostettu, paina lyhyesti virtapainiketta (laite käynnistyy nyt automaattisesti).
+        Huomaa: Laitteen uudelleenkäynnistyminen voi kestää useita minuutteja.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Kun puhelin on käynnistynyt uudelleen,
+         Halutessasi voit tarkistaa ohjelmistoversion kohdasta Asetukset > Tietoja puhelimesta > Koontinumero.
+         Onnistunut päivitys näkyy muodossa
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+        </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nOhjelmistopäivitys </string>
+
+    <string name="guild_line_text">Tämä ohjelmistopäivitys on tarkoitettu vain Nokia 3.1 Plus -käyttäjille, joilla on ohjelmistoversio:
+        \n\n
+        00WW_3_15H \n
+        00WW_3_15H_SP01
+        \n\n
+        Voit tarkistaa laitteen rakennuksen valitsemalla Asetukset> Tietoja puhelimesta.
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hei tyhjä fragmentti</string>
+    <string name="checkbox_tv">Olen lukenut ja ymmärtänyt ohjeet ja olen valmis vastaanottamaan Nokia 3.1 Plus Android 10 -ohjelmistopäivityksen.</string>
+    <string name="important_notice">Tärkeä tiedote</string>
+    <string name="check_title">Suoritetaan viimeiset tarkistukset varmistaaksemme, että laitteesi on valmis…</string>
+    <string name="new_version">Puhelimesi on jo ajan tasalla. </string>
+    <string name="back">Takaisin</string>
+    <string name="next">Seuraava</string>
+    <string name="sdcard">SD-kortti on asetettu</string>
+    <string name="sd_space">Vähintään 300 Mt vapaata tilaa SD-kortilla.</string>
+    <string name="power">Yli 30% tehosta.</string>
+    <string name="check_for_updates">Tarkista päivitykset</string>
+    <string name="new_version_desc">Paina OK poistuaksesi.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[Kun aloitat päivityksen, näitä vaiheita <br> ei näytetä laitteellasi.
+        <br><br>
+Suosittelemme joko:
+<br><br>
+Avaa tämä <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>linkki(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> tietokoneellasi tai toissijaisella laitteellasi (jos sellainen sinulla on) ja </r> joko tulosta/kopioi ohjeet.
+<br><br>
+Käyttäjätietojasi ei menetetä ohjelmistopäivityksen jälkeen, mutta varotoimena
+Suosittelemme, että käyttäjät varmuuskopioivat käyttäjätiedot ennen päivityksen asentamista.
+<br><br>
+
+Kun olet valmis jatkaaksesi, paina Päivitä
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Kun aloitat päivityksen, näitä vaiheita ei näytetä laitteellasi.
+        <br><br>
+Suosittelemme joko:
+<br><br>
+Avaa tämä <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>linkki(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> tietokoneellasi tai toissijaisella laitteellasi (jos sellainen sinulla on) ja </r> joko tulosta/kopioi ohjeet.
+<br><br>
+Käyttäjätietojasi ei menetetä ohjelmistopäivityksen jälkeen, mutta varotoimena
+Suosittelemme, että käyttäjät varmuuskopioivat käyttäjätiedot ennen päivityksen asentamista.
+<br><br>
+
+Kun olet valmis jatkaaksesi, paina Seuraava
+                ]]>
+        </Data>
+    </string>
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

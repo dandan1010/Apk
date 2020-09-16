@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 програмын шинэчлэлт</string>
+    <string name="button_next">"Дараачийн"</string>
+    <string name="exit">"Болж байна уу"</string>
+    <string name="button_update">"Шинэчлэх"</string>
+
+    <string name="prompt_text1">Энэхүү шинэчлэлтийг амжилттай суулгахын тулд та зарим гол алхмуудыг дагах хэрэгтэй болно,
+	    дараах алхмуудыг уншиж тэмдэглэж аваарай.</string>
+    <string name="prompt_text2">"Volume Up" болон "цахилгаан хангамж" товчлууруудыг зэрэг дарж барь ...</string>
+    <string name="prompt_text3">Хоёр товчлуурыг 3 секундын турш үргэлжлүүлэн дараад зөвхөн "Дууг нэмэгдүүлэх" товчлуурыг суллана уу.</string>
+    <string name="prompt_text4">Цэсийн сонголтыг хармагц "цахилгаан хангамж" товчийг суллана уу.</string>
+    <string name="prompt_text5">"Эзлэхүүн дээш / доош" товчийг ашиглан "Apply update from SD card" -ийг тодруулж, "цахилгаан хангамж" товчийг дарна уу. </string>
+    <string name="prompt_text6">Шинэчлэлт амжилттай болсны дараа дэлгэцийн доод хэсэгт та харах болно 
+        “Install from SD card completed with status 0”.</string>
+    <string name="prompt_text7">"Эзлэхүүн дээш / доош" товчийг дарж "Reboot system now" -ийг онцлон тэмдэглэ. 
+	    Тодруулсны дараа "цахилгаан хангамж" товчийг товч дарна уу (төхөөрөмж одоо автоматаар дахин ачаалах болно).
+		Анхаарна уу: Төхөөрөмжийг дахин асаахад хэдэн минут шаардагдаж магадгүй юм.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Таны утас дахин ассаны дараа,
+        Хэрэв та хүсвэл Тохиргоо > Утасны тухай > Барилгын дугаар гэсэн хэсгээс Програм хангамжийн хувилбарыг шалгах боломжтой.
+        Амжилттай шинэчлэлт нь дараахь байдлаар харагдана
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nпрограмын шинэчлэлт </string>
+
+    <string name="guild_line_text">Энэхүү програмын шинэчлэлт нь зөвхөн Nokia 3.1 Plus програм хангамж бүхий хэрэглэгчдэд зориулагдсан болно.
+             \n\n
+            00WW_3_15H \n
+            00WW_3_15H_SP01
+             \n\n
+            Төхөөрөмжийн бүтцийг шалгахын тулд "Тохиргоо" > "Утасны тухай" хэсэгт очно уу.
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Сайн уу хоосон хэсэг</string>
+    <string name="checkbox_tv">Би зааврыг уншиж, ойлгосон бөгөөд Nokia 3.1 Plus Android 10 Програм хангамжийн шинэчлэлтийг хүлээн авахад бэлэн байна.</string>
+    <string name="important_notice">Чухал мэдэгдэл</string>
+    <string name="check_title">Таны төхөөрөмжийг бэлэн байлгахын тулд эцсийн шалгалтыг хийцгээе ...</string>
+    <string name="new_version">Таны утас аль хэдийн шинэчлэгдсэн байна.</string>
+    <string name="back">Буцах</string>
+    <string name="next">Дараачийн</string>
+    <string name="sdcard">SD карт оруулсан байна</string>
+    <string name="sd_space">SD карт дээр дор хаяж 300МБ-ийн сул зай.</string>
+    <string name="power">Эрчим хүчний 30% -иас дээш.</string>
+    <string name="check_for_updates">Шинэчлэлтүүдийг шалгах</string>
+    <string name="new_version_desc">Гарахын тулд OK товчийг дарна уу.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[Шинэчлэлтийг эхлүүлсний дараа эдгээр алхамууд <br> таны төхөөрөмж дээр харагдахгүй болно.
+        <br><br>
+Бид танд санал болгож байна:
+<br><br>
+Энэ <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>холбоос(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> -ыг компьютер эсвэл хоёрдогч төхөөрөмж дээрээ нээгээд (хэрэв танд байгаа бол) </r> зааврыг хэвлэж/хуулж ав.
+<br><br>
+Програм хангамж шинэчлэгдсэний дараа таны хэрэглэгчийн өгөгдөл алдагдахгүй, гэхдээ урьдчилан сэргийлэх үүднээс,
+Бид шинэчлэлтийг суулгахаасаа өмнө хэрэглэгчийн өгөгдлийг нөөцлөхийг хэрэглэгчдэд санал болгосон.
+<br><br>
+
+Үргэлжлүүлэхийн тулд ОК-ийн дараа Шинэчлэлтийг дарна уу
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Шинэчлэлтийг эхлүүлсний дараа эдгээр алхмууд таны төхөөрөмж дээр харагдахгүй болно.
+        <br><br>
+Бид танд санал болгож байна:
+<br><br>
+Энэ <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>холбоос(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> -ыг компьютер эсвэл хоёрдогч төхөөрөмж дээрээ нээгээд (хэрэв танд байгаа бол) </r> зааврыг хэвлэж/хуулж ав.
+<br><br>
+Програм хангамж шинэчлэгдсэний дараа таны хэрэглэгчийн өгөгдөл алдагдахгүй, гэхдээ урьдчилан сэргийлэх үүднээс,
+Бид шинэчлэлтийг суулгахаасаа өмнө хэрэглэгчийн өгөгдлийг нөөцлөхийг хэрэглэгчдэд санал болгосон.
+<br><br>
+
+Үргэлжлүүлэхийн тулд OK дарсны дараа Next товчийг дарна уу
+                ]]>
+        </Data>
+    </string>
+<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

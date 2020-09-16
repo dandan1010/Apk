@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Актуализация на софтуера Nokia 3.1 Plus Android 10</string>
+    <string name="button_next">"Следващия"</string>
+    <string name="exit">"Добре"</string>
+    <string name="button_update">"Актуализиране"</string>
+
+    <string name="prompt_text1">Ще трябва да изпълните някои ключови стъпки, за да може тази актуализация да се инсталира успешно,
+        моля, прочетете и вземете под внимание следните стъпки.</string>
+    <string name="prompt_text2">Натиснете и задръжте едновременно клавишите „Увеличаване на звука“ и „Захранване“ ...</string>
+    <string name="prompt_text3">Продължавайте да натискате двата клавиша за 3 секунди и след това отпуснете само бутона за увеличаване на звука.</string>
+    <string name="prompt_text4">След като видите опциите на менюто, отпуснете бутона „Захранване“.</string>
+    <string name="prompt_text5">Използвайте бутона „Увеличаване / намаляване на силата на звука“, за да маркирате „Apply update from SD card“ и натиснете бутона „Захранване“. </string>
+    <string name="prompt_text6">След като актуализацията е успешна, в долната част на екрана ще видите 
+	    „Install from SD card completed with status 0“.</string>
+    <string name="prompt_text7">Натиснете бутона за увеличаване / намаляване на силата на звука, за да маркирате „Reboot system now“.
+        След като бъде подчертано, натиснете за кратко бутона „Захранване“ (устройството ще се рестартира автоматично).
+        Моля, обърнете внимание: Устройството може да отнеме няколко минути, за да се рестартира.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[След като телефонът ви се рестартира,
+        ако желаете, можете да проверите версията на софтуера от Settings> About Phone> Build number.
+        Успешната актуализация ще се покаже като 
+            “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Актуализация на софтуера Nokia 3.1 Plus\nAndroid 10\n</string>
+
+    <string name="guild_line_text">Тази актуализация на софтуера е само за потребители на Nokia 3.1 Plus със софтуерни версии:
+             \n\n
+            00WW_3_15H \n
+            00WW_3_15H_SP01
+             \n\n
+        За да проверите изграждането на устройството, отидете на „Настройки“ > „Всичко за телефона“
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Здравейте празен фрагмент</string>
+    <string name="checkbox_tv">Прочетох и разбрах инструкциите и съм готов да получа актуализация на софтуера Nokia 3.1 Plus Android 10.</string>
+    <string name="important_notice">Важно съобщение</string>
+    <string name="check_title">Нека направим последни проверки, за да се уверим, че устройството ви е готово ...</string>
+    <string name="new_version">Телефонът ви вече е актуален.</string>
+    <string name="back">обратно</string>
+    <string name="next">Следващия</string>
+    <string name="sdcard">SD картата е поставена</string>
+    <string name="sd_space">Най-малко 300MB свободно място на SD картата.</string>
+    <string name="power">Повече от 30% от мощността</string>
+    <string name="check_for_updates">Провери за обновления</string>
+    <string name="new_version_desc">Моля, натиснете OK за изход.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[След като стартирате актуализацията, тези стъпки <br> няма да се показват на вашето устройство.
+        <br><br>
+Препоръчваме ви:
+<br><br>
+Отворете това <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>връзка(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> на вашия компютър или вторично устройство (ако имате такова) и </r> или отпечатайте/копирайте инструкциите.
+<br><br>
+Вашите потребителски данни няма да бъдат загубени след актуализацията на софтуера,
+обаче като предпазна мярка препоръчваме на потребителите да направят резервно копие на потребителски данни, преди да инсталират актуализацията.
+<br><br>
+
+След като ОК, за да продължите, натиснете Актуализиране
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[След като стартирате актуализацията, тези стъпки няма да се показват на вашето устройство.
+        <br><br>
+Препоръчваме ви:
+<br><br>
+Отворете това <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>връзка(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> на вашия компютър или вторично устройство (ако имате такова) и </r> или отпечатайте/копирайте инструкциите.
+<br><br>
+Вашите потребителски данни няма да бъдат загубени след актуализацията на софтуера,
+но като предпазна мярка препоръчваме на потребителите да направят резервно копие на потребителските данни, преди да инсталират актуализацията.
+<br><br>
+
+След като OK, за да продължите, натиснете Next
+                ]]>
+        </Data>
+    </string>
+<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

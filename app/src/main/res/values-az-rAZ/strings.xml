@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 Proqram Yeniləməsi</string>
+    <string name="button_next">"Növbəti"</string>
+    <string name="exit">"Tamam"</string>
+    <string name="button_update">"Yeniləyin"</string>
+
+    <string name="prompt_text1">Bu yeniləmənin uğurla qurulması üçün bəzi əsas addımları izləməlisiniz, xahiş edirəm aşağıdakı addımları oxuyun və qeyd edin.</string>
+    <string name="prompt_text2">Həm “Səsi artır”, həm də “Güc” düymələrini eyni anda basıb saxlayın ...</string>
+    <string name="prompt_text3">Hər iki düyməni 3 saniyə basıb saxlayın və sonra yalnız "Səs artır" düyməsini buraxın.</string>
+    <string name="prompt_text4">Menyu seçimlərini gördükdən sonra “Güc” düyməsini buraxın.</string>
+    <string name="prompt_text5">"Apply update from SD card" i vurğulamaq üçün "Səsin yuxarı / aşağı" düyməsini istifadə edin və "Güc" düyməsini basın.</string>
+    <string name="prompt_text6">Yeniləmə müvəffəq olduqdan sonra, ekranın alt hissəsində 
+	    “Install from SD card completed with status 0” ı görəcəksiniz.</string>
+    <string name="prompt_text7">"Reboot system now" -i vurğulamaq üçün "Səs Sıx / Aşağı" düyməsini basın. 
+	    Vurğulandıqdan sonra “Güc” düyməsini qısaca basın (cihaz artıq avtomatik olaraq yenidən başlayacaq).
+		Xahiş edirik unutmayın: Cihazın yenidən başlaması bir neçə dəqiqə çəkə bilər.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Telefonunuz yenidən işə salındıqdan sonra, 
+		istəsəniz, Parametrlər> Telefon haqqında> Nömrə qurma bölməsindən Proqram versiyasını yoxlaya bilərsiniz. 
+		Uğurlu bir yeniləmə 
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nProqram Yeniləməsi</string>
+
+    <string name="guild_line_text">Bu proqram yeniləməsi yalnız Nokia 3.1 Plus proqram təminatları ilə istifadəçilər üçündür:
+             \n\n
+            00WW_3_15H \n
+            00WW_3_15H_SP01
+             \n\n
+        Cihaz quruluşunu yoxlamaq üçün "Ayarlar"> "Telefon haqqında" a keçin
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Salam boş fraqment</string>
+    <string name="checkbox_tv">Təlimatları oxudum və anladım və Nokia 3.1 Plus Android 10 Software yeniləməsini almağa hazıram.</string>
+    <string name="important_notice">Vacib Qeyd</string>
+    <string name="check_title">Cihazınızın hazır olmasını təmin etmək üçün son yoxlamaları aparaq ...</string>
+    <string name="new_version">Telefonunuz artıq yenidir.</string>
+    <string name="back">Geri</string>
+    <string name="next">Növbəti</string>
+    <string name="sdcard">SD kart yerləşdirilib</string>
+    <string name="sd_space">SD kartda ən az 300 MB boş yer.</string>
+    <string name="power">Gücün 30% -dən çoxu</string>
+    <string name="check_for_updates">Yeniləmələri yoxlayın</string>
+    <string name="new_version_desc">Zəhmət olmasa çıxmaq üçün OK düyməsini basın.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[Yeniləməyə başladıqdan sonra bu addımlar <br>cihazınızda göstərilməyəcək.
+        <br><br>
+Sizə tövsiyə edirik:
+<br><br>
+Aç bunu <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> kompüterinizdə və ya ikinci dərəcəli cihazınızda (varsa) və </r> ya təlimatları yazdırın / kopyalayın.
+<br><br>
+Proqram yeniləməsindən sonra istifadəçi məlumatlarınız itirilməyəcəkdir, lakin ehtiyat olaraq istifadəçilərə yeniləməni quraşdırmadan əvvəl istifadəçi məlumatlarının ehtiyat nüsxəsini etmələrini tövsiyə etdik.
+<br><br>
+
+Davam etmək üçün OK olduqdan sonra Yeniləyin
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Yeniləməyə başladıqdan sonra bu addımlar cihazınızda göstərilməyəcək.
+        <br><br>
+Sizə tövsiyə edirik:
+<br><br>
+Aç bunu <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> kompüterinizdə və ya ikinci dərəcəli cihazınızda (varsa) və </r> ya təlimatları yazdırın / kopyalayın.
+<br><br>
+Proqram yeniləməsindən sonra istifadəçi məlumatlarınız itirilməyəcəkdir, lakin ehtiyat olaraq istifadəçilərə yeniləməni quraşdırmadan əvvəl istifadəçi məlumatlarının ehtiyat nüsxəsini etmələrini tövsiyə etdik.
+<br><br>
+
+Davam etmək üçün bir dəfə OK düyməsini basın
+                ]]>
+        </Data>
+    </string>
+<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

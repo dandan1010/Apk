@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 SW నవీకరణ</string>
+    <string name="button_next">"తదుపరి"</string>
+    <string name="exit">"సరే"</string>
+    <string name="button_update">"నవీకరణ"</string>
+
+    <string name="prompt_text1">ఈ నవీకరణ విజయవంతంగా ఇన్‌స్టాల్ కావడానికి మీరు కొన్ని కీలక దశలను అనుసరించాల్సి ఉంటుంది, దయచేసి ఈ క్రింది దశలను చదవండి మరియు గమనించండి</string>
+    <string name="prompt_text2">“వాల్యూమ్ అప్” మరియు “పవర్” కీలను ఒకేసారి నొక్కి ఉంచండి…</string>
+    <string name="prompt_text3">రెండు కీలను 3 సెకన్ల పాటు నొక్కి ఉంచండి, ఆపై “వాల్యూమ్ అప్” కీని మాత్రమే విడుదల చేయండి.</string>
+    <string name="prompt_text4">మీరు మెను ఎంపికలను చూసిన తర్వాత, “పవర్” కీని విడుదల చేయండి. </string>
+    <string name="prompt_text5"> హైలైట్ చేయడానికి “వాల్యూమ్ అప్ / డౌన్” కీని ఉపయోగించండి
+ “Apply update from SD card”,మరియు “పవర్” కీని నొక్కండి. </string>
+    <string name="prompt_text6"> నవీకరణ విజయవంతం అయిన తర్వాత, స్క్రీన్ దిగువన మీరు చూస్తారు
+        “Install from SD card completed with status 0”.</string>
+    <string name="prompt_text7">హైలైట్ చేయడానికి “వాల్యూమ్ అప్ / డౌన్” కీని నొక్కండి“Reboot system now”. ఒకసారి
+         హైలైట్ చేయబడింది, “పవర్” కీని క్లుప్తంగా నొక్కండి (పరికరం ఇప్పుడు అవుతుంది
+         స్వయంచాలకంగా రీబూట్ చేయండి). దయచేసి గమనించండి: పరికరం పున art ప్రారంభించడానికి చాలా నిమిషాలు పట్టవచ్చు.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[మీ ఫోన్ పున ar ప్రారంభించిన తర్వాత,
+ మీరు కోరుకుంటే, మీరు సెట్టింగులు> ఫోన్ గురించి> బిల్డ్ నంబర్ నుండి సాఫ్ట్‌వేర్ సంస్కరణను తనిఖీ చేయవచ్చు.
+ విజయవంతమైన నవీకరణ “
+            <font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nసాఫ్ట్‌వేర్ నవీకరణ </string>
+
+    <string name="guild_line_text">ఈ సాఫ్ట్‌వేర్ నవీకరణ సాఫ్ట్‌వేర్ నిర్మాణాలతో నోకియా 3.1 ప్లస్ వినియోగదారులకు మాత్రమే: \n\n 
+    00WW_3_15H \n 
+    00WW_3_15H_SP01 
+    \n\n 
+    పరికర నిర్మాణాన్ని తనిఖీ చేయడానికి, “సెట్టింగులు”> “ఫోన్ గురించి”
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">హలో ఖాళీ భాగం</string>
+    <string name="checkbox_tv">నేను సూచనలను చదివి అర్థం చేసుకున్నాను మరియు Nokia 3.1 Plus Android 10 సాఫ్ట్‌వేర్ నవీకరణను స్వీకరించడానికి సిద్ధంగా ఉన్నాను.</string>
+    <string name="important_notice">ముఖ్యమైన నోటీసు</string>
+    <string name="check_title">మీ పరికరం సిద్ధంగా ఉందని నిర్ధారించడానికి తుది తనిఖీలు చేద్దాం…</string>
+    <string name="new_version">మీ ఫోన్ ఇప్పటికే తాజాగా ఉంది. </string>
+    <string name="back">వెనుక </string>
+    <string name="next">తదుపరి </string>
+    <string name="sdcard">SD కార్డ్ చేర్చబడింది</string>
+    <string name="sd_space">SD కార్డ్‌లో కనీసం 300MB ఖాళీ స్థలం. </string>
+    <string name="power">30% కంటే ఎక్కువ శక్తి. </string>
+    <string name="check_for_updates">నవీకరణల కోసం తనిఖీ చేయండి</string>
+    <string name="new_version_desc">దయచేసి నిష్క్రమించడానికి సరే నొక్కండి.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[మీరు నవీకరణను ప్రారంభించిన తర్వాత, ఈ దశలు <br> మీ పరికరంలో చూపబడవు.
+        <br><br>
+ మేము మీకు సిఫార్సు చేస్తున్నాము:
+<br><br>
+మీ కంప్యూటర్ లేదా ద్వితీయ పరికరంలో ఈ <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u> లింక్ </u></a></font> ను తెరవండి (మీకు ఒకటి ఉంటే) మరియు </r> సూచనలను ముద్రించండి / కాపీ చేయండి.
+<br><br>
+సాఫ్ట్‌వేర్ నవీకరణ తర్వాత మీ వినియోగదారు డేటా కోల్పోదు, అయితే ముందుజాగ్రత్తగా, వినియోగదారులు వెనుకకు పనిచేయాలని మేము సిఫార్సు చేసాము
+ నవీకరణను ఇన్‌స్టాల్ చేయడానికి ముందు వినియోగదారు డేటా.
+<br><br>
+
+కొనసాగించడానికి సరే, నవీకరణ నొక్కండి
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[మీరు నవీకరణను ప్రారంభించిన తర్వాత, ఈ దశలు మీ పరికరంలో చూపబడవు.
+        <br><br>
+ మేము మీకు సిఫార్సు చేస్తున్నాము:
+<br><br>
+మీ కంప్యూటర్ లేదా ద్వితీయ పరికరంలో ఈ <font color ="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u> లింక్ (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> ను తెరవండి (మీకు ఒకటి ఉంటే) మరియు </r> సూచనలను ముద్రించండి / కాపీ చేయండి.
+<br><br>
+సాఫ్ట్‌వేర్ నవీకరణ తర్వాత మీ వినియోగదారు డేటా కోల్పోదు, అయితే ముందుజాగ్రత్తగా, వినియోగదారులు వెనుకకు పనిచేయాలని మేము సిఫార్సు చేసాము
+ నవీకరణను ఇన్‌స్టాల్ చేయడానికి ముందు వినియోగదారు డేటా.
+<br><br>
+
+కొనసాగించడానికి సరే, తరువాత నొక్కండి
+                ]]>
+        </Data>
+    </string>
+<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

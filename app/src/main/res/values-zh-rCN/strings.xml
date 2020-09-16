@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10软件更新</string>
+    <string name="button_next">"下一个"</string>
+    <string name="exit">"确定"</string>
+    <string name="button_update">"更新"</string>
+
+    <string name="prompt_text1">您将需要执行一些关键步骤才能成功安装此更新，请阅读并记下以下步骤。</string>
+    <string name="prompt_text2">同时按住“调高音量”和“电源”键…</string>
+    <string name="prompt_text3">按住两个键3秒钟，然后仅松开“调高音量”键。</string>
+    <string name="prompt_text4">看到菜单选项后，松开“电源”键。 </string>
+    <string name="prompt_text5">使用“调高/调低”键突出显示 “Apply update from SD card”，然后按“电源”键.</string>
+    <string name="prompt_text6">更新成功后，在屏幕底部，您将看到 
+        “Install from SD card completed with status 0”.</string>
+    <string name="prompt_text7">按“增大/减小音量”键以突出显示“Reboot system now”.  一旦
+         高亮显示，请快速按“电源”键（设备现在将
+         自动重启）。 请注意：设备可能需要几分钟才能重启.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[手机重新启动后，
+ 如果需要，可以从“设置”>“关于手机”>“内部版本号”检查软件版本。
+ 成功更新将显示为 
+            “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\n软件更新 </string>
+
+    <string name="guild_line_text">此软件更新仅适用于具有以下软件版本的Nokia 3.1 Plus用户：
+        \n\n 
+        00WW_3_15H \n 
+        00WW_3_15H_SP01 
+        \n\n
+        要检查设备的版本，请转到“设置”>“关于手机”
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">你好空白片段</string>
+    <string name="checkbox_tv">我已阅读并理解说明，并准备接收Nokia 3.1 Plus Android 10软件更新。</string>
+    <string name="important_notice">重要提示</string>
+    <string name="check_title">让我们做最后检查，以确保您的设备已准备就绪...</string>
+    <string name="new_version">您的电话已经是最新的。 </string>
+    <string name="back">返回</string>
+    <string name="next">下一个</string>
+    <string name="sdcard">已插入SD卡</string>
+    <string name="sd_space">SD卡上至少有300MB的可用空间。</string>
+    <string name="power">超过30％的功率。</string>
+    <string name="check_for_updates">检查更新</string>
+    <string name="new_version_desc">请按OK退出。</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[一旦开始更新，这些步骤<br>将不会显示在您的设备上。
+        <br><br>
+我们建议您：
+<br><br>
+在计算机或辅助设备（如果有）上打开此<font color="＃4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font>，然后</r>打印/抄下说明。
+<br><br>
+ 软件更新后，您的用户数据不会丢失，但是为预防起见，我们建议用户执行回退操作。
+ 在安装更新之前先关闭用户数据。
+<br><br>
+
+单击确定继续，请按更新
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[一旦开始更新，这些步骤将不会显示在您的设备上。
+        <br><br>
+我们建议您：
+<br><br>
+ 在计算机或辅助设备（如果有）上打开此<font color="＃4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font>，然后</r>打印/抄下说明。
+<br><br>
+ 软件更新后，您的用户数据不会丢失，但是为预防起见，我们建议用户执行回退操作。
+ 在安装更新之前先关闭用户数据。
+<br><br>
+
+ 单击确定继续，按下一步
+                ]]>
+        </Data>
+    </string>
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

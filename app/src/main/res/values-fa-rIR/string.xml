@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 به روز رسانی نرم افزار</string>
+    <string name="button_next">"بعد"</string>
+    <string name="exit">"خوب"</string>
+    <string name="button_update">"به روز رسانی"</string>
+
+    <string name="prompt_text1">برای اینکه این به روزرسانی با موفقیت نصب شود ، باید مراحل اساسی را دنبال کنید ،
+        لطفا مراحل زیر را بخوانید و یادداشت کنید.</string>
+    <string name="prompt_text2">کلیدهای "افزایش صدا" و "روشن" را همزمان فشار دهید و نگه دارید</string>
+    <string name="prompt_text3">3 ثانیه فشار دادن هر دو کلید را ادامه دهید و سپس فقط کلید "افزایش صدا" را رها کنید.</string>
+    <string name="prompt_text4">پس از مشاهده گزینه های منو ، کلید "پاور" را رها کنید. </string>
+    <string name="prompt_text5">از کلید "افزایش / کاهش صدا" برای برجسته سازی “Apply update from SD card” استفاده کنید و کلید "روشن / خاموش" را فشار دهید.</string>
+    <string name="prompt_text6">پس از موفقیت آمیز بودن به روزرسانی ، در پایین صفحه خواهید دید
+        "Install from SD card completed with status 0".</string>
+    <string name="prompt_text7">برای برجسته سازی "Reboot system now" کلید "افزایش / کاهش صدا" را فشار دهید.
+        پس از برجسته سازی ، کلید "روشن" را فشار دهید (دستگاه اکنون بطور خودکار راه اندازی مجدد می شود).
+        لطفا توجه داشته باشید: راه اندازی مجدد دستگاه ممکن است چند دقیقه طول بکشد.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[پس از راه اندازی مجدد تلفن ،
+         در صورت تمایل ، می توانید نسخه نرم افزار را از تنظیمات> درباره تلفن> شماره ساخت بررسی کنید.
+         به روزرسانی موفقیت آمیز نشان داده خواهد شد
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+        </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nبه روز رسانی نرم افزار </string>
+
+    <string name="guild_line_text">این به روزرسانی نرم افزار فقط برای کاربران Nokia 3.1 Plus با ساخت نرم افزار است:
+        \n\n
+        00WW_3_15H \n
+        00WW_3_15H_SP01
+        \n\n
+        برای بررسی ساخت دستگاه ، به "تنظیمات"> "درباره تلفن" بروید
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">سلام قطعه خالی</string>
+    <string name="checkbox_tv">من دستورالعمل ها را خوانده و درک کرده ام و آماده دریافت به روزرسانی نرم افزار Android 10 Nokia 3.1 Plus هستم.</string>
+    <string name="important_notice">اطلاعیه مهم</string>
+    <string name="check_title">بیایید بررسی های نهایی را انجام دهیم تا مطمئن شویم دستگاه شما آماده است</string>
+    <string name="new_version">تلفن شما از قبل به روز است. </string>
+    <string name="back">بازگشت</string>
+    <string name="next">بعد</string>
+    <string name="sdcard">کارت SD درج شده است</string>
+    <string name="sd_space">حداقل 300 مگابایت فضای آزاد روی کارت SD.</string>
+    <string name="power">بیش از 30٪ قدرت</string>
+    <string name="check_for_updates">به روزرسانی ها را بررسی کنید</string>
+    <string name="new_version_desc">لطفاً برای خروج OK را فشار دهید.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[به محض شروع به روزرسانی ، این مراحل <br> در دستگاه شما نشان داده نمی شود.
+        <br><br>
+ما به شما توصیه می کنیم:
+<br><br>
+این <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>پیوند(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u/><a/></font> را در رایانه یا دستگاه ثانویه خود باز کنید (در صورت داشتن) و </r> دستورالعمل ها را چاپ یا کپی کنید.
+<br><br>
+داده های کاربری شما پس از به روزرسانی نرم افزار از بین نمی رود ، البته به عنوان احتیاط ،
+ما به کاربران توصیه می کنیم قبل از نصب به روزرسانی ، از اطلاعات کاربر پشتیبان تهیه کنند.
+<br><br>
+
+پس از تأیید برای ادامه ، بروزرسانی را فشار دهید
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[با شروع به روزرسانی ، این مراحل در دستگاه شما نشان داده نمی شوند.
+        <br><br>
+ما به شما توصیه می کنیم:
+<br><br>
+این <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u> پیوند (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u/><a/></font> را در رایانه یا دستگاه ثانویه خود باز کنید (در صورت داشتن) و </r> دستورالعمل ها را چاپ یا کپی کنید
+<br><br>
+داده های کاربری شما پس از به روزرسانی نرم افزار از بین نمی رود ، البته به عنوان احتیاط ،
+ما به کاربران توصیه می کنیم قبل از نصب به روزرسانی ، از اطلاعات کاربر پشتیبان تهیه کنند.
+<br><br>
+
+پس از تأیید برای ادامه ، بعدی را فشار دهید
+                ]]>
+        </Data>
+    </string>
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Actualització de programari Nokia 3.1 Plus Android 10</string>
+    <string name="button_next">"Pròxim"</string>
+    <string name="exit">"D'acord"</string>
+    <string name="button_update">"Actualització "</string>
+
+    <string name="prompt_text1">Haureu de seguir alguns passos clau perquè aquesta actualització s’instal·li correctament. 
+	    Llegiu i preneu nota dels passos següents.</string>
+    <string name="prompt_text2">Mantingueu premudes les tecles "Augmentar el volum" i "Encendre" alhora ...</string>
+    <string name="prompt_text3">Mantingueu premudes les dues tecles durant 3 segons i, a continuació, deixeu anar només la tecla "Augment de volum".</string>
+    <string name="prompt_text4">Quan vegeu les opcions del menú, deixeu anar la tecla "Encendre".</string>
+    <string name="prompt_text5">Utilitzeu la tecla "Augmentar / baixar el volum" per ressaltar "Apply update from SD card" i premeu la tecla "Encendre".</string>
+    <string name="prompt_text6">"Quan l'actualització tingui èxit, a la part inferior de la pantalla veureu
+	    "Install from SD card completed with status 0"."</string>
+    <string name="prompt_text7">Premeu la tecla "Pujar / Baixar volum" per ressaltar "Reboot system now".
+        Un cop ressaltat, premeu breument la tecla "Encendre" (el dispositiu es reiniciarà automàticament).
+        Tingueu en compte que el dispositiu pot trigar uns quants minuts a reiniciar-se.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Després de reiniciar el telèfon, si voleu,
+        podeu consultar la versió del programari a Configuració> Quant al telèfon> Número de compilació.
+        Una actualització correcta es mostrarà com a 
+            “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Actualització de programari Nokia 3.1 Plus\nAndroid 10\n</string>
+
+    <string name="guild_line_text">Aquesta actualització de programari només és per a usuaris de Nokia 3.1 Plus amb versions de programari:
+             \n\n
+            00WW_3_15H \n
+            00WW_3_15H_SP01
+             \n\n
+        Per comprovar la construcció del dispositiu, aneu a "Configuració"> "Quant al telèfon"
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola fragment en blanc</string>
+    <string name="checkbox_tv">"He llegit i he entès les instruccions i estic preparat per rebre l'actualització del programari Android 3.1 de Nokia 3.1 Plus."</string>
+    <string name="important_notice">Noticia important</string>
+    <string name="check_title">Fem les darreres comprovacions per assegurar-nos que el dispositiu estigui llest ...</string>
+    <string name="new_version">El vostre telèfon ja està actualitzat.</string>
+    <string name="back">esquena</string>
+    <string name="next">Pròxim</string>
+    <string name="sdcard">"S'ha inserit la targeta SD"</string>
+    <string name="sd_space">Com a mínim 300 MB d’espai lliure a la targeta SD.</string>
+    <string name="power">Més del 30% de la potència</string>
+    <string name="check_for_updates">Buscar actualitzacions</string>
+    <string name="new_version_desc">Si us plau, premeu D’acord per sortir.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[Un cop comenceu l’actualització, aquests passos <br> no es mostraran al dispositiu.
+        <br><br>
+Us recomanem que:
+<br><br>
+Obriu això <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>enllaç(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> al vostre ordinador o dispositiu secundari (si en teniu) i </r> imprimiu o copieu les instruccions.
+<br><br>
+Les vostres dades d’usuari no es perdran després de l’actualització del programari, però, per precaució,
+us recomanem que feu una còpia de seguretat de les dades d’usuari abans d’instal·lar-la.
+<br><br>
+
+Quan estigueu d’acord per continuar, premeu Actualitza
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Un cop hàgiu iniciat l’actualització, aquests passos no es mostraran al dispositiu.
+        <br><br>
+Us recomanem que:
+<br><br>
+Obriu això <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>enllaç(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> al vostre ordinador o dispositiu secundari (si en teniu) i </r> imprimiu o copieu les instruccions.
+<br><br>
+Les vostres dades d’usuari no es perdran després de l’actualització del programari,
+no obstant això, per precaució, es recomana als usuaris fer una còpia de seguretat de les dades dels usuaris abans d’instal·lar l’actualització.
+<br><br>
+
+Quan estigueu d’acord per continuar, premeu Següent
+                ]]>
+        </Data>
+    </string>
+<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

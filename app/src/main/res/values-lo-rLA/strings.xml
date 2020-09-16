@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus ປັບປຸງຊອບແວ Android 10</string>
+    <string name="button_next">"ຕໍ່ໄປ"</string>
+    <string name="exit">"ຕົກ​ລົງ"</string>
+    <string name="button_update">"ປັບປຸງໃຫ້ທັນ"</string>
+
+    <string name="prompt_text1">ທ່ານ ຈຳ ເປັນຕ້ອງປະຕິບັດຕາມບາງບາດກ້າວທີ່ ສຳ ຄັນເພື່ອໃຫ້ການຕິດຕັ້ງນີ້ປະສົບຜົນ ສຳ ເລັດ,
+	    ກະລຸນາອ່ານແລະບັນທຶກຂອງຂັ້ນຕອນຕໍ່ໄປນີ້.</string>
+    <string name="prompt_text2">ກົດແລະຖືທັງປຸ່ມ “ປະລິມານຂື້ນ” ແລະປຸ່ມ “ພະລັງງານ ພ້ອມກັນ” ...</string>
+    <string name="prompt_text3">ກົດປຸ່ມທັງສອງຄັ້ງຕໍ່ 3 ວິນາທີແລະຈາກນັ້ນປ່ອຍປຸ່ມ “ປະລິມານຂື້ນ” ເທົ່ານັ້ນ.</string>
+    <string name="prompt_text4">ເມື່ອທ່ານເຫັນຕົວເລືອກເມນູ, ປ່ອຍປຸ່ມ "ພະລັງງານ". </string>
+    <string name="prompt_text5">ໃຊ້ປຸ່ມ “ປະລິມານຂື້ນ / ລົງ” ເພື່ອເນັ້ນປຸ່ມ “Apply update from SD card”, ແລະກົດປຸ່ມ “ພະລັງງານ”.</string>
+    <string name="prompt_text6">ຫຼັງຈາກການອັບເດດໄດ້ປະສົບຜົນ ສຳ ເລັດ, ຢູ່ເບື້ອງລຸ່ມຂອງ ໜ້າ ຈໍທ່ານຈະເຫັນ 
+        “Install from SD card completed with status 0”.</string>
+    <string name="prompt_text7">ກົດປຸ່ມ “ປະລິມານຂື້ນ / ລົງ” ເພື່ອເນັ້ນ “Reboot system now”.
+	    ເມື່ອຖືກຍົກໃຫ້ເຫັນແລ້ວ, ໃຫ້ກົດປຸ່ມ “ພະລັງງານ” ໂດຍຫຍໍ້ (ຕອນນີ້ອຸປະກອນຈະເປີດ ໃໝ່ ໂດຍອັດຕະໂນມັດ). 
+		ກະລຸນາສັງເກດ: ອຸປະກອນດັ່ງກ່າວອາດໃຊ້ເວລາຫຼາຍນາທີເພື່ອເລີ່ມຕົ້ນ ໃໝ່.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[ຫຼັງຈາກໂທລະສັບຂອງທ່ານໄດ້ເລີ່ມຕົ້ນ ໃໝ່ ແລ້ວ,
+        ຖ້າທ່ານຕ້ອງການ, ທ່ານສາມາດກວດເບິ່ງເວີຊັນຊອບແວຈາກການຕັ້ງຄ່າ > ກ່ຽວກັບໂທລະສັບ > ເລກສ້າງ.
+        ການປັບປຸງທີ່ປະສົບຜົນ ສຳ ເລັດຈະສະແດງເປັນ
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nປັບປຸງຊອບແວ Android 10\n</string>
+
+    <string name="guild_line_text">ການປັບປຸງຊອບແວນີ້ແມ່ນ ສຳ ລັບຜູ້ໃຊ້ Nokia 3.1 Plus ເທົ່ານັ້ນກັບການສ້າງໂປແກຼມ:
+             \n\n
+            00WW_3_15H \n
+            00WW_3_15H_SP01
+             \n\n
+            ເພື່ອກວດສອບການສ້າງອຸປະກອນ, ເຂົ້າໄປທີ່ "ຕັ້ງຄ່າ" > "ກ່ຽວກັບໂທລະສັບ"
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">ສະບາຍດີຊິ້ນສ່ວນເປົ່າ</string>
+    <string name="checkbox_tv">ຂ້ອຍໄດ້ອ່ານແລະເຂົ້າໃຈ ຄຳ ແນະ ນຳ ແລ້ວແລະພ້ອມທີ່ຈະໄດ້ຮັບ Nokia 3.1 Plus ປັບປຸງຊອບແວ Android 10</string>
+    <string name="important_notice">ແຈ້ງການ ສຳ ຄັນ</string>
+    <string name="check_title">ລອງກວດສອບຄັ້ງສຸດທ້າຍເພື່ອຮັບປະກັນວ່າອຸປະກອນຂອງທ່ານພ້ອມແລ້ວ ...</string>
+    <string name="new_version">ໂທລະສັບຂອງທ່ານອັບເດດແລ້ວ.</string>
+    <string name="back">ກັບໄປ</string>
+    <string name="next">ຕໍ່ໄປ</string>
+    <string name="sdcard">ໃສ່ SD card</string>
+    <string name="sd_space">ຢ່າງ ໜ້ອຍ ພື້ນທີ່ຫວ່າງ 300MB ໃນບັດ SD.</string>
+    <string name="power">ຫຼາຍກ່ວາ 30% ຂອງພະລັງງານ.</string>
+    <string name="check_for_updates">ກວດເບິ່ງການປັບປຸງ</string>
+    <string name="new_version_desc">ກະລຸນາກົດປຸ່ມ OK ເພື່ອອອກຈາກການ.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[ເມື່ອທ່ານເລີ່ມຕົ້ນການອັບເດດ, ຂັ້ນຕອນເຫຼົ່ານີ້ <br> ຈະບໍ່ຖືກສະແດງຢູ່ໃນອຸປະກອນຂອງທ່ານ.
+        <br><br>
+ພວກເຮົາແນະ ນຳ ໃຫ້ທ່ານທັງ:
+<br><br>
+ເປີດ <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> ຢູ່ໃນຄອມພິວເຕີຫລືອຸປະກອນ ສຳ ຮອງຂອງທ່ານ (ຖ້າທ່ານມີ) ແລະ </r> ທັງພິມອອກ/ສຳ ເນົາ ຄຳ ແນະ ນຳ.
+<br><br>
+ຂໍ້ມູນຜູ້ໃຊ້ຂອງທ່ານຈະບໍ່ສູນເສຍຫຼັງຈາກການປັບປຸງຊອບແວ, ເຖິງຢ່າງໃດກໍ່ຕາມຂໍ້ຄວນລະວັງ,
+ພວກເຮົາແນະ ນຳ ໃຫ້ຜູ້ໃຊ້ ດຳ ເນີນການ ສຳ ຮອງຂໍ້ມູນຜູ້ໃຊ້ກ່ອນຕິດຕັ້ງອັບເດດ.
+<br><br>
+
+ເມື່ອຖືກຕ້ອງແລ້ວຕໍ່ໄປ, ກົດ ປັບປຸງໃຫ້ທັນ
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[ເມື່ອທ່ານເລີ່ມຕົ້ນການອັບເດດ, ຂັ້ນຕອນເຫຼົ່ານີ້ຈະບໍ່ຖືກສະແດງຢູ່ໃນອຸປະກອນຂອງທ່ານ.
+        <br><br>
+ພວກເຮົາແນະ ນຳ ໃຫ້ທ່ານທັງ:
+<br><br>
+ເປີດ <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> ຢູ່ໃນຄອມພິວເຕີຫລືອຸປະກອນ ສຳ ຮອງຂອງທ່ານ (ຖ້າທ່ານມີ) ແລະ </r> ທັງພິມອອກ/ສຳ ເນົາ ຄຳ ແນະ ນຳ.
+<br><br>
+ຂໍ້ມູນຜູ້ໃຊ້ຂອງທ່ານຈະບໍ່ສູນເສຍຫຼັງຈາກການປັບປຸງຊອບແວ, ເຖິງຢ່າງໃດກໍ່ຕາມຂໍ້ຄວນລະວັງ,
+ພວກເຮົາແນະ ນຳ ໃຫ້ຜູ້ໃຊ້ ດຳ ເນີນການ ສຳ ຮອງຂໍ້ມູນຜູ້ໃຊ້ກ່ອນຕິດຕັ້ງອັບເດດ.
+<br><br>
+
+ເມື່ອເຫັນດີທີ່ຈະສືບຕໍ່, ກົດ ຕໍ່ໄປ
+                ]]>
+        </Data>
+    </string>
+<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

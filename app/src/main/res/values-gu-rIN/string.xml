@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 સ Softwareફ્ટવેર અપડેટ</string>
+    <string name="button_next">"આગળ"</string>
+    <string name="exit">"બરાબર"</string>
+    <string name="button_update">"અપડેટ"</string>
+
+    <string name="prompt_text1">આ અપડેટને સફળતાપૂર્વક ઇન્સ્ટોલ કરવા માટે તમારે કેટલાક કી પગલાંને અનુસરવાની જરૂર રહેશે,
+        કૃપા કરીને નીચેના પગલાં વાંચો અને નોંધ લો.</string>
+    <string name="prompt_text2">તે જ સમયે "વોલ્યુમ અપ" અને ".ર્જા" કીઓ દબાવો અને હોલ્ડ કરો ...</string>
+    <string name="prompt_text3">બંને કીઓને 3 સેકંડ સુધી દબાવો અને પછી ફક્ત "વોલ્યુમ અપ" કી પ્રકાશિત કરો.</string>
+    <string name="prompt_text4">એકવાર તમે મેનૂ વિકલ્પો જોશો, પછી ".ર્જા" કી છોડો. </string>
+    <string name="prompt_text5">“Apply update from SD card” ને હાઇલાઇટ કરવા માટે “વોલ્યુમ અપ / ડાઉન” કીનો ઉપયોગ કરો, અને “.ર્જા” કી દબાવો. </string>
+    <string name="prompt_text6">અપડેટ સફળ થયા પછી, સ્ક્રીનના તળિયે તમે જોશો
+        "Install from SD card completed with status 0".</string>
+    <string name="prompt_text7">“Reboot system now” ને પ્રકાશિત કરવા માટે “વોલ્યુમ અપ / ડાઉન” કી દબાવો.
+                    એકવાર પ્રકાશિત થઈ ગયા પછી, ટૂંકમાં ".ર્જા" કી દબાવો (ઉપકરણ હવે આપમેળે રીબૂટ થશે).
+                    મહેરબાની કરીને નોંધ કરો: ડિવાઇસને ફરીથી પ્રારંભ કરવામાં કેટલાક મિનિટ લાગી શકે છે.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[તમારો ફોન ફરીથી ચાલુ થયા પછી,
+                    જો તમે ઈચ્છો છો, તો તમે સેટિંગ્સ> ફોન વિશે> બિલ્ડ નંબરમાંથી સ Softwareફ્ટવેર સંસ્કરણ ચકાસી શકો છો.
+                    એક સફળ અપડેટ બતાવશે
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+        </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus Android 10 સ Softwareફ્ટવેર અપડેટ </string>
+
+    <string name="guild_line_text">આ સ softwareફ્ટવેર અપડેટ ફક્ત સ Nokiaફ્ટવેર બિલ્ડ્સ Nokia 3.1 Plus ના વપરાશકર્તાઓ માટે છે:
+        \n\n
+        00WW_3_15H \n
+        00WW_3_15H_SP01
+        \n\n
+        ડિવાઇસ બિલ્ડ તપાસો, "સેટિંગ્સ"> "ફોન વિશે"
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">હેલો કોરો ટુકડો</string>
+    <string name="checkbox_tv">મેં સૂચનાઓ વાંચી અને સમજી લીધી છે અને પ્રાપ્ત કરવા માટે તૈયાર છું Nokia 3.1 Plus Android 10 સ Softwareફ્ટવેર અપડેટ.</string>
+    <string name="important_notice">મહત્વપૂર્ણ સૂચના</string>
+    <string name="check_title">ચાલો તમારું ઉપકરણ તૈયાર છે તેની ખાતરી કરવા માટે અંતિમ તપાસો…</string>
+    <string name="new_version">તમારો ફોન પહેલેથી જ અદ્યતન છે. </string>
+    <string name="back">પાછળ</string>
+    <string name="next">આગળ</string>
+    <string name="sdcard">SD કાર્ડ શામેલ કર્યું છે</string>
+    <string name="sd_space">એસડી કાર્ડ પર ઓછામાં ઓછી 300MB ખાલી જગ્યા.</string>
+    <string name="power">30% થી વધુ શક્તિ. </string>
+    <string name="check_for_updates">અપડેટ માટે ચકાસો</string>
+    <string name="new_version_desc">બહાર નીકળવા માટે કૃપા કરીને બરાબર દબાવો.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[એકવાર તમે અપડેટ શરૂ કરો, પછી આ પગલાં <br> તમારા ઉપકરણ પર બતાવવામાં આવશે નહીં.
+        <br><br>
+અમે તમને ભલામણ કરીએ છીએ:
+<br><br>
+તમારા કમ્પ્યુટર અથવા ગૌણ ઉપકરણ પર આ <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>લિંક </u></a></font> ખોલો (જો તમારી પાસે હોય તો) અને  </r> ક્યાં સૂચનાઓ છાપો/ક/પિ કરો.
+<br><br>
+તમારો વપરાશકર્તા ડેટા સ theફ્ટવેર અપડેટ પછી ખોવાશે નહીં, જોકે સાવચેતી તરીકે,
+અમે વપરાશકર્તાઓને અપડેટ ઇન્સ્ટોલ કરતા પહેલા વપરાશકર્તા ડેટાનો બેક અપ લેવાની ભલામણ કરી છે.
+<br><br>
+
+ચાલુ રાખવા માટે એકવાર ઠીક, અપડેટ દબાવો
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[એકવાર તમે અપડેટ શરૂ કરો, પછી આ પગલાં તમારા ઉપકરણ પર બતાવવામાં આવશે નહીં.
+        <br><br>
+અમે તમને ભલામણ કરીએ છીએ:
+<br><br>
+તમારા કમ્પ્યુટર અથવા ગૌણ ઉપકરણ પર આ <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>લિંક </u></a></font> ખોલો (જો તમારી પાસે હોય તો) અને </r> ક્યાં સૂચનાઓ છાપો/ક/પિ કરો.
+<br><br>
+તમારો વપરાશકર્તા ડેટા સ theફ્ટવેર અપડેટ પછી ખોવાશે નહીં, જોકે સાવચેતી તરીકે,
+અમે વપરાશકર્તાઓને અપડેટ ઇન્સ્ટોલ કરતા પહેલા વપરાશકર્તા ડેટાનો બેક અપ લેવાની ભલામણ કરી છે.
+<br><br>
+
+ચાલુ રાખવા માટે એકવાર ઠીક, આગળ દબાવો
+                ]]>
+        </Data>
+    </string>
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

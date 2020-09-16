@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Kemas kini Perisian Nokia 3.1 Plus Android 10</string>
+    <string name="button_next">"Seterusnya"</string>
+    <string name="exit">"Okey"</string>
+    <string name="button_update">"Kemas kini"</string>
+
+    <string name="prompt_text1">Anda perlu mengikuti beberapa langkah utama agar kemas kini ini berjaya dipasang,
+	    sila baca dan perhatikan langkah-langkah berikut.</string>
+    <string name="prompt_text2">Tekan dan tahan kedua-dua kekunci "Naikkan Volume" dan "Kuasa" pada masa yang sama ...</string>
+    <string name="prompt_text3">Terus tekan kedua-dua kekunci selama 3 saat dan lepaskan hanya Kekunci "Naikkan Kelantangan".</string>
+    <string name="prompt_text4">Setelah anda melihat pilihan menu, lepaskan kekunci "Kuasa".</string>
+    <string name="prompt_text5">Gunakan tombol "Naikkan / Turunkan Volume" untuk menyorot "Apply update from SD card", dan tekan kekunci "Kuasa".</string>
+    <string name="prompt_text6">Setelah kemas kini berjaya, di bahagian bawah skrin anda akan melihat 
+        "Install from SD card completed with status 0".</string>
+    <string name="prompt_text7">Tekan kekunci "Naikkan / Turunkan Volume" untuk menyorot "Reboot system now".
+	    Setelah disorot, tekan sebentar kekunci "Kuasa" (peranti kini akan but semula secara automatik). 
+		Harap maklum: Peranti mungkin memerlukan beberapa minit untuk dimulakan semula.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Selepas telefon anda dimulakan semula,
+        jika anda mahu, anda boleh menyemak versi Perisian dari Tetapan> Perihal Telefon> Nombor binaan.
+        Kemas kini yang berjaya akan ditunjukkan sebagai 
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Kemas kini Perisian Nokia 3.1 Plus\nAndroid 10\n</string>
+
+    <string name="guild_line_text">Kemas kini perisian ini hanya untuk pengguna Nokia 3.1 Plus dengan pembuatan perisian:
+             \n\n
+            00WW_3_15H \n
+            00WW_3_15H_SP01
+             \n\n
+            Untuk memeriksa pembuatan perangkat, buka "Pengaturan"> "Tentang Telepon"
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello serpihan kosong</string>
+    <string name="checkbox_tv">Saya telah membaca dan memahami arahannya dan bersedia untuk menerima kemas kini Perisian Android 3.1 Plus Android 10.</string>
+    <string name="important_notice">Notis penting</string>
+    <string name="check_title">Mari buat pemeriksaan akhir untuk memastikan peranti anda siap…</string>
+    <string name="new_version">Telefon anda sudah dikemas kini. </string>
+    <string name="back">Belakang</string>
+    <string name="next">Seterusnya</string>
+    <string name="sdcard">Kad SD dimasukkan</string>
+    <string name="sd_space">Sekurang-kurangnya 300MB ruang kosong pada kad SD.</string>
+    <string name="power">Lebih daripada 30% kuasa.</string>
+    <string name="check_for_updates">Menyemak kemas kini</string>
+    <string name="new_version_desc">Sila tekan OK untuk keluar.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[Setelah anda memulakan kemas kini, langkah-langkah ini <br> tidak akan ditunjukkan pada peranti anda.
+        <br><br>
+Kami mengesyorkan anda:
+<br><br>
+Buka ini<font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>pautan(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> pada komputer atau peranti sekunder anda (jika ada) dan </r> mencetak/menyalin arahannya.
+<br><br>
+Data pengguna anda tidak akan hilang setelah kemas kini perisian, namun sebagai langkah berjaga-jaga,
+kami mengesyorkan pengguna melakukan cadangan data pengguna sebelum memasang kemas kini.
+<br><br>
+
+Setelah OK untuk meneruskan, tekan Kemas kini
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Setelah anda memulakan kemas kini, langkah-langkah ini tidak akan ditunjukkan pada peranti anda.
+        <br><br>
+Kami mengesyorkan anda:
+<br><br>
+Buka ini<font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>pautan(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> pada komputer atau peranti sekunder anda (jika ada) dan </r> mencetak/menyalin arahannya.
+<br><br>
+Data pengguna anda tidak akan hilang setelah kemas kini perisian, namun sebagai langkah berjaga-jaga,
+kami mengesyorkan pengguna melakukan cadangan data pengguna sebelum memasang kemas kini.
+<br><br>
+
+Setelah OK untuk meneruskan, tekan Seterusnya
+                ]]>
+        </Data>
+    </string>
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

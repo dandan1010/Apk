@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 सफ्टवेयर अपडेट</string>
+    <string name="button_next">"अर्को"</string>
+    <string name="exit">"ठिक छ"</string>
+    <string name="button_update">"अद्यावधिक गर्नुहोस्"</string>
+
+    <string name="prompt_text1">यस अपडेटलाई सफलतापूर्वक स्थापना गर्नको लागि तपाईंले केहि मुख्य चरणहरूको अनुसरण गर्न आवश्यक पर्दछ, 
+	          कृपया पढ्नुहोस् र निम्न चरणहरूको नोट लिनुहोस्।</string>
+    <string name="prompt_text2">एकै समयमा दुबै "भोल्यूम अप" र "पावर" कुञ्जीहरू थिच्नुहोस् र समाउनुहोस् ...</string>
+    <string name="prompt_text3">Seconds सेकेन्डका लागि दुबै कुञ्जीहरू थिच्नुहोस् र त्यसपछि मात्र "भोल्युम अप" कुञ्जी छोड्नुहोस्।</string>
+    <string name="prompt_text4">एकचोटि तपाईले मेनु विकल्पहरू देख्नु भए पछि, "पावर" कुञ्जी छोड्नुहोस्।</string>
+    <string name="prompt_text5">"Apply update from SD card" लाई हाइलाइट गर्न "भोल्यूम अप / डाउन" कुञ्जी प्रयोग गर्नुहोस्, र "पावर" कुञ्जी थिच्नुहोस्।</string>
+    <string name="prompt_text6">अपडेट सफल भएपछि, तपाईं देख्नुहुनेछ स्क्रीनको तल 
+        "Install from SD card completed with status 0"।</string>
+    <string name="prompt_text7">"भोल्युम अप / डाउन" कुञ्जी थिच्नुहोस् "Reboot system now" हाइलाइट गर्न। 
+	          एकचोटि हाइलाइट भएपछि, छोटकरीमा "पावर" कुञ्जी थिच्नुहोस् (उपकरण अब स्वचालित रूपमा रिबुट हुनेछ)।
+		कृपया नोट गर्नुहोस्: उपकरण पुनः सुरु गर्न केहि मिनेट लिन सक्दछ।</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[तपाईंको फोन पुनः सुरु गरेपछि,
+                    यदि तपाइँ चाहनुहुन्छ भने, तपाइँ सफ्टवेयर संस्करण सेटि Settingsहरू> फोनको बारेमा> बिल्ड नम्बरबाट जाँच गर्न सक्नुहुनेछ।
+                    एक सफल अद्यावधिक रूपमा देखाइनेछ 
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nसफ्टवेयर अपडेट </string>
+
+    <string name="guild_line_text">यो सफ्टवेयर अपडेट प्रयोगकर्ताहरूका लागि मात्र हो Nokia 3.1 Plus सफ्टवेयर निर्माणको साथ:
+             \n\n
+            00WW_3_15H \n
+            00WW_3_15H_SP01
+             \n\n
+                               उपकरण निर्माण जाँच गर्न, "सेटि Aboutहरू"> "फोनको बारेमा" मा जानुहोस्
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">नमस्ते खाली खण्ड</string>
+    <string name="checkbox_tv">मैले निर्देशनहरू पढेको छु र बुझेको छु र नोकिया 1.१ प्लस एन्ड्रोइड १० सफ्टवेयर अपडेट प्राप्त गर्न तयार छु।</string>
+    <string name="important_notice">महत्वपूर्ण सूचना</string>
+    <string name="check_title">तपाईंको उपकरण तयार छ भनेर सुनिश्चित गर्न अन्तिम जाँचहरू गरौं…</string>
+    <string name="new_version">तपाईंको फोन पहिले नै अप-टु-डेट छ। </string>
+    <string name="back">पछाडि</string>
+    <string name="next">अर्को</string>
+    <string name="sdcard">एसडी कार्ड सम्मिलित गरियो</string>
+    <string name="sd_space">कम्तिमा SD कार्डमा 300MB खाली ठाउँ।</string>
+    <string name="power">30०% भन्दा बढि पावर।</string>
+    <string name="check_for_updates">अद्यावधिकहरूको लागि जाँच गर्नुहोस्</string>
+    <string name="new_version_desc">कृपया बाहिर निस्कन ठीक थिच्नुहोस्।</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[एकचोटि तपाईंले अपडेट सुरू गर्नुभयो भने, यी चरणहरू <br> तपाईंको उपकरणमा देखाइने छैन।
+        <br><br>
+हामी तपाईंलाई सिफारिस गर्दछौं कि:
+<br><br>
+यसलाई खोल्नुहोस् <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>लिंक (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> तपाईंको कम्प्युटर वा माध्यमिक उपकरणमा (यदि तपाईंसँग एक छ) र </r> या त प्रिन्ट अफ / निर्देशहरु लाई नक्कल गर्नुहोस्।
+<br><br>
+तपाईंको प्रयोगकर्ता डाटा सफ्टवेयर अपडेट पछि हराउने छैन, जबकि सावधानीको रूपमा, 
+ हामीले प्रयोगकर्ताहरूलाई अपडेट स्थापना गर्नु अघि प्रयोगकर्ता डाटाको ब्याक अप गर्न सिफारिस गरेका छौं।
+<br><br>
+
+जारी गर्न एक पटक ठीक छ, अपडेट थिच्नुहोस्
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[एकचोटि तपाईंले अपडेट सुरू गर्नुभयो भने, यी चरणहरू तपाईंको उपकरणमा देखाइने छैन।
+        <br><br>
+हामी तपाईंलाई सिफारिस गर्दछौं कि:
+<br><br>
+यसलाई खोल्नुहोस्<font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>लिंक (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> तपाईंको कम्प्युटर वा माध्यमिक उपकरणमा (यदि तपाईंसँग एक छ) र </r> या त प्रिन्ट अफ / निर्देशहरु लाई नक्कल गर्नुहोस्।
+<br><br>
+तपाईंको प्रयोगकर्ता डाटा सफ्टवेयर अपडेट पछि हराउने छैन, 
+यद्यपि सावधानीको रूपमा, हामीले प्रयोगकर्ताहरूलाई अद्यावधिक स्थापना गर्नु अघि प्रयोगकर्ता डाटाको ब्याक अप गर्न सिफारिस गरेका छौं।
+<br><br>
+
+जारी गर्न एक पटक ठीक छ, अर्को थिच्नुहोस्
+                ]]>
+        </Data>
+    </string>
+<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

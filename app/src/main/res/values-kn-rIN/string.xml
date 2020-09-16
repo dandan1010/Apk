@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 ಸಾಫ್ಟ್‌ವೇರ್ ನವೀಕರಣ</string>
+    <string name="button_next">"ಮುಂದೆ"</string>
+    <string name="exit">"ಸರಿ"</string>
+    <string name="button_update">"ನವೀಕರಿಸಿ"</string>
+
+    <string name="prompt_text1">ಈ ನವೀಕರಣವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಸ್ಥಾಪಿಸಲು ನೀವು ಕೆಲವು ಪ್ರಮುಖ ಹಂತಗಳನ್ನು ಅನುಸರಿಸಬೇಕಾಗುತ್ತದೆ,
+                    ದಯವಿಟ್ಟು ಈ ಕೆಳಗಿನ ಹಂತಗಳನ್ನು ಓದಿ ಮತ್ತು ಗಮನಿಸಿ.</string>
+    <string name="prompt_text2">ಒಂದೇ ಸಮಯದಲ್ಲಿ “ವಾಲ್ಯೂಮ್ ಅಪ್” ಮತ್ತು “ಪವರ್” ಕೀಗಳನ್ನು ಒತ್ತಿ ಮತ್ತು ಹಿಡಿದುಕೊಳ್ಳಿ…</string>
+    <string name="prompt_text3">ಎರಡೂ ಕೀಲಿಗಳನ್ನು 3 ಸೆಕೆಂಡುಗಳ ಕಾಲ ಒತ್ತಿರಿ ಮತ್ತು ನಂತರ “ವಾಲ್ಯೂಮ್ ಅಪ್” ಕೀಲಿಯನ್ನು ಮಾತ್ರ ಬಿಡುಗಡೆ ಮಾಡಿ.</string>
+    <string name="prompt_text4">ನೀವು ಮೆನು ಆಯ್ಕೆಗಳನ್ನು ನೋಡಿದ ನಂತರ, “ಪವರ್” ಕೀಲಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿ. </string>
+    <string name="prompt_text5">“Apply update from SD card” ಹೈಲೈಟ್ ಮಾಡಲು “ವಾಲ್ಯೂಮ್ ಅಪ್/ಡೌನ್” ಕೀಲಿಯನ್ನು ಬಳಸಿ, ಮತ್ತು “ಪವರ್” ಕೀಲಿಯನ್ನು ಒತ್ತಿ.</string>
+    <string name="prompt_text6">ನವೀಕರಣ ಯಶಸ್ವಿಯಾದ ನಂತರ, ಪರದೆಯ ಕೆಳಭಾಗದಲ್ಲಿ ನೀವು ನೋಡುತ್ತೀರಿ
+        “Install from SD card completed with status 0”.</string>
+    <string name="prompt_text7">ಹೈಲೈಟ್ ಮಾಡಲು “ವಾಲ್ಯೂಮ್ ಅಪ್ / ಡೌನ್” ಕೀಲಿಯನ್ನು ಒತ್ತಿ “Reboot system now”.
+                    ಹೈಲೈಟ್ ಮಾಡಿದ ನಂತರ, “ಪವರ್” ಕೀಲಿಯನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಒತ್ತಿರಿ (ಸಾಧನವು ಈಗ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ರೀಬೂಟ್ ಆಗುತ್ತದೆ).
+                    ದಯವಿಟ್ಟು ಗಮನಿಸಿ: ಸಾಧನವು ಮರುಪ್ರಾರಂಭಿಸಲು ಹಲವಾರು ನಿಮಿಷಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಬಹುದು.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[ನಿಮ್ಮ ಫೋನ್ ಮರುಪ್ರಾರಂಭಿಸಿದ ನಂತರ,
+         ನೀವು ಬಯಸಿದರೆ, ನೀವು ಸೆಟ್ಟಿಂಗ್‌ಗಳು> ಫೋನ್ ಬಗ್ಗೆ> ಬಿಲ್ಡ್ ಸಂಖ್ಯೆಯಿಂದ ಸಾಫ್ಟ್‌ವೇರ್ ಆವೃತ್ತಿಯನ್ನು ಪರಿಶೀಲಿಸಬಹುದು.
+         ಯಶಸ್ವಿ ನವೀಕರಣವು ಹೀಗೆ ತೋರಿಸುತ್ತದೆ
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nಸಾಫ್ಟ್‌ವೇರ್ ನವೀಕರಣ </string>
+
+    <string name="guild_line_text">ಈ ಸಾಫ್ಟ್‌ವೇರ್ ನವೀಕರಣವು ಸಾಫ್ಟ್‌ವೇರ್ ನಿರ್ಮಾಣಗಳೊಂದಿಗೆ Nokia 3.1 Plus ಬಳಕೆದಾರರಿಗೆ ಮಾತ್ರ:
+             \n\n
+            00WW_3_15H \n
+            00WW_3_15H_SP01
+             \n\n
+            ಸಾಧನದ ನಿರ್ಮಾಣವನ್ನು ಪರಿಶೀಲಿಸಲು, “ಸೆಟ್ಟಿಂಗ್‌ಗಳು”> “ಫೋನ್ ಕುರಿತು” ಗೆ ಹೋಗಿ
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">ಹಲೋ ಖಾಲಿ ತುಣುಕು</string>
+    <string name="checkbox_tv">ನಾನು ಸೂಚನೆಗಳನ್ನು ಓದಿದ್ದೇನೆ ಮತ್ತು ಅರ್ಥಮಾಡಿಕೊಂಡಿದ್ದೇನೆ ಮತ್ತು ಸ್ವೀಕರಿಸಲು ಸಿದ್ಧವಾಗಿದೆ Nokia 3.1 Plus Android 10 ಸಾಫ್ಟ್‌ವೇರ್ ನವೀಕರಣ.</string>
+    <string name="important_notice">ಪ್ರಮುಖ ಸೂಚನೆ</string>
+    <string name="check_title">ನಿಮ್ಮ ಸಾಧನ ಸಿದ್ಧವಾಗಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಅಂತಿಮ ಪರಿಶೀಲನೆ ಮಾಡೋಣ…</string>
+    <string name="new_version">ನಿಮ್ಮ ಫೋನ್ ಈಗಾಗಲೇ ನವೀಕೃತವಾಗಿದೆ. </string>
+    <string name="back">ಹಿಂದೆ</string>
+    <string name="next">ಮುಂದೆ</string>
+    <string name="sdcard">ಎಸ್‌ಡಿ ಕಾರ್ಡ್ ಸೇರಿಸಲಾಗಿದೆ</string>
+    <string name="sd_space">ಎಸ್‌ಡಿ ಕಾರ್ಡ್‌ನಲ್ಲಿ ಕನಿಷ್ಠ 300MB ಉಚಿತ ಸ್ಥಳ.</string>
+    <string name="power">30% ಕ್ಕಿಂತ ಹೆಚ್ಚು ಶಕ್ತಿ.</string>
+    <string name="check_for_updates">ನವೀಕರಣಗಳಿಗಾಗಿ ಪರಿಶೀಲಿಸಿ</string>
+    <string name="new_version_desc">ನಿರ್ಗಮಿಸಲು ದಯವಿಟ್ಟು ಒತ್ತಿರಿ.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[ನೀವು ನವೀಕರಣವನ್ನು ಪ್ರಾರಂಭಿಸಿದ ನಂತರ, ಈ ಹಂತಗಳನ್ನು <br> ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ತೋರಿಸಲಾಗುವುದಿಲ್ಲ.
+        <br><br>
+ನಾವು ನಿಮಗೆ ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ:
+<br><br>
+ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್ ಅಥವಾ ದ್ವಿತೀಯಕ ಸಾಧನದಲ್ಲಿ ಈ <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>ಲಿಂಕ್ (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> ಅನ್ನು ತೆರೆಯಿರಿ (ನೀವು ಒಂದನ್ನು ಹೊಂದಿದ್ದರೆ) ಮತ್ತು </r> ಸೂಚನೆಗಳನ್ನು ಮುದ್ರಿಸಿ/ನಕಲಿಸಿ.
+<br><br>
+ಸಾಫ್ಟ್‌ವೇರ್ ನವೀಕರಣದ ನಂತರ ನಿಮ್ಮ ಬಳಕೆದಾರ ಡೇಟಾವನ್ನು ಕಳೆದುಕೊಳ್ಳುವುದಿಲ್ಲ, ಆದರೆ ಮುನ್ನೆಚ್ಚರಿಕೆಯಂತೆ,
+ನವೀಕರಣವನ್ನು ಸ್ಥಾಪಿಸುವ ಮೊದಲು ಬಳಕೆದಾರರು ಬಳಕೆದಾರರ ಡೇಟಾದ ಬ್ಯಾಕಪ್ ಮಾಡಲು ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ.
+<br><br>
+
+ಮುಂದುವರೆಯಲು ಒಮ್ಮೆ ಸರಿ, ನವೀಕರಣ ಒತ್ತಿರಿ
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[ನೀವು ನವೀಕರಣವನ್ನು ಪ್ರಾರಂಭಿಸಿದ ನಂತರ, ಈ ಹಂತಗಳನ್ನು ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ತೋರಿಸಲಾಗುವುದಿಲ್ಲ.
+        <br><br>
+ನಾವು ನಿಮಗೆ ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ:
+<br><br>
+ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್ ಅಥವಾ ದ್ವಿತೀಯಕ ಸಾಧನದಲ್ಲಿ ಈ <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>ಲಿಂಕ್ (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> ಅನ್ನು ತೆರೆಯಿರಿ (ನೀವು ಒಂದನ್ನು ಹೊಂದಿದ್ದರೆ) ಮತ್ತು </r> ಸೂಚನೆಗಳನ್ನು ಮುದ್ರಿಸಿ/ನಕಲಿಸಿ.
+<br><br>
+ಸಾಫ್ಟ್‌ವೇರ್ ನವೀಕರಣದ ನಂತರ ನಿಮ್ಮ ಬಳಕೆದಾರ ಡೇಟಾವನ್ನು ಕಳೆದುಕೊಳ್ಳುವುದಿಲ್ಲ, ಆದರೆ ಮುನ್ನೆಚ್ಚರಿಕೆಯಂತೆ,
+ನವೀಕರಣವನ್ನು ಸ್ಥಾಪಿಸುವ ಮೊದಲು ಬಳಕೆದಾರರು ಬಳಕೆದಾರರ ಡೇಟಾದ ಬ್ಯಾಕಪ್ ಮಾಡಲು ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ.
+<br><br>
+
+ಮುಂದುವರೆಯಲು ಸರಿ, ಮುಂದೆ ಒತ್ತಿರಿ
+                ]]>
+        </Data>
+    </string>
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

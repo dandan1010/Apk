@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 SW Cập nhật </string>
+    <string name="button_next">"Tiếp theo"</string>
+    <string name="exit">"Được"</string>
+    <string name="button_update">"Cập nhật"</string>
+
+    <string name="prompt_text1">Bạn sẽ cần làm theo một số bước chính để cài đặt thành công bản cập nhật này, vui lòng đọc và lưu ý các bước sau.</string>
+    <string name="prompt_text2">Nhấn và giữ đồng thời cả phím “Tăng âm lượng” và “Nguồn”…</string>
+    <string name="prompt_text3">Tiếp tục nhấn cả hai phím trong 3 giây và sau đó chỉ nhả phím “Tăng âm lượng”.</string>
+    <string name="prompt_text4">Khi bạn thấy các tùy chọn menu, hãy nhả phím “Nguồn”. </string>
+    <string name="prompt_text5">Sử dụng phím “Tăng / Giảm âm lượng” để đánh dấu “Apply update from SD card”, và nhấn phím “Nguồn”. </string>
+    <string name="prompt_text6">Sau khi cập nhật thành công, ở cuối màn hình, bạn sẽ thấy
+        “Install from SD card completed with status 0”.</string>
+    <string name="prompt_text7">Nhấn phím “Tăng / Giảm âm lượng” để đánh dấu  “Reboot system now”. Một lần
+         được đánh dấu, nhấn nhanh phím “Nguồn” (thiết bị sẽ
+         tự động khởi động lại). Xin lưu ý: Có thể mất vài phút để khởi động lại thiết bị.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Sau khi điện thoại của bạn khởi động lại,
+ nếu muốn, bạn có thể kiểm tra Phiên bản phần mềm từ Cài đặt> Giới thiệu về điện thoại> Số bản dựng.
+ Cập nhật thành công sẽ hiển thị là
+            “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Cập nhật phần mềm Nokia 3.1 Plus\nAndroid 10\n</string>
+
+    <string name="guild_line_text">Bản cập nhật phần mềm này chỉ dành cho người dùng Nokia 3.1 Plus có bản dựng phần mềm: 
+        \n\n 
+        00WW_3_15H \n 
+        00WW_3_15H_SP01 
+        \n\n 
+        Để kiểm tra bản dựng thiết bị, hãy đi tới “Cài đặt”> “Giới thiệu về điện thoạ
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Xin chào phân đoạn trống</string>
+    <string name="checkbox_tv">Tôi đã đọc và hiểu hướng dẫn và sẵn sàng nhận bản cập nhật Phần mềm Nokia 3.1 Plus Android 10.</string>
+    <string name="important_notice"> Thông báo quan trọng</string>
+    <string name="check_title">Hãy kiểm tra lần cuối để đảm bảo thiết bị của bạn đã sẵn sàng…</string>
+    <string name="new_version"> Điện thoại của bạn đã được cập nhật.  </string>
+    <string name="back">Quay lại</string>
+    <string name="next">Tiếp theo</string>
+    <string name="sdcard">Thẻ SD đã được lắp vào</string>
+    <string name="sd_space">Dung lượng trống ít nhất 300MB trên thẻ SD. </string>
+    <string name="power">Hơn 30% công suất.</string>
+    <string name="check_for_updates">Kiểm tra các bản cập nhật</string>
+    <string name="new_version_desc">Vui lòng nhấn OK để thoát.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[Sau khi bạn bắt đầu cập nhật, các bước này <br> sẽ không được hiển thị trên thiết bị của bạn.
+        <br><br>
+Chúng tôi khuyên bạn nên:
+<br><br>
+ Mở <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u> liên kết (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> này trên máy tính hoặc thiết bị phụ của bạn (nếu bạn có) và </r> in ra / sao chép hướng dẫn.
+<br><br>
+Dữ liệu người dùng của bạn sẽ không bị mất sau khi cập nhật phần mềm, tuy nhiên, để đề phòng, chúng tôi khuyến nghị người dùng thực hiện khôi phục
+ dữ liệu người dùng trước khi cài đặt bản cập nhật.
+<br><br>
+
+Sau khi OK để tiếp tục, hãy nhấn Cập nhật
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Khi bạn bắt đầu cập nhật, các bước này sẽ không được hiển thị trên thiết bị của bạn.
+        <br><br>
+Chúng tôi khuyên bạn nên:
+<br><br>
+Mở <font color ="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u> liên kết (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> này trên máy tính hoặc thiết bị phụ của bạn (nếu bạn có) và </r> in ra / sao chép hướng dẫn.
+<br><br>
+ Dữ liệu người dùng của bạn sẽ không bị mất sau khi cập nhật phần mềm, tuy nhiên, để đề phòng, chúng tôi khuyến nghị người dùng thực hiện khôi phục
+ dữ liệu người dùng trước khi cài đặt bản cập nhật.
+<br><br>
+
+Sau khi OK để tiếp tục, hãy nhấn Next
+                ]]>
+        </Data>
+    </string>
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

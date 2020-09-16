@@ -1,0 +1,81 @@
+<resources>
+    <string name = "app_name"> Nokia 3.1 Plus Android 10 SW posodobitev</string>
+    <string name = "button_next"> "Naprej" </string>
+    <string name = "exit"> "Ok" </string>
+    <string name = "button_update"> "Posodobi" </string>
+    <string name = "prompt_text1">Za uspešno namestitev te posodobitve boste morali izvesti nekaj ključnih korakov. Preberite in si zabeležite naslednje korake.</string>
+    <string name = "prompt_text2">Hkrati pritisnite in držite tipki za povečanje glasnosti in tipko za vklop…</string>
+    <string name = "prompt_text3">Držite pritisnjeni obe tipki 3 sekunde in nato spustite samo tipko za povečanje glasnosti.</string>
+    <string name = "prompt_text4">Ko vidite možnosti menija, spustite tipko “Power”.</string>
+    <string name = "prompt_text5">S tipko za povečanje / zmanjšanje glasnosti označite“Apply update from SD card”, in pritisnite tipko za vklop.</string>
+    <string name = "prompt_text6">Po uspešni posodobitvi boste na dnu zaslona videli
+        “Install from SD card completed with status 0”.</string>
+    <string name = "prompt_text7">Pritisnite tipko za povečanje / zmanjšanje glasnosti, da označite “Reboot system now”. Enkrat
+         na kratko pritisnite tipko za vklop (naprava bo zdaj
+         samodejni ponovni zagon). Opomba: Naprava lahko traja nekaj minut, da se znova zažene.</string>
+    <string name = "prompt_text8">
+        <Data><![CDATA[Po ponovnem zagonu telefona
+ če želite, lahko preverite različico programske opreme v Settings> About Phone> Build number.
+ Uspešna posodobitev bo prikazana kot »
+            <font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Posodobitev programske opreme Nokia 3.1 Plus\nAndroid 10\n</string>
+
+    <string name="guild_line_text">Ta posodobitev programske opreme je namenjena samo uporabnikom Nokia 3.1 Plus z zgradbami programske opreme: 
+        \n\n 
+        00WW_3_15H \n 
+        00WW_3_15H_SP01 
+        \n\n 
+        Če želite preveriti zgradbo naprave, pojdite na »Nastavitve«> »O telefonu«
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name = "hello_blank_fragment"> Pozdravljeni prazen fragment </string>
+    <string name = "checkbox_tv">Prebral sem in razumel navodila in sem pripravljen na posodobitev programske opreme Nokia 3.1 Plus Android 10.</string>
+    <string name = "important_notice"> Pomembno obvestilo </string>
+    <string name = "check_title">Končno preverimo, ali je naprava pripravljena ...</string>
+    <string name = "new_version"> Vaš telefon je že posodobljen. </string>
+    <string name = "back"> Nazaj </string>
+    <string name = "next"> Naprej </string>
+    <string name = "sdcard"> Vstavljena je kartica SD </string>
+    <string name = "sd_space"> Vsaj 300 MB prostega prostora na kartici SD. </string>
+    <string name = "power"> Več kot 30% moči. </string>
+    <string name = "check_for_updates"> Preveri, ali so na voljo posodobitve </string>
+    <string name = "new_version_desc"> Za izhod pritisnite V redu. </string>
+    <string name = "import_desc_update">
+        <Data><![CDATA[Ko zaženete posodobitev, ti koraki <br> v vaši napravi ne bodo prikazani.
+        <br><br>
+Priporočamo vam:
+<br><br>
+Odprite to <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u> povezavo (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> v računalniku ali sekundarni napravi (če jo imate) in </r> natisnite / kopirajte navodila.
+<br><br>
+Po posodobitvi programske opreme vaši uporabniški podatki ne bodo izgubljeni, vendar smo iz previdnosti priporočili, da uporabniki izvedejo nazaj
+ uporabniških podatkov pred namestitvijo posodobitve.
+<br><br>
+
+Ko v redu za nadaljevanje, pritisnite Posodobi
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Ko zaženete posodobitev, ti koraki ne bodo prikazani v vaši napravi.
+        <br><br>
+Priporočamo vam:
+<br><br>
+Odprite to <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u> povezavo(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> v računalniku ali sekundarni napravi (če jo imate) in </r> natisnite / kopirajte navodila.
+<br><br>
+Po posodobitvi programske opreme vaši uporabniški podatki ne bodo izgubljeni, vendar smo iz previdnosti priporočili, da uporabniki izvedejo nazaj
+ uporabniških podatkov pred namestitvijo posodobitve.
+<br><br>
+
+Ko za nadaljevanje pritisnete OK, pritisnite Next
+                ]]>
+        </Data>
+    </string>
+<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

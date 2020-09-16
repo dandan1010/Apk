@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 소프트웨어 업데이트</string>
+    <string name="button_next">"다음"</string>
+    <string name="exit">"확인"</string>
+    <string name="button_update">"최신 정보"</string>
+
+    <string name="prompt_text1">이 업데이트를 성공적으로 설치하려면 몇 가지 주요 단계를 따라야합니다.
+        다음 단계를 읽고 기록해 두십시오.</string>
+    <string name="prompt_text2">"볼륨 업"과 "힘"키를 동시에 길게 누릅니다.</string>
+    <string name="prompt_text3">두 키를 3 초 동안 계속 누른 다음 "볼륨"키만 놓습니다.</string>
+    <string name="prompt_text4">메뉴 옵션이 표시되면 "전원"키를 놓습니다. </string>
+    <string name="prompt_text5">"볼륨 크게/작게"키를 사용하여 "Apply update from SD card"를 강조 표시하고 "전원"키를 누릅니다. </string>
+    <string name="prompt_text6">업데이트가 성공하면 화면 하단에
+        “Install from SD card completed with status 0”.</string>
+    <string name="prompt_text7">“볼륨 크게 / 작게”키를 눌러 강조 표시합니다 “Reboot system now”.
+        강조 표시되면 "전원"키를 짧게 누릅니다 (이제 장치가 자동으로 재부팅 됨).
+        참고 : 장치를 다시 시작하는 데 몇 분 정도 걸릴 수 있습니다.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[휴대 전화가 다시 시작되면
+         원하는 경우 설정> 전화 정보> 빌드 번호에서 소프트웨어 버전을 확인할 수 있습니다.
+         성공적인 업데이트는 다음과 같이 표시됩니다.
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\n소프트웨어 업데이트 </string>
+
+    <string name="guild_line_text">이 소프트웨어 업데이트는 소프트웨어 빌드가있는 Nokia 3.1 Plus 사용자에게만 해당됩니다.
+             \n\n
+            00WW_3_15H \n
+            00WW_3_15H_SP01
+             \n\n
+            장치 빌드를 확인하려면 "설정"> "휴대 전화 정보"로 이동하십시오.
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">안녕하세요 빈 조각</string>
+    <string name="checkbox_tv">지침을 읽고 이해했으며 Nokia 3.1 Plus Android 10 소프트웨어 업데이트를받을 준비가되었습니다.</string>
+    <string name="important_notice">중요 공지</string>
+    <string name="check_title">기기가 준비되었는지 최종 확인하겠습니다.</string>
+    <string name="new_version">휴대 전화가 이미 최신 상태입니다. </string>
+    <string name="back">뒤</string>
+    <string name="next">다음</string>
+    <string name="sdcard">SD 카드가 삽입되었습니다.</string>
+    <string name="sd_space">SD 카드에 최소 300MB의 여유 공간.</string>
+    <string name="power">전력의 30 % 이상.</string>
+    <string name="check_for_updates">업데이트 확인</string>
+    <string name="new_version_desc">종료하려면 확인을 누르십시오.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[업데이트를 시작하면 <br>이 단계가 기기에 표시되지 않습니다.
+        <br><br>
+다음 중 하나를 권장합니다.
+<br><br>
+컴퓨터 또는 보조 장치 (있는 경우)에서이 <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>링크(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font>를 열고 </r> 지침을 인쇄/복사하십시오.
+<br><br>
+소프트웨어 업데이트 후에도 사용자 데이터는 손실되지 않지만 예방 조치로
+업데이트를 설치하기 전에 사용자 데이터 백업을 수행하는 것이 좋습니다.
+<br><br>
+
+계속하려면 확인을 누르고 업데이트를 누릅니다.
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[업데이트를 시작하면 이러한 단계가 장치에 표시되지 않습니다.
+        <br><br>
+다음 중 하나를 권장합니다.
+<br><br>
+컴퓨터 또는 보조 장치 (있는 경우)에서이 <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>링크(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font>를 열고 </r> 지침을 인쇄/복사하십시오.
+<br><br>
+소프트웨어 업데이트 후에도 사용자 데이터는 손실되지 않지만 예방 조치로
+업데이트를 설치하기 전에 사용자 데이터 백업을 수행하는 것이 좋습니다.
+<br><br>
+
+계속하려면 확인을 누르고 다음을 누릅니다.
+                ]]>
+        </Data>
+    </string>
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

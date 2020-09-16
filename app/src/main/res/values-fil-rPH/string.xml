@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 Pag-update ng Software</string>
+    <string name="button_next">"Susunod"</string>
+    <string name="exit">"Ok"</string>
+    <string name="button_update">"Update"</string>
+
+    <string name="prompt_text1">Kakailanganin mong sundin ang ilang mga pangunahing hakbang upang matagumpay na mai-install ang update na ito,
+        mangyaring basahin at tandaan ang mga sumusunod na hakbang.</string>
+    <string name="prompt_text2">Pindutin nang matagal ang parehong "Lakasan ang tunog" at ang mga "supply ng kuryente" key nang sabay ...</string>
+    <string name="prompt_text3">Patuloy na pindutin ang parehong mga susi sa loob ng 3 segundo at pagkatapos ay palabasin lamang ang "Lakasan ang tunog" Key.</string>
+    <string name="prompt_text4">Kapag nakita mo ang mga pagpipilian sa menu, bitawan ang "supply ng kuryente" key. </string>
+    <string name="prompt_text5">Gamitin ang "Volume Up/Down" na key upang i-highlight ang "Apply update from SD card", at pindutin ang "supply ng kuryente" key. </string>
+    <string name="prompt_text6">Matapos ang tagumpay ay matagumpay, sa ilalim ng screen ay makikita mo
+        "Install from SD card completed with status 0".</string>
+    <string name="prompt_text7">Pindutin ang "Volume Up/Down" key upang i-highlight ang "Reboot system now".
+        Kapag na-highlight, maikling pindutin ang "supply ng kuryente" key (awtomatiko na ngayong magre-reboot ang aparato).
+        Mangyaring tandaan: Maaaring tumagal ng ilang minuto ang aparato upang muling simulan.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Matapos mag-restart ang iyong telepono,
+         kung nais mo, maaari mong suriin ang bersyon ng Software mula sa Mga setting > Tungkol sa Telepono > Bumuo ng numero.
+         Ipapakita ang isang matagumpay na pag-update bilang
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+        </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nPag-update ng Software </string>
+
+    <string name="guild_line_text">Ang pag-update ng software na ito ay para lamang sa mga gumagamit ng Nokia 3.1 Plus na may mga pagbuo ng software:
+        \n\n
+        00WW_3_15H \n
+        00WW_3_15H_SP01
+        \n\n
+        Upang suriin ang pagbuo ng aparato, pumunta sa "Mga Setting"> "Tungkol sa Telepono"
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blangko na fragment</string>
+    <string name="checkbox_tv">Nabasa ko at naintindihan ko ang mga tagubilin at handa akong tumanggap Nokia 3.1 Plus Android 10 Pag-update ng software.</string>
+    <string name="important_notice">Mahalagang Paunawa</string>
+    <string name="check_title">Magsagawa tayo ng panghuling pagsusuri upang matiyak na handa ang iyong aparato…</string>
+    <string name="new_version">Napapanahon na ng iyong telepono. </string>
+    <string name="back">Bumalik</string>
+    <string name="next">Susunod</string>
+    <string name="sdcard">Ang SD card ay ipinasok</string>
+    <string name="sd_space">Hindi bababa sa 300MB libreng puwang sa SD card.</string>
+    <string name="power">Higit sa 30% ng lakas.</string>
+    <string name="check_for_updates">Suriin ang mga update</string>
+    <string name="new_version_desc">Mangyaring pindutin ang OK upang lumabas.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[Kapag nasimulan mo ang pag-update, ang mga hakbang na ito <br> ay hindi ipapakita sa iyong aparato.
+        <br><br>
+Inirerekumenda namin sa iyo ang alinman:
+<br><br>
+Buksan ang <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> na ito sa iyong computer o pangalawang aparato (kung mayroon kang isa) at </r> alinman i-print/kopyahin ang mga tagubilin.
+<br><br>
+Ang iyong data ng gumagamit ay hindi mawawala pagkatapos ng pag-update ng software, gayunpaman bilang pag-iingat,
+inirerekumenda namin ang mga gumagamit na magsagawa ng pag-back up ng data ng gumagamit bago i-install ang pag-update.
+<br><br>
+
+Kapag OK na magpatuloy, pindutin ang I-update
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Kapag sinimulan mo ang pag-update, ang mga hakbang na ito ay hindi ipapakita sa iyong aparato.
+        <br><br>
+Inirerekumenda namin sa iyo ang alinman:
+<br><br>
+Buksan ang <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> na ito sa iyong computer o pangalawang aparato (kung mayroon kang isa) at </r> alinman i-print/kopyahin ang mga tagubilin.
+<br><br>
+Ang iyong data ng gumagamit ay hindi mawawala pagkatapos ng pag-update ng software, gayunpaman bilang pag-iingat,
+inirerekumenda namin ang mga gumagamit na magsagawa ng pag-back up ng data ng gumagamit bago i-install ang pag-update.
+<br><br>
+
+Kapag OK na magpatuloy, pindutin ang Susunod
+                ]]>
+        </Data>
+    </string>
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

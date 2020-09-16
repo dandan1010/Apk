@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 programinės įrangos atnaujinimas</string>
+    <string name="button_next">"Kitas"</string>
+    <string name="exit">"Gerai"</string>
+    <string name="button_update">"Atnaujinti"</string>
+
+    <string name="prompt_text1">Norėdami sėkmingai įdiegti šį naujinimą, turėsite atlikti keletą pagrindinių veiksmų,
+	    perskaitykite ir atkreipkite dėmesį į šiuos veiksmus.</string>
+    <string name="prompt_text2">Vienu metu paspauskite ir palaikykite tiek „Pagarsink“, tiek „Maitinimas“ mygtukus ...</string>
+    <string name="prompt_text3">3 sekundes laikykite nuspaudę abu klavišus ir atleiskite tik „Pagarsink“ klavišą.</string>
+    <string name="prompt_text4">Kai pamatysite meniu parinktis, atleiskite mygtuką „Maitinimas“. </string>
+    <string name="prompt_text5">Naudodami mygtuką „Garsumas aukštyn / žemyn“ pažymėkite „Apply update from SD card“ ir paspauskite „Maitinimas“ mygtuką. </string>
+    <string name="prompt_text6">Kai atnaujinimas bus sėkmingas, ekrano apačioje pamatysite
+        “Install from SD card completed with status 0”.</string>
+    <string name="prompt_text7">Paspauskite „Garsumas aukštyn / žemyn“ mygtuką, kad paryškintumėte „Reboot system now“.
+	    Kai paryškinsite, trumpai paspauskite mygtuką „Maitinimas“ (įrenginys dabar bus automatiškai paleistas iš naujo).
+		Atkreipkite dėmesį: įrenginio paleidimas gali užtrukti kelias minutes.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Paleidus telefoną iš naujo,
+        jei norite, galite patikrinti programinės įrangos versiją skiltyje Nustatymai > Apie telefoną > Komponavimo numeris.
+        Sėkmingas atnaujinimas bus rodomas kaip
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nprograminės įrangos atnaujinimas</string>
+
+    <string name="guild_line_text">Šis programinės įrangos atnaujinimas skirtas tik „Nokia 3.1 Plus“ vartotojams su programinės įrangos versijomis:
+             \n\n
+            00WW_3_15H \n
+            00WW_3_15H_SP01
+             \n\n
+            Norėdami patikrinti įrenginio konstrukciją, eikite į skiltį „Nustatymai“> „Apie telefoną“
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Sveikas tuščias fragmentas</string>
+    <string name="checkbox_tv">Perskaičiau ir supratau instrukcijas bei esu pasirengęs gauti „Nokia 3.1 Plus Android 10“ programinės įrangos atnaujinimą.</string>
+    <string name="important_notice">Svarbus pastebėjimas</string>
+    <string name="check_title">Patikrinkime, ar jūsų įrenginys paruoštas ...</string>
+    <string name="new_version">Jūsų telefonas jau atnaujintas. </string>
+    <string name="back">Atgal</string>
+    <string name="next">Kitas</string>
+    <string name="sdcard">Įdėta SD kortelė</string>
+    <string name="sd_space">Mažiausiai 300 MB laisvos vietos SD kortelėje.</string>
+    <string name="power">Daugiau nei 30% galios.</string>
+    <string name="check_for_updates">Tikrinti, ar yra atnaujinimų</string>
+    <string name="new_version_desc">Norėdami išeiti, paspauskite Gerai.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[Paleidus naujinimą, šie veiksmai <br> nebus rodomi jūsų įrenginyje.
+        <br><br>
+Mes rekomenduojame jums:
+<br><br>
+Atidarykite šią <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>nuorodą(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> kompiuteryje arba antriniame įrenginyje (jei turite) ir </r> atsispausdinkite/nukopijuokite instrukcijas.
+<br><br>
+Vartotojo duomenys nebus prarasti atnaujinus programinę įrangą, tačiau atsargumo sumetimais 
+rekomendavome vartotojams prieš diegiant naujinimą atlikti atsarginę vartotojo duomenų kopiją.
+<br><br>
+
+Kai norite tęsti, paspauskite „Atnaujinti“
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Paleidus naujinimą, šie veiksmai nebus rodomi jūsų įrenginyje.
+        <br><br>
+Mes rekomenduojame jums:
+<br><br>
+Atidarykite šią <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>nuorodą(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> kompiuteryje arba antriniame įrenginyje (jei turite) ir </r> atsispausdinkite/nukopijuokite instrukcijas.
+<br><br>
+Vartotojo duomenys nebus prarasti atnaujinus programinę įrangą, tačiau atsargumo sumetimais
+rekomendavome vartotojams prieš diegiant naujinimą atlikti atsarginę vartotojo duomenų kopiją.
+<br><br>
+
+Kai norite tęsti, paspauskite „Kitas“
+                ]]>
+        </Data>
+    </string>
+<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

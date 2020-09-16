@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 Tarkvarauuendus</string>
+    <string name="button_next">"Järgmine"</string>
+    <string name="exit">"Okei"</string>
+    <string name="button_update">"Uuenda"</string>
+
+    <string name="prompt_text1">Selle värskenduse edukaks installimiseks peate järgima mõningaid peamisi samme,
+        palun lugege järgmisi samme ja võtke need teadmiseks.</string>
+    <string name="prompt_text2">Vajutage korraga nii helitugevuse suurendamise kui ka toitenuppu ja hoidke neid all ...</string>
+    <string name="prompt_text3">Hoidke mõlemat klahvi 3 sekundit ja vabastage seejärel ainult helitugevuse suurendamise klahv.</string>
+    <string name="prompt_text4">Kui olete menüüvalikud näinud, vabastage toitenupp. </string>
+    <string name="prompt_text5">Kasutage klahvi “Helitugevuse suurendamine/vähendamine”, et tõsta esile “Apply update from SD card” ja vajutage toitenuppu. </string>
+    <string name="prompt_text6">Pärast värskenduse õnnestumist näete ekraani allosas
+        "Install from SD card completed with status 0".</string>
+    <string name="prompt_text7">Vajutage klahvi “Helitugevuse suurendamine/vähendamine”, et tõsta esile “Reboot system now”.
+        Kui see on esile tõstetud, vajutage lühidalt toitenuppu (seade taaskäivitub nüüd automaatselt).
+        Pange tähele: seadme taaskäivitamine võib võtta mitu minutit.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Pärast telefoni taaskäivitamist
+         soovi korral saate tarkvaraversiooni kontrollida menüüst Seaded> Teave telefoni kohta> Järjenumber.
+         Edukas värskendus kuvatakse kui
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+        </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nTarkvarauuendus </string>
+
+    <string name="guild_line_text">See tarkvaravärskendus on mõeldud ainult tarkvaraehitusega Nokia 3.1 Plus kasutajatele.
+        \n\n
+        00WW_3_15H \n
+        00WW_3_15H_SP01
+        \n\n
+        Seadme ehituse kontrollimiseks minge jaotisse „Seaded“ > „Teave telefoni kohta“
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Tere tühi fragment</string>
+    <string name="checkbox_tv">Olen juhiseid läbi lugenud ja neist aru saanud ning olen valmis Nokia 3.1 Plus Android 10 tarkvarauuenduse saamiseks</string>
+    <string name="important_notice">Oluline märkus</string>
+    <string name="check_title">Teeme viimase kontrolli, et teie seade oleks valmis…</string>
+    <string name="new_version">Teie telefon on juba ajakohane. </string>
+    <string name="back">tagasi</string>
+    <string name="next">Järgmine</string>
+    <string name="sdcard">SD-kaart on sisestatud</string>
+    <string name="sd_space">SD-kaardil on vähemalt 300 MB vaba ruumi.</string>
+    <string name="power">Üle 30% võimsusest.</string>
+    <string name="check_for_updates">Kontrolli kas uuendused on saadaval</string>
+    <string name="new_version_desc">Palun väljumiseks vajutage OK.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[Kui olete värskenduse käivitanud, ei kuvata neid samme <br> teie seadmes.
+        <br><br>
+Soovitame teil kas:
+<br><br>
+Avage see <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> oma arvutis või teiseses seadmes (kui see teil on) ja </r> printige juhised kas välja või kopeerige need alla.
+<br><br>
+Teie tarkvarauuenduse järgsed andmed ei kao, kuid ettevaatusabinõuna
+Soovitame kasutajatel enne värskenduse installimist varundada kasutajaandmed.
+<br><br>
+
+Kui jätkamiseks on OK, vajutage käsku Värskenda
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Kui olete värskenduse käivitanud, ei kuvata neid samme teie seadmes.
+        <br><br>
+Soovitame teil kas:
+<br><br>
+Avage see <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> oma arvutis või teiseses seadmes (kui see teil on) ja </r> printige juhised kas välja või kopeerige need alla.
+<br><br>
+Teie tarkvarauuenduse järgsed andmed ei kao, kuid ettevaatusabinõuna
+Soovitame kasutajatel enne värskenduse installimist varundada kasutajaandmed.
+<br><br>
+
+Kui jätkamiseks on OK, vajutage Järgmine
+                ]]>
+        </Data>
+    </string>
+    <!--    以上是2020-9-7的翻译，之后的修改在备注之下-->
+
+</resources>

@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 programmatūras atjauninājums</string>
+    <string name="button_next">"Nākamais"</string>
+    <string name="exit">"Labi"</string>
+    <string name="button_update">"Atjaunināt"</string>
+
+    <string name="prompt_text1">Lai šis atjauninājums tiktu veiksmīgi instalēts, jums būs jāveic dažas galvenās darbības, 
+	    lūdzu, izlasiet un ņemiet vērā šīs darbības.</string>
+    <string name="prompt_text2">Vienlaicīgi nospiediet un turiet gan skaļuma palielināšanas, gan barošanas taustiņus…</string>
+    <string name="prompt_text3">Turiet nospiestu abus taustiņus 3 sekundes un pēc tam atlaidiet tikai skaļuma palielināšanas taustiņu.</string>
+    <string name="prompt_text4">Kad esat redzējis izvēlnes opcijas, atlaidiet taustiņu “Barošana”.</string>
+    <string name="prompt_text5">Izmantojiet taustiņu “Skaļuma palielināšana / samazināšana”, lai iezīmētu “Apply update from SD card”, un nospiediet taustiņu “Barošana”. </string>
+    <string name="prompt_text6">Kad atjaunināšana būs veiksmīga, ekrāna apakšdaļā jūs redzēsiet 
+        “Install from SD card completed with status 0”.</string>
+    <string name="prompt_text7">Nospiediet taustiņu “Skaļuma palielināšana / samazināšana”, lai iezīmētu “Reboot system now”.
+	    Kad tas ir iezīmēts, īsi nospiediet taustiņu “Barošana” (ierīce tagad automātiski tiks restartēta).
+		Lūdzu, ņemiet vērā: ierīces restartēšana var ilgt vairākas minūtes.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Kad tālrunis ir restartēts,
+        ja vēlaties, varat pārbaudīt programmatūras versiju sadaļā Iestatījumi> Par tālruni> Veidošanas numurs.
+        Veiksmīgs atjauninājums tiks parādīts kā
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nprogrammatūras atjauninājums</string>
+
+    <string name="guild_line_text">Šis programmatūras atjauninājums ir paredzēts tikai Nokia 3.1 Plus lietotājiem ar programmatūras būvējumiem:
+             \n\n
+            00WW_3_15H \n
+            00WW_3_15H_SP01
+             \n\n
+            Lai pārbaudītu ierīces uzbūvi, dodieties uz sadaļu Iestatījumi > Par tālruni
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Sveiks, tukšs fragments</string>
+    <string name="checkbox_tv">Esmu izlasījis un sapratis instrukcijas un esmu gatavs saņemt Nokia 3.1 Plus Android 10 programmatūras atjauninājumu.</string>
+    <string name="important_notice">Svarīga piezīme</string>
+    <string name="check_title">Veiksim pēdējās pārbaudes, lai pārliecinātos, ka jūsu ierīce ir gatava ...</string>
+    <string name="new_version">Jūsu tālrunis jau ir atjaunināts.</string>
+    <string name="back">Atpakaļ</string>
+    <string name="next">Nākamais</string>
+    <string name="sdcard">SD karte ir ievietota</string>
+    <string name="sd_space">SD kartē ir vismaz 300 MB brīva vieta.</string>
+    <string name="power">Vairāk nekā 30% no jaudas.</string>
+    <string name="check_for_updates">Meklēt atjauninājumus</string>
+    <string name="new_version_desc">Lūdzu, nospiediet Labi, lai izietu.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[Pēc atjaunināšanas sākšanas šīs darbības <br> netiks rādītas jūsu ierīcē.
+        <br><br>
+Mēs iesakām jums:
+<br><br>
+Atveriet šo <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>saiti(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> datorā vai sekundārajā ierīcē (ja tāda ir) un </r> izdrukājiet/nokopējiet instrukcijas.
+<br><br>
+Pēc programmatūras atjaunināšanas jūsu lietotāja dati netiks zaudēti, tomēr piesardzības nolūkos
+mēs iesakām lietotājiem pirms atjauninājuma instalēšanas veikt lietotāju datu dublēšanu.
+<br><br>
+
+Kad turpināt, nospiediet Atjaunināt
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Pēc atjaunināšanas sākšanas šīs darbības jūsu ierīcē netiks rādītas.
+        <br><br>
+Mēs iesakām jums:
+<br><br>
+Atveriet šo <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>saiti(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> datorā vai sekundārajā ierīcē (ja tāda ir) un </r> izdrukājiet/nokopējiet instrukcijas.
+<br><br>
+Pēc programmatūras atjaunināšanas jūsu lietotāja dati netiks zaudēti, tomēr piesardzības nolūkos
+mēs iesakām lietotājiem pirms atjauninājuma instalēšanas veikt lietotāju datu dublēšanu.
+<br><br>
+
+Kad turpināt, nospiediet Tālāk
+                ]]>
+        </Data>
+    </string>
+<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

@@ -1,0 +1,82 @@
+<resources>
+    <string name = "app_name"> อัพเดต Nokia 3.1 Plus Android 10 SW </string>
+    <string name = "button_next"> "ถัดไป" </string>
+    <string name = "exit"> "ตกลง" </string>
+    <string name = "button_update"> "อัปเดต" </string>
+    <string name = "prompt_text1">คุณจะต้องทำตามขั้นตอนสำคัญบางประการเพื่อให้การอัปเดตนี้สามารถติดตั้งได้สำเร็จโปรดอ่านและรับทราบขั้นตอนต่อไปนี้</string>
+    <string name = "prompt_text2">กดทั้งปุ่ม "เพิ่มระดับเสียง" และปุ่ม "เปิด / ปิด" พร้อมกัน ...</string>
+    <string name = "prompt_text3">กดทั้งสองปุ่มค้างไว้เป็นเวลา 3 วินาทีจากนั้นปล่อยเฉพาะปุ่ม "เพิ่มระดับเสียง"</string>
+    <string name = "prompt_text4">เมื่อคุณเห็นตัวเลือกเมนูให้ปล่อยปุ่ม "เปิด / ปิด"</string>
+    <string name = "prompt_text5">ใช้ปุ่ม "เพิ่มระดับเสียง / ลง" เพื่อไฮไลต์ “Apply update from SD card”, และกดปุ่ม“ เปิด / ปิด”</string>
+    <string name = "prompt_text6">หลังจากการอัปเดตสำเร็จคุณจะเห็นที่ด้านล่างของหน้าจอ 
+        “Install from SD card completed with status 0”.</string>
+    <string name = "prompt_text7"> กดปุ่ม "เพิ่มระดับเสียง / ลง" เพื่อไฮไลต์ “Reboot system now”. ครั้งเดียว
+         ไฮไลต์กดปุ่ม "เปิด / ปิด" สั้น ๆ (อุปกรณ์จะเปิด
+         รีบูตโดยอัตโนมัติ) โปรดทราบ: อุปกรณ์อาจใช้เวลาหลายนาทีในการรีสตาร์ท</string>
+    <string name = "prompt_text8">
+        <Data><![CDATA[หลังจากที่โทรศัพท์ของคุณรีสตาร์ทแล้ว
+ หากต้องการคุณสามารถตรวจสอบเวอร์ชันซอฟต์แวร์ได้จากการตั้งค่า> เกี่ยวกับโทรศัพท์> หมายเลขรุ่น
+ การอัปเดตที่สำเร็จจะแสดงเป็น
+            “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">การอัปเดตซอฟต์แวร์ Nokia 3.1 Plus\nAndroid 10\n</string>
+
+    <string name="guild_line_text">การอัปเดตซอฟต์แวร์นี้มีให้สำหรับผู้ใช้ Nokia 3.1 Plus ที่มีรุ่นซอฟต์แวร์เท่านั้น: 
+        \n\n 
+        00WW_3_15H \n 
+        00WW_3_15H_SP01 
+        \n\n 
+        ในการตรวจสอบรุ่นอุปกรณ์ให้ไปที่“ การตั้งค่า”>“ เกี่ยวกับโทรศัพท์”
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment"> สวัสดีส่วนที่ว่าง </string>
+    <string name="checkbox_tv">ฉันได้อ่านและทำความเข้าใจคำแนะนำแล้วและพร้อมที่จะรับการอัปเดตซอฟต์แวร์ Nokia 3.1 Plus Android 10</string>
+    <string name = "important_notice"> ประกาศสำคัญ </string>
+    <string name = "check_title">มาทำการตรวจสอบขั้นสุดท้ายเพื่อให้แน่ใจว่าอุปกรณ์ของคุณพร้อม ...</string>
+    <string name = "new_version"> โทรศัพท์ของคุณเป็นรุ่นล่าสุดแล้ว </string>
+    <string name = "back"> ย้อนกลับ </string>
+    <string name = "next"> ถัดไป </string>
+    <string name = "sdcard"> ใส่การ์ด SD </string>
+    <string name = "sd_space"> พื้นที่ว่างอย่างน้อย 300MB บนการ์ด SD </string>
+    <string name = "power"> พลังงานมากกว่า 30% </string>
+    <string name = "check_for_updates"> ตรวจหาการอัปเดต </string>
+    <string name = "new_version_desc"> โปรดกดตกลงเพื่อออก </string>
+
+<string name = "import_desc_update">
+        <Data><![CDATA[เมื่อคุณเริ่มการอัปเดตขั้นตอน <br> เหล่านี้จะไม่แสดงบนอุปกรณ์ของคุณ
+        <br><br>
+ เราขอแนะนำให้คุณ:
+<br><br>
+ เปิด <font color ="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u> ลิงก์ (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> บนคอมพิวเตอร์หรืออุปกรณ์สำรองของคุณ (ถ้ามี) และ </r> พิมพ์ / คัดลอกคำแนะนำ
+<br><br>
+ข้อมูลผู้ใช้ของคุณจะไม่สูญหายหลังจากการอัปเดตซอฟต์แวร์อย่างไรก็ตามเพื่อเป็นการป้องกันไว้ก่อนเราขอแนะนำให้ผู้ใช้ดำเนินการย้อนกลับ
+ ข้อมูลผู้ใช้ก่อนติดตั้งการอัปเดต
+<br><br>
+
+เมื่อตกลงเพื่อดำเนินการต่อให้กดอัปเดต
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[เมื่อคุณเริ่มการอัปเดตขั้นตอนเหล่านี้จะไม่แสดงบนอุปกรณ์ของคุณ
+        <br><br>
+เราขอแนะนำให้คุณ:
+<br><br>
+เปิด <font color ="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u> ลิงก์ (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> บนคอมพิวเตอร์หรืออุปกรณ์สำรองของคุณ (ถ้ามี) และ </r> พิมพ์ / คัดลอกคำแนะนำ
+<br><br>
+ข้อมูลผู้ใช้ของคุณจะไม่สูญหายหลังจากการอัปเดตซอฟต์แวร์อย่างไรก็ตามเพื่อเป็นการป้องกันไว้ก่อนเราขอแนะนำให้ผู้ใช้ดำเนินการย้อนกลับ
+ ข้อมูลผู้ใช้ก่อนติดตั้งการอัปเดต
+<br><br>
+
+เมื่อตกลงเพื่อดำเนินการต่อให้กดถัดไป
+                ]]>
+        </Data>
+    </string>
+<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

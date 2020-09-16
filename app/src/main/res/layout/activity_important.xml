@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.n3dot1plusswupdate.ImportantActivity">
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="@dimen/dimen_312dp"
+        android:layout_height="@dimen/dimen_112dp"
+        android:layout_marginLeft="@dimen/dimen_24dp"
+        android:layout_marginTop="@dimen/dimen_88dp"
+        android:text="@string/important_notice"
+        android:textColor="#FF000000"
+        android:textSize="@dimen/dimen_32sp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal" />
+    <TextView
+        android:id="@+id/important_desc"
+        android:layout_width="@dimen/dimen_260dp"
+        android:layout_height="@dimen/dimen_304dp"
+        android:textColor="#FF212121"
+        android:textSize="@dimen/dimen_14sp"
+        android:layout_marginTop="@dimen/dimen_236dp"
+        android:layout_marginLeft="@dimen/dimen_51dp"
+        android:textAlignment="center"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal" />
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_555dp"
+        android:layout_centerHorizontal="true">
+        <CheckBox
+            android:id="@+id/agree_box"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/dimen_18dp"
+            android:buttonTint="#FF4586E2" />
+        <TextView
+            android:layout_width="@dimen/dimen_238dp"
+            android:layout_height="@dimen/dimen_42dp"
+            android:text="@string/checkbox_tv"
+            android:textColor="#FF757575"
+            android:textSize="@dimen/dimen_12sp"
+            android:layout_marginStart="@dimen/dimen_33dp"
+            />
+    </RelativeLayout>
+    <Button
+        android:id="@+id/recovery_nextBtn"
+        android:layout_width="@dimen/dimen_252dp"
+        android:layout_height="@dimen/dimen_36dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/dimen_623dp"
+        android:layout_marginLeft="@dimen/dimen_54dp"
+        android:text="@string/button_update"
+        android:background="@drawable/btn_bg"
+        android:foreground="@drawable/btn_foreground"
+        android:textColor="#FFFFFFFF"
+        android:enabled="false"
+        android:alpha="0.5"
+        android:textAllCaps="false"
+        android:layout_centerHorizontal="true"
+        android:textSize="@dimen/dimen_14sp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/dimen_18dp"
+        />
+
+</RelativeLayout>

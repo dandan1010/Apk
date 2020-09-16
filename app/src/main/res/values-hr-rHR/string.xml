@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 Ažuriranje softvera</string>
+    <string name="button_next">"Sljedeći"</string>
+    <string name="exit">"U redu"</string>
+    <string name="button_update">"ažuriranje"</string>
+
+    <string name="prompt_text1">Morat ćete slijediti neke ključne korake kako bi se ovo ažuriranje uspješno instaliralo,
+        Molimo pročitajte i zabilježite sljedeće korake.</string>
+    <string name="prompt_text2">Pritisnite i držite istovremeno tipke za pojačavanje glasnoće i tipku za uključivanje/isključivanje...</string>
+    <string name="prompt_text3">Držite pritisnute obje tipke 3 sekunde, a zatim otpustite samo tipku za pojačavanje glasnoće.</string>
+    <string name="prompt_text4">Nakon što vidite opcije izbornika, otpustite tipku "Napajanje". </string>
+    <string name="prompt_text5">Upotrijebite tipku "Povećavanje/smanjivanje glasnoće" da biste istaknuli "Apply update from SD card", a zatim pritisnite tipku "Napajanje". </string>
+    <string name="prompt_text6">Nakon uspješnog ažuriranja, pri dnu zaslona vidjet ćete
+        "Install from SD card completed with status 0"</string>
+    <string name="prompt_text7">Pritisnite tipku "Povećavanje/smanjivanje glasnoće" da biste istaknuli "Reboot system now".
+        Nakon što je istaknuto, kratko pritisnite tipku "Napajanje" (uređaj će se sada automatski ponovno pokrenuti).
+        Napomena: Uređaju će trebati nekoliko minuta da se ponovo pokrene.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Nakon ponovnog pokretanja telefona,
+         ako želite, inačicu softvera možete provjeriti u Postavke> O telefonu> Broj izrade.
+         Uspješno ažuriranje prikazat će se kao
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+        </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus Android 10 Ažuriranje softvera </string>
+
+    <string name="guild_line_text">Ovo ažuriranje softvera namijenjeno je samo korisnicima (Nokia 3.1 Plus) s verzijama softvera:
+        \n\n
+        00WW_3_15H \n
+        00WW_3_15H_SP01
+        \n\n
+        Da biste provjerili izgradnju uređaja, idite na "Postavke"> "O telefonu"
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Pozdrav prazan fragment</string>
+    <string name="checkbox_tv">Pročitao sam i razumio upute i spreman sam za primanje softvera Nokia 3.1 Plus Android 10.</string>
+    <string name="important_notice">Važna obavijest</string>
+    <string name="check_title">Završimo s provjerama da li je vaš uređaj spreman...</string>
+    <string name="new_version">Vaš je telefon već ažuran. </string>
+    <string name="back">leđa</string>
+    <string name="next">Sljedeći</string>
+    <string name="sdcard">Umetnuta je SD kartica</string>
+    <string name="sd_space">Najmanje 300 MB slobodnog prostora na SD kartici.</string>
+    <string name="power">Više od 30% snage.</string>
+    <string name="check_for_updates">Provjerite ima li ažuriranja</string>
+    <string name="new_version_desc">Pritisnite OK za izlaz.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[Nakon pokretanja ažuriranja, ovi koraci <br> neće biti prikazani na vašem uređaju.
+        <br><br>
+Preporučujemo vam:
+<br><br>
+Otvorite ovu <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>vezu</u></a></font> na računalu ili sekundarnom uređaju (ako ga imate) i </r> ispisujte/kopirajte upute.
+<br><br>
+Vaši korisnički podaci neće se izgubiti nakon ažuriranja softvera, ali kao mjera opreza,
+preporučili smo korisnicima da izvrše sigurnosnu kopiju korisničkih podataka prije instaliranja ažuriranja.
+<br><br>
+
+Kada u redu nastavite, pritisnite Ažuriraj
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Nakon pokretanja ažuriranja, ovi koraci neće biti prikazani na vašem uređaju.
+        <br><br>
+Preporučujemo vam:
+<br><br>
+Otvorite ovu <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>vezu</u></a></font> na računalu ili sekundarnom uređaju (ako ga imate) i </r> ispisujte/kopirajte upute.
+<br><br>
+Vaši korisnički podaci neće se izgubiti nakon ažuriranja softvera, ali kao mjera opreza,
+preporučili smo korisnicima da izvrše sigurnosnu kopiju korisničkih podataka prije instaliranja ažuriranja.
+<br><br>
+
+Kada u redu nastavite, pritisnite Dalje
+                ]]>
+        </Data>
+    </string>
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

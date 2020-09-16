@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">تحديث برنامج Nokia 3.1 Plus Android 10</string>
+    <string name="button_next">"التالى"</string>
+    <string name="exit">"حسنا"</string>
+    <string name="button_update">"تحديث"</string>
+
+    <string name="prompt_text1">ستحتاج إلى اتباع بعض الخطوات الأساسية حتى يتم تثبيت هذا التحديث بنجاح ، يرجى قراءة الخطوات التالية وتدوينها.</string>
+    <string name="prompt_text2">اضغط مع الاستمرار على مفتاحي "رفع الصوت" و "التشغيل" في نفس الوقت ...</string>
+    <string name="prompt_text3">استمر في الضغط على كلا المفتاحين لمدة 3 ثوانٍ ثم حرر مفتاح "رفع الصوت" فقط.</string>
+    <string name="prompt_text4">بمجرد أن ترى خيارات القائمة ، حرر مفتاح "التشغيل".</string>
+    <string name="prompt_text5">استخدم مفتاح "رفع / خفض الصوت" لتمييز "Apply update from SD card" ، واضغط على مفتاح "التشغيل".</string>
+    <string name="prompt_text6">بعد نجاح التحديث ، سترى أسفل الشاشة
+         "Install from SD card completed with status 0".</string>
+    <string name="prompt_text7">اضغط على مفتاح "رفع / خفض الصوت" للتمييز“Reboot system now”</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[بعد إعادة تشغيل هاتفك ،
+		إذا كنت ترغب في ذلك ، يمكنك التحقق من إصدار البرنامج من الإعدادات> حول الهاتف> رقم البنية.
+		سيظهر التحديث الناجح كـ
+            “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">تحديث برنامجNokia 3.1 Plus\nAndroid 10\n</string>
+
+    <string name="guild_line_text">تحديث البرنامج هذا مخصص فقط لمستخدمي Nokia 3.1 Plus مع إصدارات البرامج:
+             \n\n
+            00WW_3_15H \n
+            00WW_3_15H_SP01
+             \n\n
+        للتحقق من تصميم الجهاز ، انتقل إلى "الإعدادات"> "حول الهاتف"
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">مرحبا جزء فارغ</string>
+    <string name="checkbox_tv">لقد قرأت وفهمت التعليمات وأنا مستعد لتلقي تحديث برنامج Nokia 3.1 Plus Android 10.</string>
+    <string name="important_notice">ملاحظة هامة</string>
+    <string name="check_title">دعونا نجري الفحوصات النهائية للتأكد من أن جهازك جاهز ...</string>
+    <string name="new_version">هاتفك محدث بالفعل.</string>
+    <string name="back">عودة</string>
+    <string name="next">التالى</string>
+    <string name="sdcard">تم إدخال بطاقة SD</string>
+    <string name="sd_space">مساحة خالية 300 ميجابايت على الأقل على بطاقة SD.</string>
+    <string name="power">أكثر من 30٪ من الطاقة.</string>
+    <string name="check_for_updates">تحقق من وجود تحديثات</string>
+    <string name="new_version_desc">الرجاء الضغط على "موافق" للخروج.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[بمجرد بدء التحديث ، لن تظهر هذه الخطوات <br> على جهازك.
+        <br><br>
+نوصيك إما:
+<br><br>
+افتح <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u> الرابط(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support) </u/><a/></font> على جهاز الكمبيوتر أو الجهاز الثانوي (إذا كان لديك واحد) و </r> قم بطباعة / نسخ التعليمات.
+<br><br>
+لن تفقد بيانات المستخدم الخاصة بك بعد تحديث البرنامج ، ولكن كإجراء وقائي ، نوصي المستخدمين بإجراء نسخة احتياطية من بيانات المستخدم قبل تثبيت التحديث.
+<br><br>
+
+بمجرد موافق للمتابعة ، اضغط على تحديث
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[بمجرد بدء التحديث ، لن تظهر هذه الخطوات على جهازك.
+        <br><br>
+نوصيك إما:
+<br><br>
+افتح <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u> الرابط (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u/><a/></font> على جهاز الكمبيوتر أو الجهاز الثانوي (إذا كان لديك واحد) و </r> قم بطباعة / نسخ التعليمات.
+<br><br>
+لن تفقد بيانات المستخدم الخاصة بك بعد تحديث البرنامج ، ولكن كإجراء وقائي ، نوصي المستخدمين بإجراء نسخة احتياطية من بيانات المستخدم قبل تثبيت التحديث.
+<br><br>
+
+بمجرد موافق للمتابعة ، اضغط على التالي
+                ]]>
+        </Data>
+    </string>
+<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 የሶፍትዌር ዝመና</string>
+    <string name="button_next">"ቀጣይ"</string>
+    <string name="exit">"እሺ"</string>
+    <string name="button_update">"አዘምን"</string>
+
+    <string name="prompt_text1">ይህ ዝመና በተሳካ ሁኔታ ለመጫን አንዳንድ ቁልፍ እርምጃዎችን መከተል ያስፈልግዎታል ፣ እባክዎ የሚከተሉትን ደረጃዎች ያንብቡ እና ያስተውሉ።</string>
+    <string name="prompt_text2">ሁለቱንም “ጥራዝ ጨምር” እና “ኃይል” ቁልፎችን በአንድ ጊዜ ተጭነው ይያዙ…</string>
+    <string name="prompt_text3">ሁለቱንም ቁልፎች ለ 3 ሰከንዶች መጫንዎን ይቀጥሉ እና ከዚያ “ጥራዝ ጨምር” ቁልፍን ብቻ ይልቀቁ።</string>
+    <string name="prompt_text4">የምናሌ አማራጮችን ካዩ በኋላ “ኃይል” የሚለውን ቁልፍ ይልቀቁ ፡፡ </string>
+    <string name="prompt_text5">“Apply update from SD card” ን ለማጉላት “ጥራዝ ወደ ላይ / ወደታች” ቁልፍን ይጠቀሙ እና “ኃይል” ቁልፍን ይጫኑ።</string>
+    <string name="prompt_text6">ዝመናው ከተሳካ በኋላ በማያ ገጹ ታችኛው ክፍል ላይ 
+	    “Install from SD card completed with status 0” ያያሉ።</string>
+    <string name="prompt_text7">"Reboot system now" ለማድመቅ "ጥራዝ ወደ ላይ / ወደ ታች" ቁልፍን ይጫኑ። 
+	    አንዴ ጎላ ተደርጎ ከተገለጸ በኋላ “ኃይል” የሚለውን ቁልፍ በአጭሩ ይጫኑ (መሣሪያው አሁን በራስ-ሰር ዳግም ይነሳል) ፡፡ እባክዎ ልብ ይበሉ መሣሪያው እንደገና ለመጀመር ብዙ ደቂቃዎችን ሊወስድ ይችላል።</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[ከፈለጉ ስልክዎ እንደገና ከተጀመረ በኋላ የሶፍትዌሩን ስሪት ከቅንብሮች > ስለ ስልክ > የግንባታ ቁጥር ማረጋገጥ ይችላሉ። የተሳካ ዝመና እንደ “
+            <font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nየሶፍትዌር ዝመና</string>
+
+    <string name="guild_line_text">ይህ የሶፍትዌር ዝመና Nokia 3.1 Plus ተጠቃሚዎች ከሶፍትዌር ግንባታ ጋር ብቻ ነው
+             \n\n
+            00WW_3_15H \n
+            00WW_3_15H_SP01
+             \n\n
+        የመሣሪያ ግንባታን ለመፈተሽ ወደ “ቅንብሮች” > “ስለ ስልክ” ይሂዱ
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">ሰላም ባዶ ቁርጥራጭ</string>
+    <string name="checkbox_tv">መመሪያዎቹን አንብቤ ተረድቻለሁ እናም Nokia 3.1 Plus Android 10 የሶፍትዌር ዝመናን ለመቀበል ዝግጁ ነኝ ፡፡</string>
+    <string name="important_notice">አስፈላጊ ማስታወቂያ</string>
+    <string name="check_title">መሣሪያዎ ዝግጁ መሆኑን ለማረጋገጥ የመጨረሻ ማጣሪያዎችን እናድርግ…</string>
+    <string name="new_version">ስልክዎ ቀድሞውኑ ወቅታዊ ነው።</string>
+    <string name="back">ተመለስ</string>
+    <string name="next">ቀጣይ</string>
+    <string name="sdcard">ኤስዲ ካርድ ገብቷል</string>
+    <string name="sd_space">በኤስዲ ካርድ ላይ ቢያንስ 300 ሜባ ነፃ ቦታ።</string>
+    <string name="power">ከ 30% በላይ ኃይል</string>
+    <string name="check_for_updates">ዝማኔዎችን ይመልከቱ</string>
+    <string name="new_version_desc">ለመውጣት እባክዎ እሺን ይጫኑ።</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[አንዴ ዝመናውን ከጀመሩ በኋላ እነዚህ እርምጃዎች <br> በመሣሪያዎ ላይ አይታዩም።
+        <br><br>
+እኛ እንመክራለን ወይ
+<br><br>
+ይህንን ይክፈቱ <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>አገናኝ(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font>በኮምፒተርዎ ወይም በሁለተኛ መሣሪያዎ ላይ (ካለዎት) እና </r> መመሪያዎቹን ያትሙ / ያትሙ / ይቅዱ ፡፡
+<br><br>
+ከሶፍትዌሩ ዝመና በኋላ የእርስዎ የተጠቃሚ ውሂብ አይጠፋም ፣ ሆኖም እንደ ቅድመ ጥንቃቄ ፣ ዝመናውን ከመጫንዎ በፊት ተጠቃሚዎች የተጠቃሚ ውሂብ መጠባበቂያ እንዲያደርጉ እንመክራለን ፡፡
+<br><br>
+
+ለመቀጠል አንዴ እሺ ከሆነ ዝመናን ይጫኑ
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[አንዴ ዝመናውን ከጀመሩ በኋላ እነዚህ እርምጃዎች በመሳሪያዎ ላይ አይታዩም።
+        <br><br>
+እኛ እንመክራለን ወይ
+<br><br>
+ይህንን ይክፈቱ <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>አገናኝ(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font>በኮምፒተርዎ ወይም በሁለተኛ መሣሪያዎ ላይ (ካለዎት) እና</r> መመሪያውን ያትሙ / ያትሙ / ይቅዱ ፡፡
+<br><br>
+ከሶፍትዌሩ ማዘመኛ በኋላ የእርስዎ የተጠቃሚ ውሂብ አይጠፋም ነገር ግን ለጥንቃቄ ሲባል ዝመናውን ከመጫንዎ በፊት ተጠቃሚዎች የተጠቃሚ ውሂብ እንዲያስቀምጡ እንመክራለን ፡፡
+<br><br>
+
+ለመቀጠል አንዴ እሺ ከሆነ ቀጣይ የሚለውን ጠቅ ያድርጉ
+                ]]>
+        </Data>
+    </string>
+<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

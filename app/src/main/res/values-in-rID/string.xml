@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 Pembaruan perangkat lunak</string>
+    <string name="button_next">"Lanjut"</string>
+    <string name="exit">"Baik"</string>
+    <string name="button_update">"Memperbarui"</string>
+
+    <string name="prompt_text1">Anda harus mengikuti beberapa langkah penting agar pembaruan ini berhasil diinstal,
+        harap baca dan perhatikan langkah-langkah berikut.</string>
+    <string name="prompt_text2">Tekan dan tahan tombol "Keraskan Volume" dan "Daya" secara bersamaan…</string>
+    <string name="prompt_text3">Terus tekan kedua tombol selama 3 detik dan kemudian lepaskan hanya tombol "Volume Naik".</string>
+    <string name="prompt_text4">Setelah Anda melihat opsi menu, lepaskan tombol "Daya". </string>
+    <string name="prompt_text5">Gunakan tombol "Volume Naik / Turun" untuk menyorot "Apply update from SD card", dan tekan tombol "Daya". </string>
+    <string name="prompt_text6">Setelah pembaruan berhasil, Anda akan melihat di bagian bawah layar
+        “Install from SD card completed with status 0”.</string>
+    <string name="prompt_text7">Tekan tombol "Volume Naik / Turun" untuk menyorot "Reboot system now".
+        Setelah disorot, tekan sebentar tombol "Daya" (perangkat sekarang akan reboot secara otomatis).
+        Harap diperhatikan: Perangkat mungkin memerlukan beberapa menit untuk memulai ulang.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Setelah ponsel Anda dihidupkan ulang,
+         jika mau, Anda dapat memeriksa versi Perangkat Lunak dari Pengaturan> Tentang Telepon> Nomor Bangun.
+         Pembaruan yang berhasil akan ditampilkan sebagai
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+        </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nPembaruan perangkat lunak </string>
+
+    <string name="guild_line_text">Pembaruan perangkat lunak ini hanya untuk pengguna Nokia 3.1 Plus dengan pembuatan perangkat lunak:
+        \n\n
+        00WW_3_15H \n
+        00WW_3_15H_SP01
+        \n\n
+        Untuk memeriksa pembuatan perangkat, buka "Pengaturan"> "Tentang Ponsel"
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Halo fragmen kosong</string>
+    <string name="checkbox_tv">Saya telah membaca dan memahami petunjuknya dan siap menerima pembaruan Perangkat Lunak Nokia 3.1 Plus Android 10.</string>
+    <string name="important_notice">Pemberitahuan Penting</string>
+    <string name="check_title">Mari lakukan pemeriksaan terakhir untuk memastikan perangkat Anda siap…</string>
+    <string name="new_version">Ponsel Anda sudah diperbarui. </string>
+    <string name="back">Kembali</string>
+    <string name="next">Lanjut</string>
+    <string name="sdcard">Kartu SD dimasukkan</string>
+    <string name="sd_space">Setidaknya 300MB ruang kosong di kartu SD.</string>
+    <string name="power">Lebih dari 30% daya.</string>
+    <string name="check_for_updates">Periksa pembaruan</string>
+    <string name="new_version_desc">Harap tekan OK untuk keluar.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[Setelah Anda memulai pembaruan, langkah-langkah ini <br> tidak akan ditampilkan di perangkat Anda.
+        <br><br>
+Kami merekomendasikan Anda:
+<br><br>
+Buka <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>tautan(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> ini di komputer atau perangkat sekunder Anda (jika ada) dan </r> cetak/salin petunjuknya.
+<br><br>
+Data pengguna Anda tidak akan hilang setelah pembaruan perangkat lunak, namun sebagai tindakan pencegahan,
+kami menyarankan pengguna untuk melakukan pencadangan data pengguna sebelum menginstal pembaruan.
+<br><br>
+
+Setelah OK untuk melanjutkan, tekan Perbarui
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Once you start the update, these steps will not be shown on your device.
+        <br><br>
+Kami merekomendasikan Anda:
+<br><br>
+Buka <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>tautan(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> ini di komputer atau perangkat sekunder Anda (jika ada) dan </r> cetak/salin petunjuknya.
+<br><br>
+Data pengguna Anda tidak akan hilang setelah pembaruan perangkat lunak, namun sebagai tindakan pencegahan,
+kami menyarankan pengguna untuk melakukan pencadangan data pengguna sebelum menginstal pembaruan.
+<br><br>
+
+Setelah OK untuk melanjutkan, tekan Next
+                ]]>
+        </Data>
+    </string>
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

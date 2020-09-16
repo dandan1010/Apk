@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 Szoftver frissítés</string>
+    <string name="button_next">"Következő"</string>
+    <string name="exit">"Rendben"</string>
+    <string name="button_update">"Frissítés"</string>
+
+    <string name="prompt_text1">A frissítés sikeres telepítéséhez néhány kulcsfontosságú lépést kell végrehajtania,
+        kérjük, olvassa el és vegye figyelembe a következő lépéseket.</string>
+    <string name="prompt_text2">Nyomja meg és tartsa lenyomva egyszerre a „Hangerő növelése” és a „Bekapcsoló” gombokat…</string>
+    <string name="prompt_text3">Tartsa nyomva mindkét gombot 3 másodpercig, majd engedje fel csak a „Hangerő növelése” gombot.</string>
+    <string name="prompt_text4">Miután meglátta a menüopciókat, engedje fel a „Erő” gombot.</string>
+    <string name="prompt_text5">A „Hangerő növelése / csökkentése” gombbal jelölje ki a „Apply update from SD card” elemet, majd nyomja meg a „Bekapcsoló” gombot. </string>
+    <string name="prompt_text6">Miután a frissítés sikeres volt, a képernyő alján látni fogja
+        “Install from SD card completed with status 0”.</string>
+    <string name="prompt_text7">Nyomja meg a „Hangerő növelése / csökkentése” gombot a „Reboot system now” elem kiemeléséhez.
+        A kiemelés után röviden nyomja meg a „Power” gombot (a készülék most automatikusan újraindul).
+        Kérjük, vegye figyelembe: Az eszköz újraindítása néhány percet vehet igénybe.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Miután a telefon újraindult,
+         ha szeretné, ellenőrizheti a szoftver verzióját a Beállítások> A telefonról> Build szám menüpontból.
+         A sikeres frissítés mint
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+        </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus Android 10 Szoftver frissítés </string>
+
+    <string name="guild_line_text">Ez a szoftverfrissítés csak a Nokia 3.1 Plus szoftvert használó felhasználóknak szól:
+        \n\n
+        00WW_3_15H \n
+        00WW_3_15H_SP01
+        \n\n
+        Az eszköz összeállításának ellenőrzéséhez lépjen a „Beállítások”> „A telefonról” menüpontra.
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Helló üres töredék</string>
+    <string name="checkbox_tv">Elolvastam és megértettem az utasításokat, és készen állok a Nokia 3.1 Plus Android 10 szoftverfrissítés fogadására.</string>
+    <string name="important_notice">Fontos figyelmeztetés</string>
+    <string name="check_title">Végezzük el az utolsó ellenőrzéseket annak biztosítására, hogy az eszköz készen álljon…</string>
+    <string name="new_version">Telefonja már naprakész. </string>
+    <string name="back">Vissza</string>
+    <string name="next">Következő</string>
+    <string name="sdcard">SD-kártya van behelyezve</string>
+    <string name="sd_space">Legalább 300 MB szabad hely az SD-kártyán.</string>
+    <string name="power">Az energia több mint 30% -a.</string>
+    <string name="check_for_updates">Frissítések keresése</string>
+    <string name="new_version_desc">A kilépéshez nyomja meg az OK gombot</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[A frissítés elindítása után ezek a lépések <br> nem jelennek meg eszközén.
+        <br><br>
+Azt javasoljuk, hogy:
+<br><br>
+Nyissa meg ezt a <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>linket(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> a számítógépén vagy a másodlagos eszközön (ha van ilyen), és </r> vagy nyomtassa ki/másolja le az utasításokat.
+<br><br>
+Felhasználói adatai nem vesznek el a szoftverfrissítés után, azonban elővigyázatosságból,
+azt javasoljuk a felhasználóknak, hogy a frissítés telepítése előtt készítsenek biztonsági másolatot a felhasználói adatokról.
+<br><br>
+
+Miután folytatta az OK-t, nyomja meg az Update gombot.
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Once you start the update, these steps will not be shown on your device.
+        <br><br>
+Azt javasoljuk, hogy:
+<br><br>
+Nyissa meg ezt a <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>linket(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> a számítógépén vagy a másodlagos eszközön (ha van ilyen), és </r> vagy nyomtassa ki/másolja le az utasításokat.
+<br><br>
+Felhasználói adatai nem vesznek el a szoftverfrissítés után, azonban elővigyázatosságból,
+azt javasoljuk a felhasználóknak, hogy a frissítés telepítése előtt készítsenek biztonsági másolatot a felhasználói adatokról.
+<br><br>
+
+Miután folytatta, nyomja meg a Tovább gombot
+                ]]>
+        </Data>
+    </string>
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

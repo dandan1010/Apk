@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Sasisho la Nokia 3.1 Plus Android 10 SW</string>
+    <string name="button_next">"Ifuatayo"</string>
+    <string name="exit">"Ok"</string>
+    <string name="button_update">"Sasisha"</string>
+
+    <string name="prompt_text1">Utahitaji kufuata hatua kadhaa muhimu ili sasisho hili lisakinishwe kwa mafanikio, tafadhali soma na uzingatie hatua zifuatazo.</string>
+    <string name="prompt_text2">Bonyeza na ushikilie vitufe vya "Volume Up" na "Power" kwa wakati mmoja…</string>
+    <string name="prompt_text3">Endelea kubonyeza vitufe vyote kwa sekunde 3 na kisha toa tu Kitufe cha "Volume Up".</string>
+    <string name="prompt_text4">Mara tu unapoona chaguzi za menyu, toa kitufe cha "Nguvu". </string>
+    <string name="prompt_text5">Tumia kitufe cha "Volume Up / Down" kuangazia “Apply update from SD card”, na bonyeza kitufe cha "Power". </string>
+    <string name="prompt_text6">Baada ya sasisho kufanikiwa, chini ya skrini utaona
+        “Install from SD card completed with status 0”.</string>
+    <string name="prompt_text7">Bonyeza kitufe cha "Volume Up / Down" kuonyesha “Reboot system now”. Mara moja
+         imeangaziwa, bonyeza kwa kifupi kitufe cha "Nguvu" (kifaa sasa
+         reboot moja kwa moja). Tafadhali kumbuka: Kifaa kinaweza kuchukua dakika kadhaa kuanza upya.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Baada ya simu yako kuanza tena,
+ ikiwa unataka, unaweza kuangalia toleo la Programu kutoka kwa Mipangilio> Kuhusu Simu> Nambari ya Kuunda.
+ Sasisho lililofanikiwa litaonyeshwa kama 
+            “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Sasisho la Programu ya Nokia 3.1 Plus\nAndroid 10\n</string>
+
+    <string name="guild_line_text">Sasisho hili la programu ni la watumiaji wa Nokia 3.1 Plus tu na programu huunda: 
+        \n\n 
+        00WW_3_15H \n 
+        00WW_3_15H_SP01 
+        \n\n 
+        Kuangalia ujenzi wa kifaa, nenda kwenye "Mipangilio"> "Kuhusu Simu"
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Jambo kipande tupu</string>
+    <string name="checkbox_tv">Nimesoma na kuelewa maagizo na niko tayari kupokea sasisho la Programu ya Nokia 3.1 Plus Android 10.</string>
+    <string name="important_notice">Ilani Muhimu</string>
+    <string name="check_title">Wacha tufanye ukaguzi wa mwisho ili kuhakikisha kuwa kifaa chako kiko tayari…</string>
+    <string name="new_version">Simu yako tayari imesasishwa. </string>
+    <string name="back">Nyuma</string>
+    <string name="next">next</string>
+    <string name="sdcard">Kadi ya SD imeingizwa</string>
+    <string name="sd_space">Angalau nafasi ya bure ya 300MB kwenye kadi ya SD.</string>
+    <string name="power">Zaidi ya 30% ya nguvu.</string>
+    <string name="check_for_updates">Angalia visasisho</string>
+    <string name="new_version_desc">Tafadhali bonyeza OK ili uondoke.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[Mara tu unapoanza sasisho, hatua hizi <br> hazitaonyeshwa kwenye kifaa chako.
+        <br><br>
+Tunakupendekeza wewe ama:
+<br><br>
+Fungua hii <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> kwenye kompyuta yako au kifaa cha pili (ikiwa unayo) na </r> ama uchapishe / unakili maagizo.
+<br><br>
+Data yako ya mtumiaji haitapotea baada ya sasisho la programu, hata hivyo kama tahadhari, tulipendekeza watumiaji warudi nyuma
+ juu ya data ya mtumiaji kabla ya kusasisha sasisho.
+<br><br>
+
+Mara baada ya Sawa kuendelea, bonyeza Bonyeza
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Mara tu unapoanza sasisho, hatua hizi hazitaonyeshwa kwenye kifaa chako.
+        <br><br>
+Tunakupendekeza wewe ama:
+<br><br>
+Fungua hii <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> kwenye kompyuta yako au kifaa cha pili (ikiwa unayo) na </r> ama uchapishe / unakili maagizo.
+<br><br>
+Data yako ya mtumiaji haitapotea baada ya sasisho la programu, hata hivyo kama tahadhari, tulipendekeza watumiaji warudi nyuma
+ juu ya data ya mtumiaji kabla ya kusasisha sasisho.
+<br><br>
+
+Mara moja sawa kuendelea, bonyeza Ijayo
+                ]]>
+        </Data>
+    </string>
+<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

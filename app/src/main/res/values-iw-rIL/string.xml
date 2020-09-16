@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 עדכון תוכנה</string>
+    <string name="button_next">"הַבָּא"</string>
+    <string name="exit">"בסדר"</string>
+    <string name="button_update">"עדכון"</string>
+
+    <string name="prompt_text1">יהיה עליך לבצע כמה צעדים מרכזיים על מנת שהתקנת עדכון זה בהצלחה,
+        אנא קרא ושים לב לשלבים הבאים.      </string>
+    <string name="prompt_text2">לחץ והחזק את מקשי "הגברת עוצמת הקול" וגם את מקשי "ההפעלה" בו זמנית...</string>
+    <string name="prompt_text3">המשך ללחוץ על שני המקשים למשך 3 שניות ואז שחרר רק את מקש "הגברת עוצמת הקול".</string>
+    <string name="prompt_text4">לאחר שתראה את אפשרויות התפריט, שחרר את מקש "הפעלה". </string>
+    <string name="prompt_text5">השתמש במקש "עוצמת קול למעלה / למטה" כדי להדגיש את המקש "Apply update from SD card", ולחץ על מקש "הפעלה". </string>
+    <string name="prompt_text6">לאחר שהעדכון הצליח, בחלק התחתון של המסך תראה
+        "Install from SD card completed with status 0".</string>
+    <string name="prompt_text7">לחץ על מקש "עוצמת הקול למעלה / למטה" כדי להדגיש “Reboot system now”
+        לאחר שהודגש, לחץ לחיצה קצרה על מקש "הפעלה" (המכשיר יאתחל מחדש אוטומטית).
+        שים לב: המכשיר עשוי להימשך מספר דקות להפעלה מחדש.       </string>
+    <string name="prompt_text8">
+        <Data><![CDATA[לאחר שהטלפון שלך הופעל מחדש,
+         אם תרצה, תוכל לבדוק את גרסת התוכנה מתוך הגדרות> אודות טלפון> מספר בנייה.
+         עדכון מוצלח יופיע בתור
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nעדכון תוכנה </string>
+
+    <string name="guild_line_text">עדכון תוכנה זה מיועד רק למשתמשי Nokia 3.1 Plus עם תוכנות תוכנה:
+             \n\n
+            00WW_3_15H \n
+            00WW_3_15H_SP01
+             \n\n
+            לבדיקת בניית המכשירים, עבור אל "הגדרות"> "אודות טלפון"
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">שלום שבר ריק</string>
+    <string name="checkbox_tv">קראתי והבנתי את ההוראות ומוכן לקבל עדכון תוכנה ל- Nokia 3.1 Plus Android 10.</string>
+    <string name="important_notice">הודעה חשובה</string>
+    <string name="check_title">בואו נעשה בדיקות אחרונות כדי להבטיח שהמכשיר שלכם מוכן...</string>
+    <string name="new_version">הטלפון שלך כבר מעודכן. </string>
+    <string name="back">חזור</string>
+    <string name="next">הַבָּא</string>
+    <string name="sdcard">כרטיס SD מוכנס</string>
+    <string name="sd_space">לפחות 300MB מקום פנוי בכרטיס SD.</string>
+    <string name="power">יותר מ -30% מהספק.</string>
+    <string name="check_for_updates">בדוק עדכונים</string>
+    <string name="new_version_desc">אנא לחץ על אישור כדי לצאת.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[לאחר שתתחיל את העדכון, שלבים אלה <br> לא יוצגו במכשיר שלך.
+        <br><br>
+אנו ממליצים לך:
+<br><br>
+פתח את <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>קישור(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u/><a/></font> במחשב שלך או בהתקן משני (אם יש לך כזה) ו </r> או הדפס/העתק את ההוראות.
+<br><br>
+נתוני המשתמש שלך לא יאבדו לאחר עדכון התוכנה, אולם כאמצעי זהירות,
+המלצנו למשתמשים לבצע גיבוי של נתוני משתמשים לפני התקנת העדכון.
+<br><br>
+
+לאחר אישור כדי להמשיך, לחץ על עדכן
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[לאחר שתתחיל את העדכון, צעדים אלה לא יוצגו במכשיר שלך.
+        <br><br>
+אנו ממליצים לך:
+<br><br>
+פתח את <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>קישור(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u/><a/></font> במחשב שלך או בהתקן משני (אם יש לך כזה) ו </r> או הדפס/העתק את ההוראות.
+<br><br>
+נתוני המשתמש שלך לא יאבדו לאחר עדכון התוכנה, אולם כאמצעי זהירות,
+המלצנו למשתמשים לבצע גיבוי של נתוני משתמשים לפני התקנת העדכון.
+<br><br>
+
+לאחר אישור כדי להמשיך, לחץ על הבא
+                ]]>
+        </Data>
+    </string>
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

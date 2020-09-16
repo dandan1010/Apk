@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Ukuvuselelwa kweNokia 3.1 Plus Android 10 SW</string>
+    <string name="button_next">"Okulandelayo"</string>
+    <string name="exit">"Ok"</string>
+    <string name="button_update">"Buyekeza"</string>
+    <string name="prompt_text1">Uzodinga ukulandela ezinye izinyathelo ezibalulekile ukuze lesi sibuyekezo sikwazi ukufaka ngempumelelo, sicela ufunde futhi uqaphele lezi zinyathelo ezilandelayo.</string>
+    <string name="prompt_text2">Cindezela bese ubamba kokubili okhiye be- “Volume Up” kanye ne- “Power” ngasikhathi sinye…</string>
+    <string name="prompt_text3">Qhubeka ucindezela okhiye bobabili imizuzwana emi-3 bese ukhipha ukhiye we- “Volume Up” kuphela.</string>
+    <string name="prompt_text4">Uma usubona izinketho zemenyu, dedela inkinobho ethi “Amandla”.</string>
+    <string name="prompt_text5"> Sebenzisa ukhiye we- “Volume Up / Down” ukugqamisa u- “Apply update from SD card”, bese ucindezela inkinobho ethi “Power”. </string>
+    <string name="prompt_text6"> Ngemuva kokuthi ukubuyekeza kuphumelele, ezansi kwesikrini uzobona
+         "Install from SD card completed with status 0". </string>
+    <string name="prompt_text7"> Cindezela inkinobho ethi “Ivolumu Phezulu / Yehla” ukugqamisa “Reboot system now”. Kanye
+         kugqanyisiwe, cindezela kafushane ukhiye we- “Power” (insizakusebenza manje
+         qala kabusha ngokuzenzakalela). Sicela wazi: Idivayisi ingathatha imizuzu embalwa ukuqala kabusha. </string>
+    <string name="prompt_text8">
+		<Data>
+		<![CDATA[
+		Ngemuva kokuthi ifoni yakho iqale kabusha,
+		 uma ufisa, ungabheka inguqulo yeSoftware kusuka ku-Amasethingi> Mayelana nefoni> Inombolo yokwakha.
+		 Isibuyekezo esiphumelele sizoboniswa njenge- 
+		 “<font><b>"00WW_3_15L"</b></font>”.
+		]]>
+		</Data>
+	</string>
+    <string name="apk_title" translatable="false"> Isibuyekezo seSoftware yeNokia 3.1 Plus\nAndroid 10\n</string>
+    <string name="guild_line_text">
+	Lokhu kubuyekezwa kwesoftware kwenzelwe kuphela abasebenzisi beNokia 3.1 Plus enokwakhiwa kwesoftware:
+	 \n\n 
+	 00WW_3_15H \n 
+	 00WW_3_15H_SP01 
+	 \n\n 
+	 Ukubheka ukwakhiwa kwedivayisi, iya kokuthi "Izilungiselelo"> "Mayelana nefoni"
+	</string>
+    <!--  TODO: Remove or change this placeholder text  -->
+    <string name="hello_blank_fragment">Sawubona isiqeshana esingenalutho</string>
+    <string name="checkbox_tv">
+	Ngifundile futhi ngayiqonda imiyalo futhi ngikulungele ukuthola isibuyekezo seSoftware yeNokia 3.1 Plus Android 10.
+	</string>
+    <string name="important_notice">Isaziso Esibalulekile</string>
+    <string name="check_title">
+	Masenze amasheke wokugcina ukuqinisekisa ukuthi idivayisi yakho isilungile…
+	</string>
+    <string name="new_version">Ifoni yakho isivele isesikhathini.</string>
+    <string name="back">Emuva</string>
+    <string name="next">Okulandelayo</string>
+    <string name="sdcard">Ikhadi le-SD lifakiwe</string>
+    <string name="sd_space">Okungenani isikhala samahhala esingu-300MB ekhadini le-SD.</string>
+    <string name="power">Amandla angaphezu kuka-30%.</string>
+    <string name="check_for_updates">Bheka izibuyekezo</string>
+    <string name="new_version_desc">Sicela ucindezele KULUNGILE ukuphuma.</string>
+    <string name="import_desc_update">
+<Data>
+<![CDATA[
+Lapho usuqale ukubuyekeza, lezi zinyathelo <br> ngeke ziboniswe kudivayisi yakho.
+ <br><br>
+Sincoma wena noma:
+ <br><br>
+ Vula le <font color ="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>isixhumanisi(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> kwikhompyutha yakho noma idivayisi yesibili (uma unayo) bese </r> uphrinte noma ukopishe phansi imiyalo.
+ <br><br>
+ Idatha yakho yomsebenzisi ngeke ilahleke ngemuva kokuvuselelwa kwesoftware, kepha njengokuqapha, sincome abasebenzisi ukuthi benze emuva
+ phezulu kwedatha yomsebenzisi ngaphambi kokufaka isibuyekezo
+ <br><br>
+ 
+ Uma KULUNGILE ukuqhubeka, cindezela okuthi Buyekeza
+]]>
+</Data>
+</string>
+    <string name="import_desc_next">
+<Data>
+<![CDATA[
+Uma usuqale isibuyekezo, lezi zinyathelo ngeke ziboniswe kudivayisi yakho.
+ <br><br>
+ Sincoma wena noma:
+ <br><br>
+ Vula le <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>isixhumanisi(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> kwikhompyutha yakho noma idivayisi yesibili (uma unayo) bese </r> uphrinte noma ukopishe phansi imiyalo.
+ <br><br>
+ Idatha yakho yomsebenzisi ngeke ilahleke ngemuva kokuvuselelwa kwesoftware, kepha njengokuqapha, sincome abasebenzisi ukuthi benze emuva
+ phezulu kwedatha yomsebenzisi ngaphambi kokufaka isibuyekezo.
+ <br><br>
+ 
+ Uma KULUNGILE ukuqhubeka, cindezela Okulandelayo
+]]>
+</Data>
+</string>
+    <!--     以上是2020-8-25的翻译，之后的修改在备注之下 -->
+</resources>

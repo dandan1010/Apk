@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 softwareopdatering</string>
+    <string name="button_next">"Næste"</string>
+    <string name="exit">"Okay"</string>
+    <string name="button_update">"Opdatering "</string>
+
+    <string name="prompt_text1">Du bliver nødt til at følge nogle vigtige trin for at denne opdatering kan installeres korrekt. 
+	    Læs og noter dig følgende trin.</string>
+    <string name="prompt_text2">Tryk og hold både "Lydstyrke op" og "Strømforsyning" tasterne på samme tid ...</string>
+    <string name="prompt_text3">Bliv ved med at trykke på begge taster i 3 sekunder, og slip derefter kun "Lydstyrke op" -tasten.</string>
+    <string name="prompt_text4">Når du ser menuindstillingerne, skal du slippe “Strømforsyning” -tasten.</string>
+    <string name="prompt_text5">Brug "Lydstyrke op / ned" -tasten til at fremhæve "Apply update from SD card", og tryk på "Strømforsyning" -tasten.</string>
+    <string name="prompt_text6">Når opdateringen er vellykket, vil du se 
+	    "Install from SD card completed with status 0" nederst på skærmen.</string>
+    <string name="prompt_text7">Tryk på "Lydstyrke op / ned" -tasten for at fremhæve "Reboot system now".
+        Når du er fremhævet, skal du kort trykke på “Strømforsyning” -tasten (enheden genstarter nu automatisk).
+        Bemærk: Enheden kan tage flere minutter at genstarte.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Når din telefon er genstartet, 
+		hvis du ønsker det,du kan kontrollere softwareversionen fra Indstillinger> Om telefon> Build-nummer.
+        En vellykket opdatering vises som 
+            “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nsoftwareopdatering</string>
+
+    <string name="guild_line_text">Denne softwareopdatering er kun til brugere af Nokia 3.1 Plus med software-builds:
+             \n\n
+            00WW_3_15H \n
+            00WW_3_15H_SP01
+             \n\n
+        For at kontrollere enhedens opbygning skal du gå til "Indstillinger"> "Om telefonen"
+             
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hej blankt fragment</string>
+    <string name="checkbox_tv">Jeg har læst og forstået instruktionerne og er klar til at modtage Nokia 3.1 Plus Android 10 softwareopdatering.</string>
+    <string name="important_notice">Vigtig besked</string>
+    <string name="check_title">Lad os foretage sidste kontrol for at sikre, at din enhed er klar ...</string>
+    <string name="new_version">Din telefon er allerede opdateret. </string>
+    <string name="back">Tilbage</string>
+    <string name="next">Næste</string>
+    <string name="sdcard">SD-kort er isat</string>
+    <string name="sd_space">Mindst 300 MB ledig plads på SD-kortet.</string>
+    <string name="power">Mere end 30% af strømmen</string>
+    <string name="check_for_updates">Søg efter opdateringer</string>
+    <string name="new_version_desc">Tryk på OK for at afslutte.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[Når du starter opdateringen, vises disse trin <br> ikke på din enhed.
+
+        <br><br>
+Vi anbefaler dig enten:
+<br><br>
+Åbn dette <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> på din computer eller sekundære enhed (hvis du har en) og </r> enten udskrive/kopiere instruktionerne ned.
+<br><br>
+Dine brugerdata går ikke tabt efter softwareopdateringen, 
+men som en sikkerhedsforanstaltning har vi anbefalet brugere at foretage en sikkerhedskopi af brugerdata inden installation af opdateringen.
+<br><br>
+
+Når du er OK for at fortsætte, skal du trykke på Opdater
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Når du starter opdateringen, vises disse trin ikke på din enhed.
+        <br><br>
+Vi anbefaler dig enten:
+<br><br>
+Åbn dette <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> på din computer eller sekundære enhed (hvis du har en) og </r> enten udskrive/kopiere instruktionerne ned.
+<br><br>
+Dine brugerdata går ikke tabt efter softwareopdateringen,
+men som forsigtighed anbefalede vi brugere at foretage en sikkerhedskopi af brugerdata inden installation af opdateringen.
+<br><br>
+
+Når du er OK for at fortsætte, skal du trykke på Næste
+                ]]>
+        </Data>
+    </string>
+<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

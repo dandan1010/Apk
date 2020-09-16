@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 Ծրագրի թարմացում</string>
+    <string name="button_next">"Հաջորդը"</string>
+    <string name="exit">"Լավ"</string>
+    <string name="button_update">"Թարմացնել"</string>
+
+    <string name="prompt_text1">Այս թարմացման հաջող տեղադրման համար հարկավոր է հետևել մի քանի հիմնական քայլերի,
+        խնդրում ենք կարդալ և հաշվի առնել հետևյալ քայլերը:</string>
+    <string name="prompt_text2">Միաժամանակ սեղմեք և պահեք ինչպես «Ձայնի բարձրացում», այնպես էլ «Սնուցման» ստեղները</string>
+    <string name="prompt_text3">Շարունակեք սեղմել երկու ստեղները 3 վայրկյան և ապա թողնել միայն «Ձայնի բարձրացում» ստեղնը:</string>
+    <string name="prompt_text4">Menuանկի ընտրանքները տեսնելուն պես թողարկեք «Սնուցման» ստեղնը: </string>
+    <string name="prompt_text5">Օգտագործեք «Umeավալը վեր/վար» ստեղնը ՝ «Apply update from SD card» ընդգծելու համար և սեղմեք «Ուժ» ստեղնը: </string>
+    <string name="prompt_text6">Թարմացումը հաջողելուց հետո էկրանի ներքևում կտեսնեք
+        «Install from SD card completed with status 0»:</string>
+    <string name="prompt_text7">Սեղմեք «Umeավալը վեր/վար» ստեղնը ՝ «Reboot system now» - ը նշելու համար:
+        Նշվելուց հետո կարճ սեղմեք «Ուժ» ստեղնը (սարքն այժմ ավտոմատ կերպով կվերաբեռնվի):
+        Խնդրում ենք նկատի ունենալ. Վերագործարկումը կարող է տևել մի քանի րոպե:</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Ձեր հեռախոսը վերագործարկելուց հետո,
+         ցանկության դեպքում կարող եք ստուգել Softwareրագրաշարի տարբերակը ՝ Պարամետրերից> Հեռախոսի մասին> Կառուցել համարը:
+         Հաջող թարմացումը ցույց կտա որպես
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+         </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nԾրագրի թարմացում </string>
+
+    <string name="guild_line_text">Softwareրագրաշարի այս թարմացումը նախատեսված է միայն Nokia 3.1 Plus- ի օգտագործողների համար, որոնք ունեն ծրագրային ապահովում.
+             \n\n
+            00WW_3_15H \n
+            00WW_3_15H_SP01
+             \n\n
+            Սարքի կառուցվածքը ստուգելու համար անցեք «Կարգավորումներ»> «Հեռախոսի մասին»
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Բարև դատարկ բեկոր</string>
+    <string name="checkbox_tv">Ես կարդացել և հասկացել եմ հրահանգները և պատրաստ եմ ստանալ Nokia 3.1 Plus Android 10 ծրագրաշարի թարմացումը:</string>
+    <string name="important_notice">Կարևոր ծանուցում</string>
+    <string name="check_title">Եկեք կատարենք վերջին ստուգումները ՝ ձեր սարքը պատրաստ լինելու համար</string>
+    <string name="new_version">Ձեր հեռախոսն արդեն արդիական է: </string>
+    <string name="back">Վերադառնալ</string>
+    <string name="next">Հաջորդը</string>
+    <string name="sdcard">Տեղադրված է SD քարտ</string>
+    <string name="sd_space">Առնվազն 300 ՄԲ ազատ տարածք SD քարտի վրա:</string>
+    <string name="power">Էլեկտրաէներգիայի ավելի քան 30% -ը:</string>
+    <string name="check_for_updates">Ստուգել թարմացումները</string>
+    <string name="new_version_desc">Դուրս գալու համար սեղմեք OK:</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[Թարմացումը սկսելուն պես, այս քայլերը <br> ձեր սարքում չեն ցուցադրվի:
+        <br><br>
+Մենք ձեզ նույնպես խորհուրդ ենք տալիս.
+<br><br>
+Բացեք այս <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>հղումը(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> ձեր համակարգչում կամ երկրորդական սարքում (եթե ունեք) և </r> կամ տպեք/պատճենեք հրահանգները:
+<br><br>
+Userրագրաշարի թարմացումից հետո ձեր օգտագործողի տվյալները չեն կորչի, սակայն նախազգուշական կարգով
+մենք խորհուրդ ենք տվել օգտվողներին կատարել թարմացում օգտագործողի տվյալների վերաբերյալ ՝ նախքան թարմացումը տեղադրելը:
+<br><br>
+
+Շարունակելուց հետո լավ- ը սեղմեք Թարմացնել- ը
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Թարմացումը սկսելուց հետո այս քայլերը չեն ցուցադրվի ձեր սարքում:
+        <br><br>
+Մենք ձեզ նույնպես խորհուրդ ենք տալիս.
+<br><br>
+Բացեք այս <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>հղումը(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> ձեր համակարգչում կամ երկրորդական սարքում (եթե ունեք) և </r> կամ տպեք/պատճենեք հրահանգները:
+<br><br>
+Userրագրաշարի թարմացումից հետո ձեր օգտագործողի տվյալները չեն կորչի, սակայն նախազգուշական կարգով
+մենք խորհուրդ ենք տվել օգտվողներին կատարել թարմացում օգտագործողի տվյալների վերաբերյալ ՝ նախքան թարմացումը տեղադրելը:
+<br><br>
+
+Շարունակելուց հետո լավ- ը սեղմեք Հաջորդը
+                ]]>
+        </Data>
+    </string>
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

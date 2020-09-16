@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 Hugbúnaðaruppfærsla</string>
+    <string name="button_next">"Næst"</string>
+    <string name="exit">"Allt í lagi"</string>
+    <string name="button_update">"Uppfærsla"</string>
+
+    <string name="prompt_text1">Þú verður að fylgja nokkrum lykilskrefum til að þessi uppfærsla geti sett upp með góðum árangri,
+        vinsamlegast lestu og taktu eftirfarandi skref.</string>
+    <string name="prompt_text2">Haltu inni bæði „Hækka“ og „Kraftur“ takkunum á sama tíma ...</string>
+    <string name="prompt_text3">Haltu áfram að ýta á báða takkana í 3 sekúndur og slepptu síðan aðeins „Hækka“ takkanum.</string>
+    <string name="prompt_text4">Þegar þú sérð valmyndarmöguleikana, slepptu “Kraftur” takkanum. </string>
+    <string name="prompt_text5">Notaðu „Magn upp/niður“ takkann til að auðkenna „Apply update from SD card“ og ýttu á „Kraftur“ takkann. </string>
+    <string name="prompt_text6">Eftir að uppfærslan hefur gengið vel, neðst á skjánum sérðu
+        „Install from SD card completed with status 0“.</string>
+    <string name="prompt_text7">Ýttu á „Magn upp/niður“ takkann til að auðkenna „Reboot system now“.
+        Þegar auðkenndur er, ýttu stuttlega á „Kraftur“ takkann (tækið mun endurræsa sjálfkrafa).
+        Athugið: Tækið getur tekið nokkrar mínútur að endurræsa.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Eftir að síminn þinn hefur endurræst,
+         ef þú vilt geturðu skoðað hugbúnaðarútgáfuna úr Stillingar> Um símann> Byggingarnúmer.
+         Árangursrík uppfærsla mun sýna sem
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+        </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nHugbúnaðaruppfærsla </string>
+
+    <string name="guild_line_text">Þessi hugbúnaðaruppfærsla er eingöngu ætluð notendum Nokia 3.1 Plus með hugbúnaðargerð:
+        \n\n
+        00WW_3_15H \n
+        00WW_3_15H_SP01
+        \n\n
+        Til að athuga uppbyggingu tækisins skaltu fara í „Stillingar“> „Um símann“
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Halló autt brot</string>
+    <string name="checkbox_tv">Ég hef lesið og skilið leiðbeiningarnar og er tilbúinn að fá Nokia 3.1 Plus Android 10 hugbúnaðaruppfærslu.</string>
+    <string name="important_notice">Mikilvæg tilkynning</string>
+    <string name="check_title">Við skulum gera lokakannanir til að tryggja að tækið þitt sé tilbúið ...</string>
+    <string name="new_version">Síminn þinn er þegar uppfærður. </string>
+    <string name="back">Aftur</string>
+    <string name="next">Næst</string>
+    <string name="sdcard">SD kort er sett í</string>
+    <string name="sd_space">Að minnsta kosti 300MB laust pláss á SD kortinu.</string>
+    <string name="power">Meira en 30% af krafti.</string>
+    <string name="check_for_updates">Athugaðu með uppfærslur</string>
+    <string name="new_version_desc">Vinsamlegast ýttu á OK til að hætta.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[Þegar þú byrjar uppfærsluna verða þessi skref <br> ekki sýnd í tækinu þínu.
+        <br><br>
+Við mælum með þér annað hvort:
+<br><br>
+Opnaðu þennan <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>hlekk(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> á tölvunni þinni eða í aukabúnaði (ef þú ert með einn) og </r> ýmist prentaðu af/afritaðu leiðbeiningarnar.
+<br><br>
+Notendagögn þín tapast ekki eftir uppfærslu hugbúnaðarins, þó af varúðarskyni,
+við mælum með því að notendur geri öryggisafrit af notendagögnum áður en uppfærslan er sett upp.
+<br><br>
+
+Einu sinni í lagi til að halda áfram, ýttu á Uppfærsla
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Once you start the update, these steps will not be shown on your device.
+        <br><br>
+Við mælum með þér annað hvort:
+<br><br>
+Opnaðu þennan <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>hlekk(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> á tölvunni þinni eða í aukabúnaði (ef þú ert með einn) og </r> ýmist prentaðu af/afritaðu leiðbeiningarnar.
+<br><br>
+Notendagögn þín tapast ekki eftir uppfærslu hugbúnaðarins, þó af varúðarskyni,
+við mælum með því að notendur geri öryggisafrit af notendagögnum áður en uppfærslan er sett upp.
+<br><br>
+
+Einu sinni í lagi til að halda áfram, ýttu á Næst
+                ]]>
+        </Data>
+    </string>
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+</resources>

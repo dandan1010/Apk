@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Nokia 3.1 Plus Android 10 Software eguneratzea</string>
+    <string name="button_next">"Hurrengoa"</string>
+    <string name="exit">"Ados"</string>
+    <string name="button_update">"Eguneratu"</string>
+
+    <string name="prompt_text1">Eguneratze hau ondo instalatu ahal izateko funtsezko urrats batzuk jarraitu beharko dituzu.
+        irakurri eta hartu urrats hauek.</string>
+    <string name="prompt_text2">Eduki sakatuta "Bolumen igoera" eta "pizteko" teklak aldi berean ...</string>
+    <string name="prompt_text3">Jarrai itzazu bi teklak 3 segundoz eta ondoren askatu "Bolumen igoera" tekla soilik.</string>
+    <string name="prompt_text4">Menuaren aukerak ikusi ondoren, askatu "pizteko" tekla. </string>
+    <string name="prompt_text5">Erabili "Bolumena igo/jaitsi" tekla "Apply update from SD card" nabarmentzeko, eta sakatu "pizteko" tekla. </string>
+    <string name="prompt_text6">Eguneratzeak arrakasta izan ondoren, pantailaren behealdean ikusiko duzu
+        "Install from SD card completed with status 0".</string>
+    <string name="prompt_text7">Sakatu "Bolumena igo/jaitsi" tekla "Reboot system now" nabarmentzeko.
+        Behin nabarmenduta, sakatu labur "Piztu" tekla (gailua automatikoki berrabiaraziko da orain).
+        Kontuan izan: gailuak minutu batzuk behar izan ditzake berrabiarazteko.</string>
+    <string name="prompt_text8">
+        <Data><![CDATA[Telefonoa berrabiarazi ondoren,
+         nahi izanez gero, Software bertsioa Ezarpenak> Telefonoari buruz> Eraikitze zenbakian ikusi dezakezu.
+         Eguneratze arrakastatsua gisa agertuko da
+		    “<font><b>"00WW_3_15L"</b></font>”.
+                ]]>
+        </Data>
+    </string>
+
+    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nSoftware eguneratzea </string>
+
+    <string name="guild_line_text">Software eguneratze hau Nokia 3.1 Plus softwarearen bertsioekin soilik da:
+        \n\n
+        00WW_3_15H \n
+        00WW_3_15H_SP01
+        \n\n
+        Gailuaren eraikuntza egiaztatzeko, joan "Ezarpenak" > "Telefonoari buruz" atalera
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Kaixo zati hutsa</string>
+    <string name="checkbox_tv">Argibideak irakurri eta ulertu ditut eta prest nago Nokia 3.1 Plus Android 10 softwarearen eguneratzea jasotzeko.</string>
+    <string name="important_notice">Ohar garrantzitsua</string>
+    <string name="check_title">Egin ditzagun azken egiaztapenak zure gailua prest dagoela ziurtatzeko ...</string>
+    <string name="new_version">Zure telefonoa eguneratuta dago dagoeneko. </string>
+    <string name="back">Itzuli</string>
+    <string name="next">Hurrengoa</string>
+    <string name="sdcard">SD txartela sartuta dago</string>
+    <string name="sd_space">Gutxienez 300 MB-ko espazioa SD txartelean.</string>
+    <string name="power">Potentziaren% 30 baino gehiago.</string>
+    <string name="check_for_updates">Begiratu eguneratzerik</string>
+    <string name="new_version_desc">Mesedez, sakatu Ados irteteko.</string>
+
+    <string name="import_desc_update">
+        <Data><![CDATA[Eguneratzea hasten duzunean, urrats hauek <br> ez dira zure gailuan erakutsiko.
+        <br><br>
+Gomendatzen dizugu bai:
+<br><br>
+Ireki <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>esteka(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> ordenagailuan edo bigarren mailako gailuan (bat baduzu) eta </r> inprimatu/kopiatu jarraibideak.
+<br><br>
+Erabiltzailearen datuak ez dira galduko softwarea eguneratu ondoren, hala ere, neurri gisa,
+eguneratzea instalatu aurretik erabiltzaileei gomendatzen diegu erabiltzaileen datuen babeskopia egitea.
+<br><br>
+
+Jarraitzeko Ados egon ondoren, sakatu Actualizar
+                ]]>
+        </Data>
+    </string>
+
+    <string name="import_desc_next">
+        <Data><![CDATA[Eguneratzea hasten duzunean, urrats hauek ez dira zure gailuan erakutsiko.
+        <br><br>
+Gomendatzen dizugu bai:
+<br><br>
+Ireki <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>esteka(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> ordenagailuan edo bigarren mailako gailuan (bat baduzu) eta </r> inprimatu/kopiatu jarraibideak.
+<br><br>
+Erabiltzailearen datuak ez dira galduko softwarea eguneratu ondoren, hala ere, neurri gisa,
+eguneratzea instalatu aurretik erabiltzaileei gomendatzen diegu erabiltzaileen datuen babeskopia egitea.
+<br><br>
+
+Jarraitzeko Ados egon ondoren, sakatu Hurrengoa
+                ]]>
+        </Data>
+    </string>
+    <!--    以上是2020-9-7的翻译，之后的修改在备注之下-->
+
+</resources>
