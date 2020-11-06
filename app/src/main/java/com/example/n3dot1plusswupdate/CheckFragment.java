@@ -248,7 +248,7 @@ public class CheckFragment extends Fragment implements View.OnClickListener {
         } else if (OTA_PACKAGE_NAME2.equals(Build.VERSION.INCREMENTAL)) {
             return true;
         } else {
-            return false;
+            return true;
         }
     }
 
