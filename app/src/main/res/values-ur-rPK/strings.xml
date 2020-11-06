@@ -19,27 +19,32 @@
         <Data><![CDATA[آپ کا فون دوبارہ شروع ہونے کے بعد ،
          اگر آپ چاہیں تو ، آپ ترتیبات> فون کے بارے میں> بلڈ نمبر سے سافٹ ویئر ورژن چیک
         کرسکتے ہیں۔ ایک کامیاب تازہ کاری بطور دکھائے گی “
-            <font><b>"00WW_3_15L"</b></font>”.
+            <font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nوسافٹ ویئر اپ ڈیٹ </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nوسافٹ ویئر اپ ڈیٹ </string>
 
-    <string name="guild_line_text">یہ سافٹ ویئر اپ ڈیٹ صرف نوکیا 3.1 پلس کے صارفین کے لئے ہے جس میں سافٹ ویئرکی تعمیر ہے: s n \n 00WW_3_15H \n 00WW_3_15H_SP01 \n\n آلہ کیتعمیر کی جانچ پڑتال کرنے کے لئے ، "ترتیبات"> "فون کے بارے میں" پر جائیں
-            
-             
+    <string name="guild_line_text">
+             یہ سافٹ ویئر اپ ڈیٹ صرف صارفین کے لئے ہے
+             سافٹ ویئر کی تعمیر کے ساتھ Nokia 3.1 Plus پلس:
+              \n\n
+             00WW_3_15H \n
+             00WW_3_15H_SP01
+              \n\n
+             ڈیوائس کی تعمیر کو چیک کرنے کے لئے ، "ترتیبات"> "فون کے بارے میں" پر جائیں
     </string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">ہیلو_بلانک_فراگمنٹ</string>
-    <string name="checkbox_tv">میں نے ہدایات کو پڑھ اور سمجھ لیا ہے اور موصول ہونے کے لئے تیار ہوں Nokia 3.1 Plus  Android 10سافٹ ویئر اپ ڈیٹ</string>
+    <string name="checkbox_tv">میں نے ہدایات کو پڑھ اور سمجھ لیا ہے اور موصول ہونے کے لئے تیار ہوں Nokia 3.1 Plus Android 10سافٹ ویئر اپ ڈیٹ</string>
     <string name="important_notice">اہم نوٹس</string>
     <string name="check_title">آئیے یقینی بنائیں کہ آپ کا آلہ تیار ہے…</string>
     <string name="new_version">آپ کا فون پہلے ہی تازہ ترین ہے۔ </string>
     <string name="back">پیچھے</string>
     <string name="next">اگلے</string>
     <string name="sdcard">ایسڈی کارڈ داخل کیا گیا ہے</string>
-    <string name="sd_space">SD کارڈ پر کم از کم 300MB خالی جگہ۔</string>
+    <string name="sd_space">SD 600MB خالی جگہ۔</string>
     <string name="power">30 than سے زیادہ طاقت</string>
     <string name="check_for_updates">اپ ڈیٹ کے لیے چیک کریں</string>
     <string name="new_version_desc">براہ کرم باہر نکلنے کے لئے ٹھیک دبائیں۔</string>

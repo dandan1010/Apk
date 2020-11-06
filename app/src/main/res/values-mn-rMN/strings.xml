@@ -19,12 +19,12 @@
         <Data><![CDATA[Таны утас дахин ассаны дараа,
         Хэрэв та хүсвэл Тохиргоо > Утасны тухай > Барилгын дугаар гэсэн хэсгээс Програм хангамжийн хувилбарыг шалгах боломжтой.
         Амжилттай шинэчлэлт нь дараахь байдлаар харагдана
-		    “<font><b>"00WW_3_15L"</b></font>”.
+		    “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nпрограмын шинэчлэлт </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nпрограмын шинэчлэлт </string>
 
     <string name="guild_line_text">Энэхүү програмын шинэчлэлт нь зөвхөн Nokia 3.1 Plus програм хангамж бүхий хэрэглэгчдэд зориулагдсан болно.
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">Буцах</string>
     <string name="next">Дараачийн</string>
     <string name="sdcard">SD карт оруулсан байна</string>
-    <string name="sd_space">SD карт дээр дор хаяж 300МБ-ийн сул зай.</string>
+    <string name="sd_space">SD карт дээр дор хаяж 600МБ-ийн сул зай.</string>
     <string name="power">Эрчим хүчний 30% -иас дээш.</string>
     <string name="check_for_updates">Шинэчлэлтүүдийг шалгах</string>
     <string name="new_version_desc">Гарахын тулд OK товчийг дарна уу.</string>

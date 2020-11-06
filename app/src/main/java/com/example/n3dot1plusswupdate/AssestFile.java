@@ -1,10 +1,9 @@
 package com.hmdglobal.app.n3dot1plusswupdate;
 
 import android.content.Context;
-import android.content.Intent;
-import android.os.Build;
+import android.graphics.Bitmap;
+import android.os.Environment;
 import android.os.Message;
-import android.os.storage.StorageManager;
 import android.text.Spannable;
 import android.text.SpannableStringBuilder;
 import android.text.TextPaint;
@@ -15,27 +14,26 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
-import com.example.n3dot1plusswupdate.DocumentsUtils;
-import com.example.n3dot1plusswupdate.ImportantActivity;
-import com.example.n3dot1plusswupdate.RecoveryActivity;
+import androidx.core.os.BuildCompat;
 
-import java.io.ByteArrayOutputStream;
+import com.example.n3dot1plusswupdate.ImportantActivity;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
-import java.io.OutputStream;
 
 public class AssestFile {
 
     private static final String TAG = "AssestFile";
-    private InputStream is;
-        private FileOutputStream fos;
-//    OutputStream fos;
+    private FileInputStream is;
+    private FileOutputStream fos;
+    //    OutputStream fos;
     private int length = 0;
     private Context mContext;
     private long fileLength = 0;
+    private static final String ZIP_NAME = "update.zip";
 
     public AssestFile(Context mContext) {
         this.mContext = mContext;
@@ -46,14 +44,13 @@ public class AssestFile {
         new Thread() {
             @Override
             public void run() {
-
+                Log.d(TAG, "write file path :" + Environment.getExternalStorageDirectory() +"/Android/obb/"+ BuildConfig.APPLICATION_ID +"/" + path);
                 try {
-                    is = mContext.getAssets().open(path);
+                    is = new FileInputStream(new File(Environment.getExternalStorageDirectory() +"/Android/obb/"+ BuildConfig.APPLICATION_ID +"/" + path));
                     fileLength = is.available();
-                    Log.d(TAG, "write file legth :" + fileLength);
+                    Log.d(TAG, "write file length :" + fileLength);
                     File file = new File(sdcard_path);
-                    fos = new FileOutputStream(new File(file, "/update.zip"));
-//                    fos = DocumentsUtils.getOutputStream(mContext, new File(file, "/update.zip"));//获取输出流
+                    fos = new FileOutputStream(new File(file, "/" + ZIP_NAME));
                     byte[] buffer = new byte[1024];
                     int count = 0;
                     while ((length = is.read(buffer)) > 0) {
@@ -67,7 +64,7 @@ public class AssestFile {
                     Log.d(TAG, "write file success");
                 } catch (IOException e) {
                     // TODO Auto-generated catch block
-                    Log.d(TAG, "error : " + e.getMessage());
+                    Log.d(TAG, "copy zip file error : " + e.getMessage());
                 } finally {
                     if (is != null) {
                         try {

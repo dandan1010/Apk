@@ -24,7 +24,7 @@
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\n소프트웨어 업데이트 </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\n소프트웨어 업데이트 </string>
 
     <string name="guild_line_text">이 소프트웨어 업데이트는 소프트웨어 빌드가있는 Nokia 3.1 Plus 사용자에게만 해당됩니다.
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">뒤</string>
     <string name="next">다음</string>
     <string name="sdcard">SD 카드가 삽입되었습니다.</string>
-    <string name="sd_space">SD 카드에 최소 300MB의 여유 공간.</string>
+    <string name="sd_space">SD 카드에 최소 600MB의 여유 공간.</string>
     <string name="power">전력의 30 % 이상.</string>
     <string name="check_for_updates">업데이트 확인</string>
     <string name="new_version_desc">종료하려면 확인을 누르십시오.</string>

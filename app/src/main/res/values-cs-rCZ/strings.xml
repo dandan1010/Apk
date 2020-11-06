@@ -19,12 +19,12 @@
         <Data><![CDATA[Pokud si přejete restartovat telefon,
         verzi softwaru můžete zkontrolovat v části Nastavení> O telefonu> Číslo sestavení.
         Úspěšná aktualizace se zobrazí jako 
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Aktualizace softwaru Nokia 3.1 Plus\nAndroid 10\n</string>
+    <string name="apk_title">Aktualizace softwaru \nNokia 3.1 Plus\nAndroid 10</string>
 
     <string name="guild_line_text">TTato aktualizace softwaru je určena pouze pro uživatele Nokia 3.1 Plus s verzemi softwaru:
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">Zadní</string>
     <string name="next">další</string>
     <string name="sdcard">Je vložena SD karta</string>
-    <string name="sd_space">Minimálně 300 MB volného místa na SD kartě.</string>
+    <string name="sd_space">Minimálně 600 MB volného místa na SD kartě.</string>
     <string name="power">Více než 30% energie</string>
     <string name="check_for_updates">Kontrola aktualizací</string>
     <string name="new_version_desc">Pro ukončení stiskněte OK.</string>

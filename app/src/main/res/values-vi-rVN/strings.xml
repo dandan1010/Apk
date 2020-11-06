@@ -18,12 +18,12 @@
         <Data><![CDATA[Sau khi điện thoại của bạn khởi động lại,
  nếu muốn, bạn có thể kiểm tra Phiên bản phần mềm từ Cài đặt> Giới thiệu về điện thoại> Số bản dựng.
  Cập nhật thành công sẽ hiển thị là
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Cập nhật phần mềm Nokia 3.1 Plus\nAndroid 10\n</string>
+    <string name="apk_title">Cập nhật phần mềm \nNokia 3.1 Plus\nAndroid 10</string>
 
     <string name="guild_line_text">Bản cập nhật phần mềm này chỉ dành cho người dùng Nokia 3.1 Plus có bản dựng phần mềm: 
         \n\n 
@@ -42,7 +42,7 @@
     <string name="back">Quay lại</string>
     <string name="next">Tiếp theo</string>
     <string name="sdcard">Thẻ SD đã được lắp vào</string>
-    <string name="sd_space">Dung lượng trống ít nhất 300MB trên thẻ SD. </string>
+    <string name="sd_space">Dung lượng trống ít nhất 600MB trên thẻ SD. </string>
     <string name="power">Hơn 30% công suất.</string>
     <string name="check_for_updates">Kiểm tra các bản cập nhật</string>
     <string name="new_version_desc">Vui lòng nhấn OK để thoát.</string>

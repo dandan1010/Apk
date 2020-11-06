@@ -24,7 +24,7 @@
         </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nOhjelmistopäivitys </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nOhjelmistopäivitys </string>
 
     <string name="guild_line_text">Tämä ohjelmistopäivitys on tarkoitettu vain Nokia 3.1 Plus -käyttäjille, joilla on ohjelmistoversio:
         \n\n
@@ -43,7 +43,7 @@
     <string name="back">Takaisin</string>
     <string name="next">Seuraava</string>
     <string name="sdcard">SD-kortti on asetettu</string>
-    <string name="sd_space">Vähintään 300 Mt vapaata tilaa SD-kortilla.</string>
+    <string name="sd_space">Vähintään 600 Mt vapaata tilaa SD-kortilla.</string>
     <string name="power">Yli 30% tehosta.</string>
     <string name="check_for_updates">Tarkista päivitykset</string>
     <string name="new_version_desc">Paina OK poistuaksesi.</string>

@@ -24,7 +24,7 @@
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nಸಾಫ್ಟ್‌ವೇರ್ ನವೀಕರಣ </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nಸಾಫ್ಟ್‌ವೇರ್ ನವೀಕರಣ </string>
 
     <string name="guild_line_text">ಈ ಸಾಫ್ಟ್‌ವೇರ್ ನವೀಕರಣವು ಸಾಫ್ಟ್‌ವೇರ್ ನಿರ್ಮಾಣಗಳೊಂದಿಗೆ Nokia 3.1 Plus ಬಳಕೆದಾರರಿಗೆ ಮಾತ್ರ:
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">ಹಿಂದೆ</string>
     <string name="next">ಮುಂದೆ</string>
     <string name="sdcard">ಎಸ್‌ಡಿ ಕಾರ್ಡ್ ಸೇರಿಸಲಾಗಿದೆ</string>
-    <string name="sd_space">ಎಸ್‌ಡಿ ಕಾರ್ಡ್‌ನಲ್ಲಿ ಕನಿಷ್ಠ 300MB ಉಚಿತ ಸ್ಥಳ.</string>
+    <string name="sd_space">ಎಸ್‌ಡಿ ಕಾರ್ಡ್‌ನಲ್ಲಿ ಕನಿಷ್ಠ 600MB ಉಚಿತ ಸ್ಥಳ.</string>
     <string name="power">30% ಕ್ಕಿಂತ ಹೆಚ್ಚು ಶಕ್ತಿ.</string>
     <string name="check_for_updates">ನವೀಕರಣಗಳಿಗಾಗಿ ಪರಿಶೀಲಿಸಿ</string>
     <string name="new_version_desc">ನಿರ್ಗಮಿಸಲು ದಯವಿಟ್ಟು ಒತ್ತಿರಿ.</string>

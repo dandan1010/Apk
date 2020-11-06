@@ -24,7 +24,7 @@
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nវើ​ឱ្យ​ទាន់សម័យ​កម្មវិធី​កុំព្យូទ័រ </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nវើ​ឱ្យ​ទាន់សម័យ​កម្មវិធី​កុំព្យូទ័រ </string>
 
     <string name="guild_line_text">ការអាប់ដេតកម្មវិធីនេះសំរាប់តែអ្នកប្រើប្រាស់ Nokia 3.1 Plus ជាមួយនឹងការបង្កើតសូហ្វវែរៈ
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">ថយក្រោយ</string>
     <string name="next">បន្ទាប់</string>
     <string name="sdcard">កាតអេសឌីត្រូវបានបញ្ចូល</string>
-    <string name="sd_space">យ៉ាងហោចណាស់មានទំហំទំនេរ ៣០០ មេកាបៃនៅលើកាតអេសឌី។</string>
+    <string name="sd_space">យ៉ាងហោចណាស់មានទំហំទំនេរ ៦០០ មេកាបៃនៅលើកាតអេសឌី។</string>
     <string name="power">ច្រើនជាង 30% នៃថាមពល។</string>
     <string name="check_for_updates">ពិនិត្យបច្ចុប្បន្នភាព</string>
     <string name="new_version_desc">សូមចុចយល់ព្រមដើម្បីចេញ។</string>

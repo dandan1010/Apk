@@ -24,7 +24,7 @@
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nԾրագրի թարմացում </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nԾրագրի թարմացում </string>
 
     <string name="guild_line_text">Softwareրագրաշարի այս թարմացումը նախատեսված է միայն Nokia 3.1 Plus- ի օգտագործողների համար, որոնք ունեն ծրագրային ապահովում.
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">Վերադառնալ</string>
     <string name="next">Հաջորդը</string>
     <string name="sdcard">Տեղադրված է SD քարտ</string>
-    <string name="sd_space">Առնվազն 300 ՄԲ ազատ տարածք SD քարտի վրա:</string>
+    <string name="sd_space">Առնվազն 600 ՄԲ ազատ տարածք SD քարտի վրա:</string>
     <string name="power">Էլեկտրաէներգիայի ավելի քան 30% -ը:</string>
     <string name="check_for_updates">Ստուգել թարմացումները</string>
     <string name="new_version_desc">Դուրս գալու համար սեղմեք OK:</string>

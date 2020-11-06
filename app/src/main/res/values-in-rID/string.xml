@@ -24,7 +24,7 @@
         </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nPembaruan perangkat lunak </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nPembaruan perangkat lunak </string>
 
     <string name="guild_line_text">Pembaruan perangkat lunak ini hanya untuk pengguna Nokia 3.1 Plus dengan pembuatan perangkat lunak:
         \n\n
@@ -43,7 +43,7 @@
     <string name="back">Kembali</string>
     <string name="next">Lanjut</string>
     <string name="sdcard">Kartu SD dimasukkan</string>
-    <string name="sd_space">Setidaknya 300MB ruang kosong di kartu SD.</string>
+    <string name="sd_space">Setidaknya 600MB ruang kosong di kartu SD.</string>
     <string name="power">Lebih dari 30% daya.</string>
     <string name="check_for_updates">Periksa pembaruan</string>
     <string name="new_version_desc">Harap tekan OK untuk keluar.</string>

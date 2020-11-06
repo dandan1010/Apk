@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Nokia 3.1 Plus Android 10 SW-opdatering</string>
+    <string name="app_name">Nokia 3.1 Plus\nAndroid 10\nSW-opdatering</string>
     <string name="button_next">"Volgende"</string>
     <string name="exit">"Oké"</string>
     <string name="button_update">"Opdateer"</string>
@@ -18,12 +18,12 @@
         <Data><![CDATA[Nadat u foon weer begin het, 
 		kan u die sagteware-weergawe van Instellings > Oor telefoon > Build-nommer nagaan. 
 		’N Suksesvolle opdatering sal as
-			“<font><b>"00WW_3_15L"</b></font>”.
+			“<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nsagteware-opdatering</string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nsagteware-opdatering</string>
 
     <string name="guild_line_text">Hierdie sagteware-opdatering is slegs vir gebruikers van Nokia 3.1 Plus met sagteware-opbou:
              \n\n
@@ -42,13 +42,10 @@
     <string name="back">Terug</string>
     <string name="next">Volgende</string>
     <string name="sdcard">SD-kaart is ingevoeg</string>
-    <string name="sd_space">Ten minste 300 MB spasie op die SD-kaart.</string>
+    <string name="sd_space">Ten minste 600 MB spasie op die SD-kaart.</string>
     <string name="power">Meer as 30% van die krag</string>
     <string name="check_for_updates">Kyk vir opdaterings</string>
     <string name="new_version_desc">Druk asseblief OK om te verlaat.</string>
-    <string name="size_TB">TB</string>
-    <string name="size_GB">GB</string>
-    <string name="size_MB">MB</string>
 
     <string name="import_desc_update">
         <Data><![CDATA[Sodra u met die opdatering begin, sal hierdie stappe <br> nie op u toestel gewys word nie.

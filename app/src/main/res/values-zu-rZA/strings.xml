@@ -19,11 +19,11 @@
 		Ngemuva kokuthi ifoni yakho iqale kabusha,
 		 uma ufisa, ungabheka inguqulo yeSoftware kusuka ku-Amasethingi> Mayelana nefoni> Inombolo yokwakha.
 		 Isibuyekezo esiphumelele sizoboniswa njenge- 
-		 “<font><b>"00WW_3_15L"</b></font>”.
+		 “<font><b>"00WW_3_15K"</b></font>”.
 		]]>
 		</Data>
 	</string>
-    <string name="apk_title" translatable="false"> Isibuyekezo seSoftware yeNokia 3.1 Plus\nAndroid 10\n</string>
+    <string name="apk_title"> Isibuyekezo seSoftware \nyeNokia 3.1 Plus\nAndroid 10</string>
     <string name="guild_line_text">
 	Lokhu kubuyekezwa kwesoftware kwenzelwe kuphela abasebenzisi beNokia 3.1 Plus enokwakhiwa kwesoftware:
 	 \n\n 
@@ -45,7 +45,7 @@
     <string name="back">Emuva</string>
     <string name="next">Okulandelayo</string>
     <string name="sdcard">Ikhadi le-SD lifakiwe</string>
-    <string name="sd_space">Okungenani isikhala samahhala esingu-300MB ekhadini le-SD.</string>
+    <string name="sd_space">Okungenani isikhala samahhala esingu-600MB ekhadini le-SD.</string>
     <string name="power">Amandla angaphezu kuka-30%.</string>
     <string name="check_for_updates">Bheka izibuyekezo</string>
     <string name="new_version_desc">Sicela ucindezele KULUNGILE ukuphuma.</string>

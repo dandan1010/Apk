@@ -16,12 +16,12 @@
         <Data><![CDATA[بعد إعادة تشغيل هاتفك ،
 		إذا كنت ترغب في ذلك ، يمكنك التحقق من إصدار البرنامج من الإعدادات> حول الهاتف> رقم البنية.
 		سيظهر التحديث الناجح كـ
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">تحديث برنامNokia 3.1 Plus\nAndroid 10\n</string>
+    <string name="apk_title">تحديث برنامNokia 3.1 Plus\nAndroid 10\n</string>
 
     <string name="guild_line_text">تحديث البرنامج هذا مخصص فقط لمستخدمي Nokia 3.1 Plus مع إصدارات البرامج:
              \n\n
@@ -40,7 +40,7 @@
     <string name="back">عودة</string>
     <string name="next">التالى</string>
     <string name="sdcard">تم إدخال بطاقة SD</string>
-    <string name="sd_space">مساحة خالية 300 ميجابايت على الأقل على بطاقة SD.</string>
+    <string name="sd_space">مساحة خالية 600 ميجابايت على الأقل على بطاقة SD.</string>
     <string name="power">أكثر من 30٪ من الطاقة.</string>
     <string name="check_for_updates">تحقق من وجود تحديثات</string>
     <string name="new_version_desc">الرجاء الضغط على "موافق" للخروج.</string>
@@ -65,7 +65,7 @@
         <br><br>
 نوصيك إما:
 <br><br>
-افتح <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u> (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)الرابط</u/><a/></font> على جهاز الكمبيوتر أو الجهاز الثانوي (إذا كان لديك واحد) و </r> قم بطباعة / نسخ التعليمات.
+افتح <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u> الرابط (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u/><a/></font> على جهاز الكمبيوتر أو الجهاز الثانوي (إذا كان لديك واحد) و </r> قم بطباعة / نسخ التعليمات.
 <br><br>
 لن تفقد بيانات المستخدم الخاصة بك بعد تحديث البرنامج ، ولكن كإجراء وقائي ، نوصي المستخدمين بإجراء نسخة احتياطية من بيانات المستخدم قبل تثبيت التحديث.
 <br><br>

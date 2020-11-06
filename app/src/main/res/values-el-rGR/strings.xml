@@ -19,12 +19,12 @@
         <Data><![CDATA[Μετά την επανεκκίνηση του τηλεφώνου σας,
         αν θέλετε, μπορείτε να ελέγξετε την έκδοση λογισμικού από τις Ρυθμίσεις > Σχετικά με το τηλέφωνο > Αριθμός κατασκευής.
         Μια επιτυχημένη ενημέρωση θα εμφανίζεται ως
-		    “<font><b>"00WW_3_15L"</b></font>”.
+		    “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Ενημέρωση λογισμικού Nokia 3.1 Plus\nAndroid 10\n</string>
+    <string name="apk_title">Ενημέρωση λογισμικού \nNokia 3.1 Plus\nAndroid 10</string>
 
     <string name="guild_line_text">Αυτή η ενημέρωση λογισμικού προορίζεται μόνο για χρήστες του Nokia 3.1 Plus με εκδόσεις λογισμικού:
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">Πίσω</string>
     <string name="next">Επόμενο</string>
     <string name="sdcard">Έχει τοποθετηθεί κάρτα SD</string>
-    <string name="sd_space">Τουλάχιστον 300 MB ελεύθερος χώρος στην κάρτα SD.</string>
+    <string name="sd_space">Τουλάχιστον 600 MB ελεύθερος χώρος στην κάρτα SD.</string>
     <string name="power">Περισσότερο από 30% της ισχύος.</string>
     <string name="check_for_updates">Ελεγχος για ενημερώσεις</string>
     <string name="new_version_desc">Πατήστε OK για έξοδο.</string>

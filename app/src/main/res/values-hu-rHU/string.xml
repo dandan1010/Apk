@@ -24,7 +24,7 @@
         </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus Android 10 Szoftver frissítés </string>
+    <string name="apk_title">Nokia 3.1 Plus Android 10 Szoftver frissítés </string>
 
     <string name="guild_line_text">Ez a szoftverfrissítés csak a Nokia 3.1 Plus szoftvert használó felhasználóknak szól:
         \n\n
@@ -43,7 +43,7 @@
     <string name="back">Vissza</string>
     <string name="next">Következő</string>
     <string name="sdcard">SD-kártya van behelyezve</string>
-    <string name="sd_space">Legalább 300 MB szabad hely az SD-kártyán.</string>
+    <string name="sd_space">Legalább 600 MB szabad hely az SD-kártyán.</string>
     <string name="power">Az energia több mint 30% -a.</string>
     <string name="check_for_updates">Frissítések keresése</string>
     <string name="new_version_desc">A kilépéshez nyomja meg az OK gombot</string>

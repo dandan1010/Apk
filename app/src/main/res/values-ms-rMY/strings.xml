@@ -19,12 +19,12 @@
         <Data><![CDATA[Selepas telefon anda dimulakan semula,
         jika anda mahu, anda boleh menyemak versi Perisian dari Tetapan> Perihal Telefon> Nombor binaan.
         Kemas kini yang berjaya akan ditunjukkan sebagai 
-		    “<font><b>"00WW_3_15L"</b></font>”.
+		    “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Kemas kini Perisian Nokia 3.1 Plus\nAndroid 10\n</string>
+    <string name="apk_title">Kemas kini Perisian \nNokia 3.1 Plus\nAndroid 10</string>
 
     <string name="guild_line_text">Kemas kini perisian ini hanya untuk pengguna Nokia 3.1 Plus dengan pembuatan perisian:
              \n\n
@@ -36,14 +36,14 @@
     </string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello serpihan kosong</string>
-    <string name="checkbox_tv">Saya telah membaca dan memahami arahannya dan bersedia untuk menerima kemas kini Perisian Android 3.1 Plus Android 10.</string>
+    <string name="checkbox_tv">Saya telah membaca dan memahami arahannya dan bersedia untuk menerima kemas kini Perisian Nokia 3.1 Plus Android 10.</string>
     <string name="important_notice">Notis penting</string>
     <string name="check_title">Mari buat pemeriksaan akhir untuk memastikan peranti anda siap…</string>
     <string name="new_version">Telefon anda sudah dikemas kini. </string>
     <string name="back">Belakang</string>
     <string name="next">Seterusnya</string>
     <string name="sdcard">Kad SD dimasukkan</string>
-    <string name="sd_space">Sekurang-kurangnya 300MB ruang kosong pada kad SD.</string>
+    <string name="sd_space">Sekurang-kurangnya 600MB ruang kosong pada kad SD.</string>
     <string name="power">Lebih daripada 30% kuasa.</string>
     <string name="check_for_updates">Menyemak kemas kini</string>
     <string name="new_version_desc">Sila tekan OK untuk keluar.</string>

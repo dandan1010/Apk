@@ -18,12 +18,12 @@
         <Data><![CDATA[Baada ya simu yako kuanza tena,
  ikiwa unataka, unaweza kuangalia toleo la Programu kutoka kwa Mipangilio> Kuhusu Simu> Nambari ya Kuunda.
  Sasisho lililofanikiwa litaonyeshwa kama 
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Sasisho la Programu ya Nokia 3.1 Plus\nAndroid 10\n</string>
+    <string name="apk_title">Sasisho la Programu ya \nNokia 3.1 Plus\nAndroid 10</string>
 
     <string name="guild_line_text">Sasisho hili la programu ni la watumiaji wa Nokia 3.1 Plus tu na programu huunda: 
         \n\n 
@@ -42,7 +42,7 @@
     <string name="back">Nyuma</string>
     <string name="next">next</string>
     <string name="sdcard">Kadi ya SD imeingizwa</string>
-    <string name="sd_space">Angalau nafasi ya bure ya 300MB kwenye kadi ya SD.</string>
+    <string name="sd_space">Angalau nafasi ya bure ya 600MB kwenye kadi ya SD.</string>
     <string name="power">Zaidi ya 30% ya nguvu.</string>
     <string name="check_for_updates">Angalia visasisho</string>
     <string name="new_version_desc">Tafadhali bonyeza OK ili uondoke.</string>

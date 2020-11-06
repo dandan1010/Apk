@@ -19,12 +19,12 @@
         <Data><![CDATA[Nadat uw telefoon opnieuw is opgestart,
         als u wilt, kunt u de softwareversie controleren via Instellingen> Over de telefoon> Build-nummer.
         Een succesvolle update wordt weergegeven als “
-            <font><b>"00WW_3_15L"</b></font>”.
+            <font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Software-update voor Nokia 3.1 Plus\nAndroid 10\n</string>
+    <string name="apk_title">Software-update voor\n Nokia 3.1 Plus\nAndroid 10</string>
 
     <string name="guild_line_text">Deze software-update is alleen voor gebruikers van 
             Nokia 3.1 Plus met software builds:
@@ -44,7 +44,7 @@
     <string name="back">Terug</string>
     <string name="next">De volgende</string>
     <string name="sdcard">SD-kaart is geplaatst</string>
-    <string name="sd_space">Minimaal 300 MB vrije ruimte op de SD-kaart.</string>
+    <string name="sd_space">Minimaal 600 MB vrije ruimte op de SD-kaart.</string>
     <string name="power">Meer dan 30% vermogen.</string>
     <string name="check_for_updates">Controleer op updates</string>
     <string name="new_version_desc">Druk op OK om af te sluiten.</string>

@@ -19,12 +19,12 @@
         <Data><![CDATA[သင့်ဖုန်းပြန်ဖွင့်ပြီးနောက်,
         ဆော့ဝဲမူကွဲကို Settings > About Phone > Build number မှစစ်ဆေးနိုင်သည်။
         အောင်မြင်သော update ကိုပြသပါလိမ့်မည် 
-		    “<font><b>"00WW_3_15L"</b></font>”.
+		    “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nဆော့ဝဲလ်ဗားရှင်းမြှင့်တင်မှု </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nဆော့ဝဲလ်ဗားရှင်းမြှင့်တင်မှု </string>
 
     <string name="guild_line_text">ဤဆော့ဖ်ဝဲလ်သည်အသစ်ပြောင်းခြင်းသည် Nokia 3.1 Plus အသုံးပြုသူများအတွက်သာဖြစ်သည်။
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">နောက်သို့</string>
     <string name="next">နောက်တစ်ခု</string>
     <string name="sdcard">SD ကဒ်ထည့်သည်</string>
-    <string name="sd_space">SD ကဒ်တွင်အနည်းဆုံး 300MB နေရာလွတ်</string>
+    <string name="sd_space">SD ကဒ်တွင်အနည်းဆုံး 600MB နေရာလွတ်</string>
     <string name="power">ပါဝါ၏ 30% ကျော်။</string>
     <string name="check_for_updates">နောက်ဆုံးသတင်းများကိုစစ်ဆေးပါ</string>
     <string name="new_version_desc">ကျေးဇူးပြု၍ OK ကိုနှိပ်ပါ။</string>

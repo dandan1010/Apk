@@ -18,12 +18,12 @@
         <Data><![CDATA[ඔබගේ දුරකථනය නැවත ආරම්භ වූ පසු,
         ඔබට අවශ්‍ය නම්, ඔබට සැකසීම්> දුරකථනය ගැන> ගොඩනැගීමේ අංකය වෙතින් මෘදුකාංග අනුවාදය පරීක්ෂා කළ හැකිය.
         සාර්ථක යාවත්කාලීනයක් 
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nමෘදුකාංග යාවත්කාලීන කිරීම </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nමෘදුකාංග යාවත්කාලීන කිරීම </string>
 
     <string name="guild_line_text">මෙම මෘදුකාංග යාවත්කාලීන කිරීම භාවිතා කරන්නන් සඳහා පමණි
             මෘදුකාංග තැනීම සමඟ Nokia 3.1 Plus:
@@ -43,7 +43,7 @@
     <string name ="back"> ආපසු </string>
     <string name ="next"> ඊළඟ </string>
     <string name ="sdcard"> SD කාඩ් පත ඇතුළත් කර ඇත </string>
-    <string name ="sd_space"> SD කාඩ් පතේ අවම වශයෙන් 300MB නිදහස් ඉඩක්. </string>
+    <string name ="sd_space"> SD කාඩ් පතේ අවම වශයෙන් 600MB නිදහස් ඉඩක්. </string>
     <string name ="power"> බලයෙන් 30% කට වඩා. </string>
     <string name ="check_for_updates"> යාවත්කාලීන කිරීම් සඳහා පරීක්ෂා කරන්න </string>
     <string name ="new_version_desc"> පිටවීමට කරුණාකර හරි ඔබන්න. </string>

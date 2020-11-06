@@ -19,13 +19,13 @@
 手機重新啟動後，
  如果需要，可以從“設置”>“關於手機”>“內部版本號”檢查軟件版本。
  成功更新將顯示為
- “<font><b>"00WW_3_15L"</b></font>”.
+ “<font><b>"00WW_3_15K"</b></font>”.
 ]]>
 </Data>
 </string>
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus Android 10軟件更新</string>
+    <string name="apk_title">Nokia 3.1 Plus\n Android 10\n軟件更新</string>
     <string name="guild_line_text">
-此軟件更新僅適用於具有以下軟件版本的諾基亞3.1 Plus用戶：
+此軟件更新僅適用於具有以下軟件版本的Nokia 3.1 Plus用戶：
 \n\n 
 00WW_3_15H \n 
 00WW_3_15H_SP01 
@@ -35,7 +35,7 @@
     <!--  TODO: Remove or change this placeholder text  -->
     <string name="hello_blank_fragment">你好空白片段</string>
     <string name="checkbox_tv">
-我已閱讀並理解說明，並準備接收諾基亞3.1 Plus Android 10軟件更新。
+我已閱讀並理解說明，並準備接收Nokia 3.1 Plus Android 10軟件更新。
 </string>
     <string name="important_notice">重要提示</string>
     <string name="check_title">
@@ -45,8 +45,8 @@
     <string name="back">返回</string>
     <string name="next">下一個</string>
     <string name="sdcard">已插入SD卡</string>
-    <string name="sd_space">SD卡上至少有300MB的可用空間。</string>
-    <string name="power">超過30％的功率。</string>
+    <string name="sd_space">SD卡上至少有600MB的可用空間。</string>
+    <string name="power">超過30％的電量。</string>
     <string name="check_for_updates">檢查更新</string>
     <string name="new_version_desc">請按OK退出。</string>
     <string name="import_desc_update">
@@ -56,7 +56,7 @@
  <br><br>
   我們建議您：
  <br><br>
-在計算機或輔助設備（如果有）上打開此<font color ="＃4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>鏈接(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font>，然後</r>打印/抄下說明。
+在計算機或輔助設備（如果有）上打開此<font color ="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>鏈接(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font>，然後</r>打印/抄下說明。
  <br><br>
   軟件更新後，您的用戶數據不會丟失，但是為預防起見，我們建議用戶執行回退操作。
  在安裝更新之前先關閉用戶數據。
@@ -72,7 +72,7 @@
 一旦開始更新，這些步驟將不會在您的設備上顯示。 <br><br>
  我們建議您：
  <br><br>
- 在計算機或輔助設備（如果有）上打開此<font color ="＃4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>鏈接(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font>，然後</r>打印/抄下說明。
+ 在計算機或輔助設備（如果有）上打開此<font color ="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>鏈接(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font>，然後</r>打印/抄下說明。
  <br><br>
 軟件更新後，您的用戶數據不會丟失，但是為預防起見，我們建議用戶執行回退操作。
 在安裝更新之前先關閉用戶數據。

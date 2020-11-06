@@ -74,7 +74,6 @@ public class RecoveryActivity extends BaseActivity implements View.OnClickListen
     }
 
     private void setView(int clickNum) {
-        Log.d(TAG, "点击的次数： "+ clickNum);
         for (int i = 0 ;i< navigations.length;i++) {
             if (i + 1 == clickNum) {
                 navigations[i].setEnabled(true);
@@ -131,7 +130,6 @@ public class RecoveryActivity extends BaseActivity implements View.OnClickListen
     @Override
     protected void onResume() {
         super.onResume();
-        Log.d(TAG, "点击的次数 _ 返回： " + clickNums);
         setView(clickNums);
     }
 

@@ -19,12 +19,12 @@
         <Data><![CDATA[След като телефонът ви се рестартира,
         ако желаете, можете да проверите версията на софтуера от Settings> About Phone> Build number.
         Успешната актуализация ще се покаже като 
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Актуализация на софтуера Nokia 3.1 Plus\nAndroid 10\n</string>
+    <string name="apk_title">Актуализация на софтуера\n Nokia 3.1 Plus\nAndroid 10</string>
 
     <string name="guild_line_text">Тази актуализация на софтуера е само за потребители на Nokia 3.1 Plus със софтуерни версии:
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">обратно</string>
     <string name="next">Следващия</string>
     <string name="sdcard">SD картата е поставена</string>
-    <string name="sd_space">Най-малко 300MB свободно място на SD картата.</string>
+    <string name="sd_space">Най-малко 600MB свободно място на SD картата.</string>
     <string name="power">Повече от 30% от мощността</string>
     <string name="check_for_updates">Провери за обновления</string>
     <string name="new_version_desc">Моля, натиснете OK за изход.</string>

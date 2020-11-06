@@ -19,12 +19,12 @@
         <Data><![CDATA[Når din telefon er genstartet, 
 		hvis du ønsker det,du kan kontrollere softwareversionen fra Indstillinger> Om telefon> Build-nummer.
         En vellykket opdatering vises som 
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nsoftwareopdatering</string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nsoftwareopdatering</string>
 
     <string name="guild_line_text">Denne softwareopdatering er kun til brugere af Nokia 3.1 Plus med software-builds:
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">Tilbage</string>
     <string name="next">Næste</string>
     <string name="sdcard">SD-kort er isat</string>
-    <string name="sd_space">Mindst 300 MB ledig plads på SD-kortet.</string>
+    <string name="sd_space">Mindst 600 MB ledig plads på SD-kortet.</string>
     <string name="power">Mere end 30% af strømmen</string>
     <string name="check_for_updates">Søg efter opdateringer</string>
     <string name="new_version_desc">Tryk på OK for at afslutte.</string>

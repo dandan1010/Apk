@@ -4,8 +4,6 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
-import android.graphics.Color;
-import android.os.AsyncTask;
 import android.os.Build;
 import android.os.Bundle;
 
@@ -15,10 +13,8 @@ import androidx.fragment.app.Fragment;
 import android.os.Environment;
 import android.os.Handler;
 import android.os.Message;
-import android.os.PowerManager;
 import android.os.StatFs;
 import android.os.storage.StorageManager;
-import android.text.Html;
 import android.text.format.Formatter;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -27,17 +23,9 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
-import android.widget.Toast;
-
-import com.hmdglobal.app.n3dot1plusswupdate.AssestFile;
-import com.hmdglobal.app.n3dot1plusswupdate.MainActivity;
 import com.hmdglobal.app.n3dot1plusswupdate.R;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
 import java.lang.reflect.Array;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
@@ -50,7 +38,7 @@ public class CheckFragment extends Fragment implements View.OnClickListener {
     public static final String OTA_PACKAGE_NAME1 = "00WW_3_15J";
     public static final String OTA_PACKAGE_NAME2 = "00WW_3_15H";
     private View view;
-    public static final int FREE_SIZE = 300;
+    public static final int FREE_SIZE = 600;
     private static String sdcard_path;
 
     private TextView errorText, new_version_desc, done_sd_text, done_space_text, done_power_text;

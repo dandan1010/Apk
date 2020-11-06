@@ -18,12 +18,12 @@
         <Data><![CDATA[Telefonunuz yenidən işə salındıqdan sonra, 
 		istəsəniz, Parametrlər> Telefon haqqında> Nömrə qurma bölməsindən Proqram versiyasını yoxlaya bilərsiniz. 
 		Uğurlu bir yeniləmə 
-		    “<font><b>"00WW_3_15L"</b></font>”.
+		    “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nProqram Yeniləməsi</string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nProqram Yeniləməsi</string>
 
     <string name="guild_line_text">Bu proqram yeniləməsi yalnız Nokia 3.1 Plus proqram təminatları ilə istifadəçilər üçündür:
              \n\n
@@ -42,7 +42,7 @@
     <string name="back">Geri</string>
     <string name="next">Növbəti</string>
     <string name="sdcard">SD kart yerləşdirilib</string>
-    <string name="sd_space">SD kartda ən az 300 MB boş yer.</string>
+    <string name="sd_space">SD kartda ən az 600 MB boş yer.</string>
     <string name="power">Gücün 30% -dən çoxu</string>
     <string name="check_for_updates">Yeniləmələri yoxlayın</string>
     <string name="new_version_desc">Zəhmət olmasa çıxmaq üçün OK düyməsini basın.</string>

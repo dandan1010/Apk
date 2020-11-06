@@ -18,12 +18,12 @@
         <Data><![CDATA[Nakon ponovnog pokretanja telefona, ako želite,
         verziju softvera možete provjeriti u Postavke> O telefonu> Broj verzije.
         Uspješno ažuriranje prikazat će se kao 
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Ažuriranje softvera Nokia 3.1 Plus\nAndroid 10\n</string>
+    <string name="apk_title">Ažuriranje softvera\n Nokia 3.1 Plus\nAndroid 10</string>
 
     <string name="guild_line_text">Ovo ažuriranje softvera namijenjeno je samo korisnicima Nokia 3.1 Plus sa verzijama softvera:
              \n\n
@@ -42,7 +42,7 @@
     <string name="back">Natrag</string>
     <string name="next">Sljedeći</string>
     <string name="sdcard">Umetnuta je SD kartica</string>
-    <string name="sd_space">Najmanje 300 MB slobodnog prostora na SD kartici.</string>
+    <string name="sd_space">Najmanje 600 MB slobodnog prostora na SD kartici.</string>
     <string name="power">Više od 30% snage</string>
     <string name="check_for_updates">Provjerite ima li ažuriranja</string>
     <string name="new_version_desc">Pritisnite OK za izlaz.</string>

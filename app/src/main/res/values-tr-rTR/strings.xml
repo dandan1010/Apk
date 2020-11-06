@@ -18,12 +18,12 @@
         <Data><![CDATA[Telefonunuz yeniden başlatıldıktan sonra
  Dilerseniz Yazılım sürümünü Ayarlar> Telefon Hakkında> Yapı numarası’ndan kontrol edebilirsiniz.
  Başarılı bir güncelleme 
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false"> Nokia 3.1 Plus\nAndroid 10\nYazılım Güncellemesi </string>
+    <string name="apk_title"> Nokia 3.1 Plus\nAndroid 10\nYazılım Güncellemesi </string>
 
     <string name="guild_line_text">Bu yazılım güncellemesi yalnızca şu yazılım yapılarına sahip Nokia 3.1 Plus kullanıcıları içindir: 
         \n\n 

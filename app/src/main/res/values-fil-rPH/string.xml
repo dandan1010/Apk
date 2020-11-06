@@ -24,7 +24,7 @@
         </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nPag-update ng Software </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nPag-update ng Software </string>
 
     <string name="guild_line_text">Ang pag-update ng software na ito ay para lamang sa mga gumagamit ng Nokia 3.1 Plus na may mga pagbuo ng software:
         \n\n
@@ -43,7 +43,7 @@
     <string name="back">Bumalik</string>
     <string name="next">Susunod</string>
     <string name="sdcard">Ang SD card ay ipinasok</string>
-    <string name="sd_space">Hindi bababa sa 300MB libreng puwang sa SD card.</string>
+    <string name="sd_space">Hindi bababa sa 600MB libreng puwang sa SD card.</string>
     <string name="power">Higit sa 30% ng lakas.</string>
     <string name="check_for_updates">Suriin ang mga update</string>
     <string name="new_version_desc">Mangyaring pindutin ang OK upang lumabas.</string>

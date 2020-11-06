@@ -24,7 +24,7 @@
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Actualizare software Nokia 3.1 Plus\nAndroid 10\n</string>
+    <string name="apk_title">Actualizare software\n Nokia 3.1 Plus\nAndroid 10</string>
 
     <string name="guild_line_text">Această actualizare software este doar pentru utilizatorii de Nokia 3.1 Plus cu versiuni software:
              \n\n
@@ -43,7 +43,7 @@
     <string name = "back"> Înapoi </string>
     <string name = "next"> Next </string>
     <string name = "sdcard"> Cardul SD este introdus </string>
-    <string name = "sd_space"> Cel puțin 300 MB spațiu liber pe cardul SD. </string>
+    <string name = "sd_space"> Cel puțin 600 MB spațiu liber pe cardul SD. </string>
     <string name = "power"> Mai mult de 30% din putere. </string>
     <string name = "check_for_updates"> Căutați actualizări </string>
     <string name = "new_version_desc"> Vă rugăm să apăsați OK pentru a ieși. </string>

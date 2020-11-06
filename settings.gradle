@@ -1,2 +1,4 @@
 include ':app'
 rootProject.name = "Apk"
+include ':downloader_library'
+include ':library'

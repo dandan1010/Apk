@@ -24,7 +24,7 @@
         </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nبه روز رسانی نرم افزار </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nبه روز رسانی نرم افزار </string>
 
     <string name="guild_line_text">این به روزرسانی نرم افزار فقط برای کاربران Nokia 3.1 Plus با ساخت نرم افزار است:
         \n\n
@@ -43,7 +43,7 @@
     <string name="back">بازگشت</string>
     <string name="next">بعد</string>
     <string name="sdcard">کارت SD درج شده است</string>
-    <string name="sd_space">حداقل 300 مگابایت فضای آزاد روی کارت SD.</string>
+    <string name="sd_space">حداقل 600 مگابایت فضای آزاد روی کارت SD.</string>
     <string name="power">بیش از 30٪ قدرت</string>
     <string name="check_for_updates">به روزرسانی ها را بررسی کنید</string>
     <string name="new_version_desc">لطفاً برای خروج OK را فشار دهید.</string>

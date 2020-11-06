@@ -19,14 +19,14 @@
         <Data><![CDATA[Након поновног покретања телефона,
  ако желите, можете да проверите верзију софтвера у Сеттингс> Абоут Пхоне> Буилд нумбер.
  Успешно ажурирање ће се приказати као 
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nАжурирање софтвера </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nАжурирање софтвера </string>
 
-    <string name="guild_line_text">Ово ажурирање софтвера је само за кориснике Нокиа 3.1 Плус са софтверским верзијама:  
+    <string name="guild_line_text">Ово ажурирање софтвера намењено је само корисницима Nokia 3.1 Plus са верзијама софтвера:
         \n\n
         00WW_3_15H \n
         00WW_3_15H_SP01
@@ -43,7 +43,7 @@
     <string name="back">Назад</string>
     <string name="next">Следећи</string>
     <string name="sdcard">СД картица је уметнута</string>
-    <string name="sd_space">Најмање 300 МБ слободног простора на СД картици.</string>
+    <string name="sd_space">Најмање 600 МБ слободног простора на СД картици.</string>
     <string name="power">Више од 30% снаге.</string>
     <string name="check_for_updates">Проверите да ли постоје исправке</string>
     <string name="new_version_desc">Притисните ОК да бисте изашли.</string>

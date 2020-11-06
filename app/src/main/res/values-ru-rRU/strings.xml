@@ -19,12 +19,12 @@
         <Data><![CDATA[После перезагрузки телефона
         при желании вы можете проверить версию программного обеспечения, выбрав «Настройки»> «О телефоне»> «Номер сборки».
         Успешное обновление будет отображаться как
-		    “<font><b>"00WW_3_15L"</b></font>”.
+		    “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Обновление ПО Nokia 3.1 Plus\nдля Android 10\n</string>
+    <string name="apk_title">Обновление ПО \nNokia 3.1 Plus\nдля Android 10</string>
 
     <string name="guild_line_text">Это обновление программного обеспечения предназначено только для пользователей
             Nokia 3.1 Plus со сборками программного обеспечения:
@@ -44,7 +44,7 @@
     <string name = "back"> Назад </string>
     <string name = "next"> Далее </string>
     <string name = "sdcard"> SD-карта вставлена ​​</string>
-    <string name = "sd_space"> Не менее 300 МБ свободного места на SD-карте. </string>
+    <string name = "sd_space"> Не менее 600 МБ свободного места на SD-карте. </string>
     <string name = "power"> Более 30% мощности. </string>
     <string name = "check_for_updates"> Проверить обновления </string>
     <string name = "new_version_desc"> Нажмите OK для выхода. </string>

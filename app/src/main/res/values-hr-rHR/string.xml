@@ -24,9 +24,9 @@
         </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus Android 10 Ažuriranje softvera </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nAžuriranje softvera </string>
 
-    <string name="guild_line_text">Ovo ažuriranje softvera namijenjeno je samo korisnicima (Nokia 3.1 Plus) s verzijama softvera:
+    <string name="guild_line_text">Ovo ažuriranje softvera namijenjeno je samo korisnicima Nokia 3.1 Plus s verzijama softvera:
         \n\n
         00WW_3_15H \n
         00WW_3_15H_SP01
@@ -43,7 +43,7 @@
     <string name="back">leđa</string>
     <string name="next">Sljedeći</string>
     <string name="sdcard">Umetnuta je SD kartica</string>
-    <string name="sd_space">Najmanje 300 MB slobodnog prostora na SD kartici.</string>
+    <string name="sd_space">Najmanje 600 MB slobodnog prostora na SD kartici.</string>
     <string name="power">Više od 30% snage.</string>
     <string name="check_for_updates">Provjerite ima li ažuriranja</string>
     <string name="new_version_desc">Pritisnite OK za izlaz.</string>
@@ -53,7 +53,7 @@
         <br><br>
 Preporučujemo vam:
 <br><br>
-Otvorite ovu <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>vezu</u></a></font> na računalu ili sekundarnom uređaju (ako ga imate) i </r> ispisujte/kopirajte upute.
+Otvorite ovu <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>vezu(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> na računalu ili sekundarnom uređaju (ako ga imate) i </r> ispisujte/kopirajte upute.
 <br><br>
 Vaši korisnički podaci neće se izgubiti nakon ažuriranja softvera, ali kao mjera opreza,
 preporučili smo korisnicima da izvrše sigurnosnu kopiju korisničkih podataka prije instaliranja ažuriranja.
@@ -69,7 +69,7 @@ Kada u redu nastavite, pritisnite Ažuriraj
         <br><br>
 Preporučujemo vam:
 <br><br>
-Otvorite ovu <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>vezu</u></a></font> na računalu ili sekundarnom uređaju (ako ga imate) i </r> ispisujte/kopirajte upute.
+Otvorite ovu <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>vezu(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> na računalu ili sekundarnom uređaju (ako ga imate) i </r> ispisujte/kopirajte upute.
 <br><br>
 Vaši korisnički podaci neće se izgubiti nakon ažuriranja softvera, ali kao mjera opreza,
 preporučili smo korisnicima da izvrše sigurnosnu kopiju korisničkih podataka prije instaliranja ažuriranja.

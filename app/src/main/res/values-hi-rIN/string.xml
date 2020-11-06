@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Nokia 3.1 Plus Android 10 सॉफ्टवेयर अपडेट</string>
+    <string name="app_name">Nokia 3.1 Plus nAndroid 10 सॉफ्टवेयर अपडेट</string>
     <string name="button_next">"आगे"</string>
     <string name="exit">"ठीक"</string>
     <string name="button_update">"अपडेट करें"</string>
@@ -24,7 +24,7 @@
         </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus Android 10 सॉफ्टवेयर अपडेट </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nसॉफ्टवेयर अपडेट </string>
 
     <string name="guild_line_text">यह सॉफ़्टवेयर अपडेट केवल Nokia 3.1 Plus के उपयोगकर्ताओं के लिए सॉफ़्टवेयर बिल्ड के साथ है:
         \n\n
@@ -43,7 +43,7 @@
     <string name="back">वापस</string>
     <string name="next">आगे</string>
     <string name="sdcard">एसडी कार्ड डाला जाता है</string>
-    <string name="sd_space">एसडी कार्ड पर कम से कम 300 एमबी मुक्त स्थान।</string>
+    <string name="sd_space">एसडी कार्ड पर कम से कम 600 एमबी मुक्त स्थान।</string>
     <string name="power">30% से अधिक शक्ति।</string>
     <string name="check_for_updates">अद्यतन के लिए जाँच</string>
     <string name="new_version_desc">कृपया बाहर निकलने के लिए ओके दबाएं।</string>
@@ -53,7 +53,7 @@
         <br><br>
 हम आपको सलाह देते हैं:
 <br><br>
-इस <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>लिंक </u></a></font> को अपने कंप्यूटर या द्वितीयक उपकरण (यदि आपके पास एक है) और </r> को खोलें या निर्देशों को कॉपी/कॉपी करें।
+इस <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>लिंक (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> को अपने कंप्यूटर या द्वितीयक उपकरण (यदि आपके पास एक है) और </r> को खोलें या निर्देशों को कॉपी/कॉपी करें।
 <br><br>
 सॉफ़्टवेयर अपडेट के बाद आपका उपयोगकर्ता डेटा खो नहीं जाएगा, हालांकि एहतियात के रूप में,
 हमने अनुशंसा की कि उपयोगकर्ता अपडेट स्थापित करने से पहले उपयोगकर्ता डेटा का बैकअप लें।
@@ -69,7 +69,7 @@
         <br><br>
 हम आपको सलाह देते हैं:
 <br><br>
-इस <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>लिंक </u></a></font> को अपने कंप्यूटर या द्वितीयक उपकरण (यदि आपके पास एक है) और </r> को खोलें या निर्देशों को कॉपी/कॉपी करें।
+इस <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>लिंक (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> को अपने कंप्यूटर या द्वितीयक उपकरण (यदि आपके पास एक है) और </r> को खोलें या निर्देशों को कॉपी/कॉपी करें।
 <br><br>
 सॉफ़्टवेयर अपडेट के बाद आपका उपयोगकर्ता डेटा खो नहीं जाएगा, हालांकि एहतियात के रूप में,
 हमने अनुशंसा की कि उपयोगकर्ता अपडेट स्थापित करने से पहले उपयोगकर्ता डेटा का बैकअप लें।

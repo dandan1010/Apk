@@ -24,7 +24,7 @@
         </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nTarkvarauuendus </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nTarkvarauuendus </string>
 
     <string name="guild_line_text">See tarkvaravärskendus on mõeldud ainult tarkvaraehitusega Nokia 3.1 Plus kasutajatele.
         \n\n
@@ -43,7 +43,7 @@
     <string name="back">tagasi</string>
     <string name="next">Järgmine</string>
     <string name="sdcard">SD-kaart on sisestatud</string>
-    <string name="sd_space">SD-kaardil on vähemalt 300 MB vaba ruumi.</string>
+    <string name="sd_space">SD-kaardil on vähemalt 600 MB vaba ruumi.</string>
     <string name="power">Üle 30% võimsusest.</string>
     <string name="check_for_updates">Kontrolli kas uuendused on saadaval</string>
     <string name="new_version_desc">Palun väljumiseks vajutage OK.</string>

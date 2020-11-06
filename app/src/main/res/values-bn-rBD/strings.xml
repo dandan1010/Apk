@@ -18,12 +18,12 @@
         <Data><![CDATA[আপনার ফোনটি পুনরায় চালু হওয়ার পরে, আপনি যদি চান,
                     আপনি সেটিংস> ফোন সম্পর্কে> বিল্ড নম্বর থেকে সফ্টওয়্যার সংস্করণটি চেক করতে পারেন। 
                     একটি সফল আপডেট হিসাবে প্রদর্শিত হবে 
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nসফ্টওয়্যার আপডেট</string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nসফ্টওয়্যার আপডেট</string>
 
     <string name="guild_line_text">এই সফ্টওয়্যার আপডেটটি কেবল সফটওয়্যার বিল্ড সহ  Nokia 3.1 Plus এর ব্যবহারকারীদের জন্য:
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">পেছনে</string>
     <string name="next">পরবর্তী</string>
     <string name="sdcard">এসডি কার্ড .োকানো হয়েছে</string>
-    <string name="sd_space">এসডি কার্ডে কমপক্ষে 300MB ফ্রি স্পেস।</string>
+    <string name="sd_space">এসডি কার্ডে কমপক্ষে 600MB ফ্রি স্পেস।</string>
     <string name="power">30% এরও বেশি পাওয়ার</string>
     <string name="check_for_updates">হালনাগাদ এর জন্য অনুসন্ধান করুন</string>
     <string name="new_version_desc">প্রস্থান করার জন্য দয়া করে ঠিক আছে টিপুন।</string>

@@ -4,13 +4,31 @@
     android:sharedUserId="android.uid.system"
     package="com.hmdglobal.app.n3dot1plusswupdate">
 
-    <uses-permission android:name="android.permission.REBOOT" />
-    <uses-permission android:name="android.permission.RECOVERY" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.BATTERY_STATS" />
-    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAG" />
+    <uses-permission android:name="android.permission.REBOOT"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.RECOVERY"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.BATTERY_STATS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE"
+        tools:ignore="ProtectedPermissions" />
+
+    <!-- Required to access Android Market Licensing -->
+    <uses-permission android:name="com.android.vending.CHECK_LICENSE"/>
+
+    <!-- Required to download files from Android Market -->
     <uses-permission android:name="android.permission.INTERNET"/>
+
+    <!-- Required to keep CPU alive while downloading files (NOT to keep screen awake) -->
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+
+    <!-- Required to poll the state of the network connection and respond to changes -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <!-- Required to check whether Wi-Fi is enabled -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
 
     <application
         android:allowBackup="true"
@@ -29,6 +47,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <service android:name="com.example.n3dot1plusswupdate.SampleDownloaderService"></service>
+        <receiver android:name="com.example.n3dot1plusswupdate.SampleAlarmReceiver"></receiver>
     </application>
 
 </manifest>

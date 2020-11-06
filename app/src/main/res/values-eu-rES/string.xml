@@ -24,7 +24,7 @@
         </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nSoftware eguneratzea </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nSoftware eguneratzea </string>
 
     <string name="guild_line_text">Software eguneratze hau Nokia 3.1 Plus softwarearen bertsioekin soilik da:
         \n\n
@@ -43,7 +43,7 @@
     <string name="back">Itzuli</string>
     <string name="next">Hurrengoa</string>
     <string name="sdcard">SD txartela sartuta dago</string>
-    <string name="sd_space">Gutxienez 300 MB-ko espazioa SD txartelean.</string>
+    <string name="sd_space">Gutxienez 600 MB-ko espazioa SD txartelean.</string>
     <string name="power">Potentziaren% 30 baino gehiago.</string>
     <string name="check_for_updates">Begiratu eguneratzerik</string>
     <string name="new_version_desc">Mesedez, sakatu Ados irteteko.</string>

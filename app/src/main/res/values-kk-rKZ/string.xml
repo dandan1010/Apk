@@ -24,7 +24,7 @@
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nБағдарламалық жасақтаманы жаңарту </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nБағдарламалық жасақтаманы жаңарту </string>
 
     <string name="guild_line_text">Бағдарламалық жасақтаманың бұл жаңартуы тек Nokia 3.1 Plus бағдарламалық жасақтамасы бар пайдаланушыларға арналған:
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">Артқа</string>
     <string name="next">Келесі</string>
     <string name="sdcard">SD картасы салынған</string>
-    <string name="sd_space">SD картасында кемінде 300 МБ бос орын.</string>
+    <string name="sd_space">SD картасында кемінде 600 МБ бос орын.</string>
     <string name="power">30% -дан астам қуат.</string>
     <string name="check_for_updates">Жаңартуларды тексеріңіз</string>
     <string name="new_version_desc">Шығу үшін OK түймесін басыңыз.</string>

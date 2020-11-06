@@ -19,18 +19,19 @@
         <Data><![CDATA[మీ ఫోన్ పున ar ప్రారంభించిన తర్వాత,
  మీరు కోరుకుంటే, మీరు సెట్టింగులు> ఫోన్ గురించి> బిల్డ్ నంబర్ నుండి సాఫ్ట్‌వేర్ సంస్కరణను తనిఖీ చేయవచ్చు.
  విజయవంతమైన నవీకరణ “
-            <font><b>"00WW_3_15L"</b></font>”.
+            <font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nసాఫ్ట్‌వేర్ నవీకరణ </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nసాఫ్ట్‌వేర్ నవీకరణ </string>
 
-    <string name="guild_line_text">ఈ సాఫ్ట్‌వేర్ నవీకరణ సాఫ్ట్‌వేర్ నిర్మాణాలతో నోకియా 3.1 ప్లస్ వినియోగదారులకు మాత్రమే: \n\n 
-    00WW_3_15H \n 
-    00WW_3_15H_SP01 
-    \n\n 
-    పరికర నిర్మాణాన్ని తనిఖీ చేయడానికి, “సెట్టింగులు”> “ఫోన్ గురించి”
+    <string name="guild_line_text">ఈ సాఫ్ట్‌వేర్ నవీకరణ సాఫ్ట్‌వేర్ నిర్మాణాలతో Nokia 3.1 Plus వినియోగదారులకు మాత్రమే:
+        \n\n
+        00WW_3_15H \n
+        00WW_3_15H_SP01
+        \n\n
+        పరికర నిర్మాణాన్ని తనిఖీ చేయడానికి, “సెట్టింగులు”> “ఫోన్ గురించి”
              
     </string>
     <!-- TODO: Remove or change this placeholder text -->
@@ -42,7 +43,7 @@
     <string name="back">వెనుక </string>
     <string name="next">తదుపరి </string>
     <string name="sdcard">SD కార్డ్ చేర్చబడింది</string>
-    <string name="sd_space">SD కార్డ్‌లో కనీసం 300MB ఖాళీ స్థలం. </string>
+    <string name="sd_space">SD కార్డ్‌లో కనీసం 600MB ఖాళీ స్థలం. </string>
     <string name="power">30% కంటే ఎక్కువ శక్తి. </string>
     <string name="check_for_updates">నవీకరణల కోసం తనిఖీ చేయండి</string>
     <string name="new_version_desc">దయచేసి నిష్క్రమించడానికి సరే నొక్కండి.</string>
@@ -52,7 +53,7 @@
         <br><br>
  మేము మీకు సిఫార్సు చేస్తున్నాము:
 <br><br>
-మీ కంప్యూటర్ లేదా ద్వితీయ పరికరంలో ఈ <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u> లింక్ </u></a></font> ను తెరవండి (మీకు ఒకటి ఉంటే) మరియు </r> సూచనలను ముద్రించండి / కాపీ చేయండి.
+మీ కంప్యూటర్ లేదా ద్వితీయ పరికరంలో ఈ <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u> లింక్ (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> ను తెరవండి (మీకు ఒకటి ఉంటే) మరియు </r> సూచనలను ముద్రించండి / కాపీ చేయండి.
 <br><br>
 సాఫ్ట్‌వేర్ నవీకరణ తర్వాత మీ వినియోగదారు డేటా కోల్పోదు, అయితే ముందుజాగ్రత్తగా, వినియోగదారులు వెనుకకు పనిచేయాలని మేము సిఫార్సు చేసాము
  నవీకరణను ఇన్‌స్టాల్ చేయడానికి ముందు వినియోగదారు డేటా.

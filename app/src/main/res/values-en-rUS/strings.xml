@@ -19,12 +19,12 @@
         <Data><![CDATA[After your phone has restarted,
         if you wish, you can check the Software  version from Settings > About Phone >  Build number.
         A successful update will show as 
-		    “<font><b>"00WW_3_15L"</b></font>”.
+		    “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nSoftware Update </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nSoftware Update </string>
 
     <string name="guild_line_text">This software update is only for users of Nokia 3.1 Plus with software builds:
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">Back</string>
     <string name="next">Next</string>
     <string name="sdcard">SD card is inserted</string>
-    <string name="sd_space">At least 300MB free space on the SD card.</string>
+    <string name="sd_space">At least 600MB free space on the SD card.</string>
     <string name="power">More than 30% of power.</string>
     <string name="check_for_updates">Check for updates</string>
     <string name="new_version_desc">Please press OK to exit.</string>

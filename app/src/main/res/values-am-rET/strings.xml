@@ -15,12 +15,12 @@
 	    አንዴ ጎላ ተደርጎ ከተገለጸ በኋላ “ኃይል” የሚለውን ቁልፍ በአጭሩ ይጫኑ (መሣሪያው አሁን በራስ-ሰር ዳግም ይነሳል) ፡፡ እባክዎ ልብ ይበሉ መሣሪያው እንደገና ለመጀመር ብዙ ደቂቃዎችን ሊወስድ ይችላል።</string>
     <string name="prompt_text8">
         <Data><![CDATA[ከፈለጉ ስልክዎ እንደገና ከተጀመረ በኋላ የሶፍትዌሩን ስሪት ከቅንብሮች > ስለ ስልክ > የግንባታ ቁጥር ማረጋገጥ ይችላሉ። የተሳካ ዝመና እንደ “
-            <font><b>"00WW_3_15L"</b></font>”.
+            <font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nየሶፍትዌር ዝመና</string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nየሶፍትዌር ዝመና</string>
 
     <string name="guild_line_text">ይህ የሶፍትዌር ዝመና Nokia 3.1 Plus ተጠቃሚዎች ከሶፍትዌር ግንባታ ጋር ብቻ ነው
              \n\n
@@ -39,7 +39,7 @@
     <string name="back">ተመለስ</string>
     <string name="next">ቀጣይ</string>
     <string name="sdcard">ኤስዲ ካርድ ገብቷል</string>
-    <string name="sd_space">በኤስዲ ካርድ ላይ ቢያንስ 300 ሜባ ነፃ ቦታ።</string>
+    <string name="sd_space">በኤስዲ ካርድ ላይ ቢያንስ 600 ሜባ ነፃ ቦታ።</string>
     <string name="power">ከ 30% በላይ ኃይል</string>
     <string name="check_for_updates">ዝማኔዎችን ይመልከቱ</string>
     <string name="new_version_desc">ለመውጣት እባክዎ እሺን ይጫኑ።</string>

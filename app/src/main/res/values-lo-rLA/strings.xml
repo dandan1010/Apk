@@ -19,12 +19,12 @@
         <Data><![CDATA[ຫຼັງຈາກໂທລະສັບຂອງທ່ານໄດ້ເລີ່ມຕົ້ນ ໃໝ່ ແລ້ວ,
         ຖ້າທ່ານຕ້ອງການ, ທ່ານສາມາດກວດເບິ່ງເວີຊັນຊອບແວຈາກການຕັ້ງຄ່າ > ກ່ຽວກັບໂທລະສັບ > ເລກສ້າງ.
         ການປັບປຸງທີ່ປະສົບຜົນ ສຳ ເລັດຈະສະແດງເປັນ
-		    “<font><b>"00WW_3_15L"</b></font>”.
+		    “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nປັບປຸງຊອບແວ Android 10\n</string>
+    <string name="apk_title">Nokia 3.1 Plus\nປັບປຸງຊອບແວ \nAndroid 10</string>
 
     <string name="guild_line_text">ການປັບປຸງຊອບແວນີ້ແມ່ນ ສຳ ລັບຜູ້ໃຊ້ Nokia 3.1 Plus ເທົ່ານັ້ນກັບການສ້າງໂປແກຼມ:
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">ກັບໄປ</string>
     <string name="next">ຕໍ່ໄປ</string>
     <string name="sdcard">ໃສ່ SD card</string>
-    <string name="sd_space">ຢ່າງ ໜ້ອຍ ພື້ນທີ່ຫວ່າງ 300MB ໃນບັດ SD.</string>
+    <string name="sd_space">ຢ່າງ ໜ້ອຍ ພື້ນທີ່ຫວ່າງ 600MB ໃນບັດ SD.</string>
     <string name="power">ຫຼາຍກ່ວາ 30% ຂອງພະລັງງານ.</string>
     <string name="check_for_updates">ກວດເບິ່ງການປັບປຸງ</string>
     <string name="new_version_desc">ກະລຸນາກົດປຸ່ມ OK ເພື່ອອອກຈາກການ.</string>

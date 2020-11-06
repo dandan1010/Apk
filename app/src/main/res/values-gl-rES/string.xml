@@ -24,7 +24,7 @@
         </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus Android 10 Actualización de software </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nActualización de software </string>
 
     <string name="guild_line_text">Esta actualización de software só é para usuarios de Nokia 3.1 Plus con versións de software:
         \n\n
@@ -43,7 +43,7 @@
     <string name="back">De volta</string>
     <string name="next">A continuación</string>
     <string name="sdcard">A tarxeta SD está inserida</string>
-    <string name="sd_space">Polo menos 300 MB de espazo libre na tarxeta SD.</string>
+    <string name="sd_space">Polo menos 600 MB de espazo libre na tarxeta SD.</string>
     <string name="power">Máis do 30% da potencia.</string>
     <string name="check_for_updates">Comprobe se hai actualizacións</string>
     <string name="new_version_desc">Preme Aceptar para saír..</string>
@@ -53,7 +53,7 @@
         <br><br>
 Recomendámosche:
 <br><br>
-Abra esta <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>ligazón</u></a></font> no seu computador ou dispositivo secundario (se o ten) e </r> imprima ou copie as instrucións.
+Abra esta <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>ligazón(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> no seu computador ou dispositivo secundario (se o ten) e </r> imprima ou copie as instrucións.
 <br><br>
 Os seus datos de usuario non se perderán despois da actualización do software, pero por precaución,
 recomendamos aos usuarios realizar unha copia de seguridade dos datos do usuario antes de instalar a actualización.
@@ -69,7 +69,7 @@ Unha vez que estea de acordo para continuar, prema Actualizar.
         <br><br>
 Recomendámosche:
 <br><br>
-Abra esta <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>ligazón</u></a></font> no seu computador ou dispositivo secundario (se o ten) e </r> imprima ou copie as instrucións.
+Abra esta <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>ligazón(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> no seu computador ou dispositivo secundario (se o ten) e </r> imprima ou copie as instrucións.
 <br><br>
 Os seus datos de usuario non se perderán despois da actualización do software, pero por precaución,
 recomendamos aos usuarios realizar unha copia de seguridade dos datos do usuario antes de instalar a actualización.

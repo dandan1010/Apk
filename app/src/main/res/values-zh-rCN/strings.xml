@@ -18,12 +18,12 @@
         <Data><![CDATA[手机重新启动后，
  如果需要，可以从“设置”>“关于手机”>“内部版本号”检查软件版本。
  成功更新将显示为 
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\n软件更新 </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\n软件更新 </string>
 
     <string name="guild_line_text">此软件更新仅适用于具有以下软件版本的Nokia 3.1 Plus用户：
         \n\n 
@@ -42,8 +42,8 @@
     <string name="back">返回</string>
     <string name="next">下一个</string>
     <string name="sdcard">已插入SD卡</string>
-    <string name="sd_space">SD卡上至少有300MB的可用空间。</string>
-    <string name="power">超过30％的功率。</string>
+    <string name="sd_space">SD卡上至少有600MB的可用空间。</string>
+    <string name="power">超过30％的电量。</string>
     <string name="check_for_updates">检查更新</string>
     <string name="new_version_desc">请按OK退出。</string>
 
@@ -52,7 +52,7 @@
         <br><br>
 我们建议您：
 <br><br>
-在计算机或辅助设备（如果有）上打开此<font color="＃4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font>，然后</r>打印/抄下说明。
+在计算机或辅助设备（如果有）上打开此<font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font>，然后</r>打印/抄下说明。
 <br><br>
  软件更新后，您的用户数据不会丢失，但是为预防起见，我们建议用户执行回退操作。
  在安装更新之前先关闭用户数据。
@@ -68,7 +68,7 @@
         <br><br>
 我们建议您：
 <br><br>
- 在计算机或辅助设备（如果有）上打开此<font color="＃4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font>，然后</r>打印/抄下说明。
+ 在计算机或辅助设备（如果有）上打开此<font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>link(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font>，然后</r>打印/抄下说明。
 <br><br>
  软件更新后，您的用户数据不会丢失，但是为预防起见，我们建议用户执行回退操作。
  在安装更新之前先关闭用户数据。

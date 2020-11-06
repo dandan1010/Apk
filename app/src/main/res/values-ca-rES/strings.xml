@@ -19,12 +19,12 @@
         <Data><![CDATA[Després de reiniciar el telèfon, si voleu,
         podeu consultar la versió del programari a Configuració> Quant al telèfon> Número de compilació.
         Una actualització correcta es mostrarà com a 
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Actualització de programari Nokia 3.1 Plus\nAndroid 10\n</string>
+    <string name="apk_title">Actualització de programari \nNokia 3.1 Plus\nAndroid 10</string>
 
     <string name="guild_line_text">Aquesta actualització de programari només és per a usuaris de Nokia 3.1 Plus amb versions de programari:
              \n\n
@@ -36,14 +36,14 @@
     </string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hola fragment en blanc</string>
-    <string name="checkbox_tv">"He llegit i he entès les instruccions i estic preparat per rebre l'actualització del programari Android 3.1 de Nokia 3.1 Plus."</string>
+    <string name="checkbox_tv">"He llegit i he entès les instruccions i estic preparat per rebre l'actualització del programari Android 10 de Nokia 3.1 Plus."</string>
     <string name="important_notice">Noticia important</string>
     <string name="check_title">Fem les darreres comprovacions per assegurar-nos que el dispositiu estigui llest ...</string>
     <string name="new_version">El vostre telèfon ja està actualitzat.</string>
     <string name="back">esquena</string>
     <string name="next">Pròxim</string>
     <string name="sdcard">"S'ha inserit la targeta SD"</string>
-    <string name="sd_space">Com a mínim 300 MB d’espai lliure a la targeta SD.</string>
+    <string name="sd_space">Com a mínim 600 MB d’espai lliure a la targeta SD.</string>
     <string name="power">Més del 30% de la potència</string>
     <string name="check_for_updates">Buscar actualitzacions</string>
     <string name="new_version_desc">Si us plau, premeu D’acord per sortir.</string>

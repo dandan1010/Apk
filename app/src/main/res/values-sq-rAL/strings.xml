@@ -17,12 +17,12 @@
         <Data><![CDATA[Pasi telefoni juaj të rindizet,
  nëse dëshironi, mund të kontrolloni versionin e softuerit nga Settings> About Phone> Build number.
  Një azhurnim i suksesshëm do të tregojë si 
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Azhurnimi i softuerit Nokia 3.1 Plus\nAndroid 10\n</string>
+    <string name="apk_title">Azhurnimi i softuerit \nNokia 3.1 Plus\nAndroid 10</string>
 
     <string name="guild_line_text">Ky azhurnim i softuerit është vetëm për përdoruesit e Nokia 3.1 Plus me ndërtime softuerësh: 
         \n\n 
@@ -41,7 +41,7 @@
     <string name = "back"> Back </string>
     <string name = "next"> Next </string>
     <string name = "sdcard"> karta SD është futur </string>
-    <string name = "sd_space"> Të paktën 300 MB hapësirë ​​të lirë në kartën SD. </string>
+    <string name = "sd_space"> Të paktën 600 MB hapësirë ​​të lirë në kartën SD. </string>
     <string name = "power"> Më shumë se 30% të energjisë. </string>
     <string name = "check_for_updates"> Kontrolloni për azhurnime </string>
     <string name = "new_version_desc"> Ju lutemi shtypni OK për të dalë. </string>

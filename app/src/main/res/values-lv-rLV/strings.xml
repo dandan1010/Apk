@@ -19,12 +19,12 @@
         <Data><![CDATA[Kad tālrunis ir restartēts,
         ja vēlaties, varat pārbaudīt programmatūras versiju sadaļā Iestatījumi> Par tālruni> Veidošanas numurs.
         Veiksmīgs atjauninājums tiks parādīts kā
-		    “<font><b>"00WW_3_15L"</b></font>”.
+		    “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nprogrammatūras atjauninājums</string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nprogrammatūras atjauninājums</string>
 
     <string name="guild_line_text">Šis programmatūras atjauninājums ir paredzēts tikai Nokia 3.1 Plus lietotājiem ar programmatūras būvējumiem:
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">Atpakaļ</string>
     <string name="next">Nākamais</string>
     <string name="sdcard">SD karte ir ievietota</string>
-    <string name="sd_space">SD kartē ir vismaz 300 MB brīva vieta.</string>
+    <string name="sd_space">SD kartē ir vismaz 600 MB brīva vieta.</string>
     <string name="power">Vairāk nekā 30% no jaudas.</string>
     <string name="check_for_updates">Meklēt atjauninājumus</string>
     <string name="new_version_desc">Lūdzu, nospiediet Labi, lai izietu.</string>

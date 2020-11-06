@@ -1,6 +1,5 @@
 package com.example.n3dot1plusswupdate;
 
-import android.app.Activity;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
@@ -20,4 +19,5 @@ public class BaseActivity extends AppCompatActivity {
         getWindow().setNavigationBarColor(Color.parseColor("#fafafa"));
         getWindow().setStatusBarColor(Color.parseColor("#fafafa"));
     }
+
 }

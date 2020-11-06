@@ -17,12 +17,12 @@
         <Data><![CDATA[Po ponovnem zagonu telefona
  če želite, lahko preverite različico programske opreme v Settings> About Phone> Build number.
  Uspešna posodobitev bo prikazana kot »
-            <font><b>"00WW_3_15L"</b></font>”.
+            <font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Posodobitev programske opreme Nokia 3.1 Plus\nAndroid 10\n</string>
+    <string name="apk_title">Posodobitev programske opreme \nNokia 3.1 Plus\nAndroid 10</string>
 
     <string name="guild_line_text">Ta posodobitev programske opreme je namenjena samo uporabnikom Nokia 3.1 Plus z zgradbami programske opreme: 
         \n\n 
@@ -41,7 +41,7 @@
     <string name = "back"> Nazaj </string>
     <string name = "next"> Naprej </string>
     <string name = "sdcard"> Vstavljena je kartica SD </string>
-    <string name = "sd_space"> Vsaj 300 MB prostega prostora na kartici SD. </string>
+    <string name = "sd_space"> Vsaj 600 MB prostega prostora na kartici SD. </string>
     <string name = "power"> Več kot 30% moči. </string>
     <string name = "check_for_updates"> Preveri, ali so na voljo posodobitve </string>
     <string name = "new_version_desc"> Za izhod pritisnite V redu. </string>

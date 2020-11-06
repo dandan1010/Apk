@@ -24,7 +24,7 @@
         </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus Android 10 સ Softwareફ્ટવેર અપડેટ </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nસ Softwareફ્ટવેર અપડેટ </string>
 
     <string name="guild_line_text">આ સ softwareફ્ટવેર અપડેટ ફક્ત સ Nokiaફ્ટવેર બિલ્ડ્સ Nokia 3.1 Plus ના વપરાશકર્તાઓ માટે છે:
         \n\n
@@ -43,7 +43,7 @@
     <string name="back">પાછળ</string>
     <string name="next">આગળ</string>
     <string name="sdcard">SD કાર્ડ શામેલ કર્યું છે</string>
-    <string name="sd_space">એસડી કાર્ડ પર ઓછામાં ઓછી 300MB ખાલી જગ્યા.</string>
+    <string name="sd_space">એસડી કાર્ડ પર ઓછામાં ઓછી 600MB ખાલી જગ્યા.</string>
     <string name="power">30% થી વધુ શક્તિ. </string>
     <string name="check_for_updates">અપડેટ માટે ચકાસો</string>
     <string name="new_version_desc">બહાર નીકળવા માટે કૃપા કરીને બરાબર દબાવો.</string>
@@ -53,7 +53,7 @@
         <br><br>
 અમે તમને ભલામણ કરીએ છીએ:
 <br><br>
-તમારા કમ્પ્યુટર અથવા ગૌણ ઉપકરણ પર આ <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>લિંક </u></a></font> ખોલો (જો તમારી પાસે હોય તો) અને  </r> ક્યાં સૂચનાઓ છાપો/ક/પિ કરો.
+તમારા કમ્પ્યુટર અથવા ગૌણ ઉપકરણ પર આ <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>લિંક (www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> ખોલો (જો તમારી પાસે હોય તો) અને  </r> ક્યાં સૂચનાઓ છાપો/ક/પિ કરો.
 <br><br>
 તમારો વપરાશકર્તા ડેટા સ theફ્ટવેર અપડેટ પછી ખોવાશે નહીં, જોકે સાવચેતી તરીકે,
 અમે વપરાશકર્તાઓને અપડેટ ઇન્સ્ટોલ કરતા પહેલા વપરાશકર્તા ડેટાનો બેક અપ લેવાની ભલામણ કરી છે.
@@ -69,7 +69,7 @@
         <br><br>
 અમે તમને ભલામણ કરીએ છીએ:
 <br><br>
-તમારા કમ્પ્યુટર અથવા ગૌણ ઉપકરણ પર આ <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>લિંક </u></a></font> ખોલો (જો તમારી પાસે હોય તો) અને </r> ક્યાં સૂચનાઓ છાપો/ક/પિ કરો.
+તમારા કમ્પ્યુટર અથવા ગૌણ ઉપકરણ પર આ <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>લિંક(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support) </u></a></font> ખોલો (જો તમારી પાસે હોય તો) અને </r> ક્યાં સૂચનાઓ છાપો/ક/પિ કરો.
 <br><br>
 તમારો વપરાશકર્તા ડેટા સ theફ્ટવેર અપડેટ પછી ખોવાશે નહીં, જોકે સાવચેતી તરીકે,
 અમે વપરાશકર્તાઓને અપડેટ ઇન્સ્ટોલ કરતા પહેલા વપરાશકર્તા ડેટાનો બેક અપ લેવાની ભલામણ કરી છે.

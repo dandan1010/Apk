@@ -24,7 +24,7 @@
         </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nHugbúnaðaruppfærsla </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nHugbúnaðaruppfærsla </string>
 
     <string name="guild_line_text">Þessi hugbúnaðaruppfærsla er eingöngu ætluð notendum Nokia 3.1 Plus með hugbúnaðargerð:
         \n\n
@@ -43,7 +43,7 @@
     <string name="back">Aftur</string>
     <string name="next">Næst</string>
     <string name="sdcard">SD kort er sett í</string>
-    <string name="sd_space">Að minnsta kosti 300MB laust pláss á SD kortinu.</string>
+    <string name="sd_space">Að minnsta kosti 600MB laust pláss á SD kortinu.</string>
     <string name="power">Meira en 30% af krafti.</string>
     <string name="check_for_updates">Athugaðu með uppfærslur</string>
     <string name="new_version_desc">Vinsamlegast ýttu á OK til að hætta.</string>

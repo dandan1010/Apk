@@ -18,14 +18,14 @@
         <Data><![CDATA[உங்கள் தொலைபேசி மறுதொடக்கம் செய்யப்பட்ட பிறகு,
  நீங்கள் விரும்பினால், அமைப்புகள்> தொலைபேசி பற்றி> உருவாக்க எண்ணிலிருந்து மென்பொருள் பதிப்பை நீங்கள் சரிபார்க்கலாம்.
  ஒரு வெற்றிகரமான புதுப்பிப்பு 
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nமென்பொருள் புதுப்பிப்பு </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nமென்பொருள் புதுப்பிப்பு </string>
 
-    <string name="guild_line_text">இந்த மென்பொருள் புதுப்பிப்பு நோக்கியா 3.1 பிளஸ் பயனர்களுக்கு மட்டுமே மென்பொருள் உருவாக்கங்களுடன் உள்ளது: 
+    <string name="guild_line_text">இந்த மென்பொருள் புதுப்பிப்பு மென்பொருள் உருவாக்கங்களுடன் Nokia 3.1 Plus பயன்படுத்துபவர்களுக்கு மட்டுமே:
         \n\n 
         00WW_3_15H \n 
         00WW_3_15H_SP01 
@@ -42,7 +42,7 @@
     <string name = "back"> பின் </string>
     <string name = "next"> அடுத்து </string>
     <string name = "sdcard"> எஸ்டி கார்டு செருகப்பட்டுள்ளது </string>
-    <string name = "sd_space"> எஸ்டி கார்டில் குறைந்தது 300MB இலவச இடம். </string>
+    <string name = "sd_space"> எஸ்டி கார்டில் குறைந்தது 600MB இலவச இடம். </string>
     <string name = "power"> 30% க்கும் அதிகமான சக்தி. </string>
     <string name = "check_for_updates"> புதுப்பிப்புகளைச் சரிபார்க்கவும் </string>
     <string name = "new_version_desc"> வெளியேற சரி என்பதை அழுத்தவும். </string>

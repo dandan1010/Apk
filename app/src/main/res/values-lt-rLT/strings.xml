@@ -19,12 +19,12 @@
         <Data><![CDATA[Paleidus telefoną iš naujo,
         jei norite, galite patikrinti programinės įrangos versiją skiltyje Nustatymai > Apie telefoną > Komponavimo numeris.
         Sėkmingas atnaujinimas bus rodomas kaip
-		    “<font><b>"00WW_3_15L"</b></font>”.
+		    “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nprograminės įrangos atnaujinimas</string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nprograminės įrangos atnaujinimas</string>
 
     <string name="guild_line_text">Šis programinės įrangos atnaujinimas skirtas tik „Nokia 3.1 Plus“ vartotojams su programinės įrangos versijomis:
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">Atgal</string>
     <string name="next">Kitas</string>
     <string name="sdcard">Įdėta SD kortelė</string>
-    <string name="sd_space">Mažiausiai 300 MB laisvos vietos SD kortelėje.</string>
+    <string name="sd_space">Mažiausiai 600 MB laisvos vietos SD kortelėje.</string>
     <string name="power">Daugiau nei 30% galios.</string>
     <string name="check_for_updates">Tikrinti, ar yra atnaujinimų</string>
     <string name="new_version_desc">Norėdami išeiti, paspauskite Gerai.</string>

@@ -24,7 +24,7 @@
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nソフトウェアの更新 </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nソフトウェアの更新 </string>
 
     <string name="guild_line_text">このソフトウェアアップデートは、ソフトウェアビルドを備えたNokia 3.1 Plusのユーザー専用です。
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">バック</string>
     <string name="next">次</string>
     <string name="sdcard">SDカードが挿入されています</string>
-    <string name="sd_space">SDカードに300MB以上の空き容量</string>
+    <string name="sd_space">SDカードに600MB以上の空き容量</string>
     <string name="power">電力の30％以上。</string>
     <string name="check_for_updates">アップデートを確認する</string>
     <string name="new_version_desc">OKを押して終了してください。</string>

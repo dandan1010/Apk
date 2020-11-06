@@ -19,12 +19,12 @@
         <Data><![CDATA[Etter at telefonen din har startet på nytt,
         Hvis du ønsker det, kan du sjekke programvareversjonen fra Innstillinger > Om telefon > Byggnummer.
         En vellykket oppdatering vil vises som
-		    “<font><b>"00WW_3_15L"</b></font>”.
+		    “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nprogramvareoppdatering</string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nprogramvareoppdatering</string>
 
     <string name="guild_line_text">Denne programvareoppdateringen er bare for brukere av Nokia 3.1 Plus med programvarebygging:
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">Tilbake</string>
     <string name="next">Neste</string>
     <string name="sdcard">SD-kort er satt inn</string>
-    <string name="sd_space">Minst 300 MB ledig plass på SD-kortet.</string>
+    <string name="sd_space">Minst 600 MB ledig plass på SD-kortet.</string>
     <string name="power">Mer enn 30% av strømmen.</string>
     <string name="check_for_updates">Se etter oppdateringer</string>
     <string name="new_version_desc">Trykk OK for å avslutte.</string>
@@ -53,7 +53,7 @@
         <br><br>
 Vi anbefaler deg enten:
 <br><br>
-Åpne dette <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>lenke</u></a></font> på datamaskinen eller den sekundære enheten (hvis du har en) og </r> enten skriv ut/kopier ned instruksjonene.
+Åpne dette <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>lenke(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> på datamaskinen eller den sekundære enheten (hvis du har en) og </r> enten skriv ut/kopier ned instruksjonene.
 <br><br>
 Brukerdataene dine går ikke tapt etter programvareoppdateringen, 
 men som en forholdsregel anbefaler vi at brukerne tar sikkerhetskopi av brukerdata før installasjonen av oppdateringen.
@@ -69,7 +69,7 @@ Når du er OK for å fortsette, trykker du på Oppdater
         <br><br>
 Vi anbefaler deg enten:
 <br><br>
-Åpne dette <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>lenke</u></a></font> på datamaskinen eller den sekundære enheten (hvis du har en) og </r> enten skriv ut/kopier ned instruksjonene.
+Åpne dette <font color="#4586E2"><a href="http://www.nokia.com/phones/en_int/nokia-3-plus-OTA-support"><u>lenke(www.nokia.com/phones/en_int/nokia-3-plus-OTA-support)</u></a></font> på datamaskinen eller den sekundære enheten (hvis du har en) og </r> enten skriv ut/kopier ned instruksjonene.
 <br><br>
 Brukerdataene dine går ikke tapt etter programvareoppdateringen, 
 men som en forholdsregel anbefaler vi at brukerne tar sikkerhetskopi av brukerdata før installasjonen av oppdateringen.

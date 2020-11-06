@@ -19,12 +19,12 @@
         <Data><![CDATA[Po ponownym uruchomieniu telefonu
         jeśli chcesz, możesz sprawdzić wersję oprogramowania, wybierając Ustawienia> Informacje o telefonie> Numer kompilacji.
         Pomyślna aktualizacja będzie wyświetlana jako 
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Aktualizacja oprogramowania Nokia 3.1 Plus\nAndroid 10\n</string>
+    <string name="apk_title">Aktualizacja oprogramowania\n Nokia 3.1 Plus\nAndroid 10</string>
 
     <string name="guild_line_text">Ta aktualizacja oprogramowania jest przeznaczona tylko dla użytkowników Nokia 3.1 Plus z wersjami oprogramowania:
              \n\n
@@ -43,7 +43,7 @@
     <string name="back">Wstecz</string>
     <string name="next">Dalej</string>
     <string name="sdcard">Karta SD jest włożona</string>
-    <string name="sd_space">Co najmniej 300 MB wolnego miejsca na karcie SD.</string>
+    <string name="sd_space">Co najmniej 600 MB wolnego miejsca na karcie SD.</string>
     <string name="power"> Ponad 30% mocy. </string>
     <string name="check_for_updates"> Sprawdź aktualizacje </string>
     <string name="new_version_desc">Proszę nacisnąć OK, aby wyjść.</string>

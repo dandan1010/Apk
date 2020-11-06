@@ -19,12 +19,12 @@
         <Data><![CDATA[After your phone has restarted,
         if you wish, you can check the Software  version from Settings > About Phone >  Build number.
         A successful update will show as
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
 
-    <string name="apk_title" translatable="false">Nokia 3.1 Plus\nAndroid 10\nSoftware Update </string>
+    <string name="apk_title">Nokia 3.1 Plus\nAndroid 10\nSoftware Update </string>
 
     <string name="guild_line_text">This software update is only for users of  
             Nokia 3.1 Plus with software builds:
@@ -37,20 +37,17 @@
     </string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="checkbox_tv">I have read and understood the instructions and am ready to receive Nokia 3.1 Plus  Android 10 Software update.</string>
+    <string name="checkbox_tv">I have read and understood the instructions and am ready to receive Nokia 3.1 Plus Android 10 Software update.</string>
     <string name="important_notice">Important Notice</string>
     <string name="check_title">Let’s do final checks to ensure your device is ready…</string>
     <string name="new_version">Your phone is already up-to-date. </string>
     <string name="back">Back</string>
     <string name="next">Next</string>
     <string name="sdcard">SD card is inserted</string>
-    <string name="sd_space">At least 300MB free space on the SD card.</string>
+    <string name="sd_space">At least 600MB free space on the SD card.</string>
     <string name="power">More than 30% of power.</string>
     <string name="check_for_updates">Check for updates</string>
     <string name="new_version_desc">Please press OK to exit.</string>
-    <string name="size_TB">TB</string>
-    <string name="size_GB">GB</string>
-    <string name="size_MB">MB</string>
 
     <string name="import_desc_update">
         <Data><![CDATA[Once you start the update, these steps <br> will not be shown on your device.
