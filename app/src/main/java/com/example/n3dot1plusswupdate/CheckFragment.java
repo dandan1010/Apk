@@ -119,7 +119,7 @@ public class CheckFragment extends Fragment implements View.OnClickListener {
 
         if (isUpVersion()) {
             check_relative.setVisibility(View.VISIBLE);
-            errorText.setText(getResources().getString(R.string.check_title));
+            errorText.setText(mContext.getResources().getString(R.string.check_title));
             new_version_desc.setVisibility(View.GONE);
             nextBtn.setText(R.string.button_next);
             nextBtn.setEnabled(false);

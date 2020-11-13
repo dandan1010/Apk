@@ -37,10 +37,14 @@
         android:roundIcon="@drawable/ic_launcher_recovery"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.example.n3dot1plusswupdate.ImportantActivity"></activity>
-        <activity android:name="com.example.n3dot1plusswupdate.RecoveryActivity" />
-        <activity android:name="com.example.n3dot1plusswupdate.ImportantNoticeActivity"/>
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.n3dot1plusswupdate.ImportantActivity"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name="com.example.n3dot1plusswupdate.RecoveryActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.example.n3dot1plusswupdate.ImportantNoticeActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
