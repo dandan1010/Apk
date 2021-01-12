@@ -16,6 +16,7 @@ import android.os.Message;
 import android.os.StatFs;
 import android.os.storage.StorageManager;
 import android.text.format.Formatter;
+import android.text.method.ScrollingMovementMethod;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -89,6 +90,7 @@ public class CheckFragment extends Fragment implements View.OnClickListener {
 
     private void initView() {
         errorText = view.findViewById(R.id.error_text);
+        errorText.setMovementMethod(ScrollingMovementMethod.getInstance());
         nextBtn = view.findViewById(R.id.recovery_btn);
         done_sd_text = view.findViewById(R.id.done_sd_text);
         done_space_text = view.findViewById(R.id.done_space_text);

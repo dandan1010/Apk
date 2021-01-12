@@ -1,19 +1,19 @@
 <resources>
-    <string name = "app_name"> Nokia 3.1 Plus Android 10 SW Azhurnimi </string>
-    <string name = "button_next"> "Next" </string>
-    <string name = "exit"> "Ok" </string>
-    <string name = "button_update"> "Përditëso" </string>
-    <string name = "prompt_text1">Ju do të duhet të ndiqni disa hapa kryesorë në mënyrë që kjo azhurnim të instalohet me sukses, ju lutemi lexoni dhe merrni parasysh hapat e mëposhtëm.</string>
-    <string name = "prompt_text2">Shtypni dhe mbani çelësat "Volume Up" dhe "Power" në të njëjtën kohë</string>
-    <string name = "prompt_text3">Vazhdoni të shtypni të dy tastet për 3 sekonda dhe më pas lëshoni vetëm tastin "Volume Up".</string>
-    <string name = "prompt_text4">Pasi të shihni opsionet e menusë, lëshoni butonin "Fuqia".</string>
-    <string name = "prompt_text5"> Përdorni butonin "Volume Up / Down" për të theksuar “Apply update from SD card”,dhe shtypni butonin "Fuqia".</string>
-    <string name = "prompt_text6"> Pasi azhurnimi të jetë i suksesshëm, në fund të ekranit do të shihni
+    <string name="app_name"> Nokia 3.1 Plus Android 10 SW Azhurnimi </string>
+    <string name="button_next"> "Next" </string>
+    <string name="exit"> "Ok" </string>
+    <string name="button_update"> "Përditëso" </string>
+    <string name="prompt_text1">Ju do të duhet të ndiqni disa hapa kryesorë në mënyrë që kjo azhurnim të instalohet me sukses, ju lutemi lexoni dhe merrni parasysh hapat e mëposhtëm.</string>
+    <string name="prompt_text2">Shtypni dhe mbani çelësat "Volume Up" dhe "Power" në të njëjtën kohë</string>
+    <string name="prompt_text3">Vazhdoni të shtypni të dy tastet për 3 sekonda dhe më pas lëshoni vetëm tastin "Volume Up".</string>
+    <string name="prompt_text4">Pasi të shihni opsionet e menusë, lëshoni butonin "Fuqia".</string>
+    <string name="prompt_text5"> Përdorni butonin "Volume Up / Down" për të theksuar “Apply update from SD card”,dhe shtypni butonin "Fuqia".</string>
+    <string name="prompt_text6"> Pasi azhurnimi të jetë i suksesshëm, në fund të ekranit do të shihni
         “Install from SD card completed with status 0”.</string>
-    <string name = "prompt_text7">Shtypni butonin "Volume Up / Down" për të theksuar “Reboot system now”.Njëherë
+    <string name="prompt_text7">Shtypni butonin "Volume Up / Down" për të theksuar “Reboot system now”.Njëherë
          të theksuar, shtypni shkurtimisht tastin "Fuqia" (pajisja do të bëhet tani
          rindizni automatikisht). Ju lutemi vini re: Pajisja mund të marrë disa minuta për të rifilluar.</string>
-    <string name = "prompt_text8">
+    <string name="prompt_text8">
         <Data><![CDATA[Pasi telefoni juaj të rindizet,
  nëse dëshironi, mund të kontrolloni versionin e softuerit nga Settings> About Phone> Build number.
  Një azhurnim i suksesshëm do të tregojë si 
@@ -35,17 +35,17 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Përshëndetje fragment bosh</string>
     <string name="checkbox_tv">Unë kam lexuar dhe kuptuar udhëzimet dhe jam gati të marr azhurnimin e softuerit Nokia 3.1 Plus Android 10.</string>
-    <string name = "important_notice"> Njoftim i Rëndësishëm </string>
-    <string name = "check_title">Le të bëjmë kontrollet përfundimtare për të siguruar që pajisja juaj është e gatshme</string>
-    <string name = "new_version"> Telefoni juaj është tashmë i azhurnuar. </string>
-    <string name = "back"> Back </string>
-    <string name = "next"> Next </string>
-    <string name = "sdcard"> karta SD është futur </string>
-    <string name = "sd_space"> Të paktën 600 MB hapësirë ​​të lirë në kartën SD. </string>
-    <string name = "power"> Më shumë se 30% të energjisë. </string>
-    <string name = "check_for_updates"> Kontrolloni për azhurnime </string>
-    <string name = "new_version_desc"> Ju lutemi shtypni OK për të dalë. </string>
-    <string name = "import_desc_update">
+    <string name="important_notice"> Njoftim i Rëndësishëm </string>
+    <string name="check_title">Le të bëjmë kontrollet përfundimtare për të siguruar që pajisja juaj është e gatshme</string>
+    <string name="new_version"> Telefoni juaj është tashmë i azhurnuar. </string>
+    <string name="back"> Back </string>
+    <string name="next"> Next </string>
+    <string name="sdcard"> karta SD është futur </string>
+    <string name="sd_space"> Të paktën 600 MB hapësirë ​​të lirë në kartën SD. </string>
+    <string name="power"> Më shumë se 30% të energjisë. </string>
+    <string name="check_for_updates"> Kontrolloni për azhurnime </string>
+    <string name="new_version_desc"> Ju lutemi shtypni OK për të dalë. </string>
+    <string name="import_desc_update">
         <Data><![CDATA[Sapo të filloni azhurnimin, këto hapa nuk do të shfaqen në pajisjen tuaj.
         <br><br>
 Ju rekomandojmë ose:
@@ -76,6 +76,7 @@ Pasi të jetë në rregull për të vazhduar, shtypni Next
                 ]]>
         </Data>
     </string>
-<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+    <string name="prompt_text5_1">Përdorni butonin "Volume Down" ose "Volume Up" për të ndërruar opsionet, zgjidhni "Update.zip" dhe shtypni butonin "Power".</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

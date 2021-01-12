@@ -1,20 +1,20 @@
 <resources>
     <string name="app_name">Nokia 3.1 Plus Android 10 SW යාවත්කාලීන කිරීම</string>
     <string name="button_next">"ඊළඟ"</string>
-     <string name ="exit"> "හරි" </string>
-    <string name ="button_update"> "යාවත්කාලීන කරන්න" </string>
+    <string name="exit"> "හරි" </string>
+    <string name="button_update"> "යාවත්කාලීන කරන්න" </string>
 
-    <string name ="prompt_text1"> මෙම යාවත්කාලීනය ස්ථාපනය කිරීම සඳහා ඔබ ප්‍රධාන පියවර කිහිපයක් අනුගමනය කළ යුතුයසාර්ථකව, කරුණාකර පහත පියවර කියවා සටහන් කර ගන්න. </string>
-    <string name ="prompt_text2"> “වෙළුම ඉහළට” සහ “බලය” යතුරු දෙකම එකවර ඔබාගෙන සිටින්න… </string>
-    <string name ="prompt_text3"> තත්පර 3 ක් සඳහා යතුරු දෙකම එබීමෙන් පසුව “වෙළුම ඉහළට” යතුර පමණක් මුදා හරින්න.</string>
-    <string name ="prompt_text4"> ඔබ මෙනු විකල්ප දුටු විගස “බලය” යතුර මුදා හරින්න. </string>
-    <string name ="prompt_text5"> “Apply update from SD card” ඉස්මතු කිරීමට “වෙළුම ඉහළට / පහළට” යතුර භාවිතා කර “බලය” යතුර ඔබන්න. </string>
-    <string name ="prompt_text6"> යාවත්කාලීන කිරීම සාර්ථක වූ පසු, තිරයේ පතුලේ ඔබට පෙනෙනු ඇත
+    <string name="prompt_text1"> මෙම යාවත්කාලීනය ස්ථාපනය කිරීම සඳහා ඔබ ප්‍රධාන පියවර කිහිපයක් අනුගමනය කළ යුතුයසාර්ථකව, කරුණාකර පහත පියවර කියවා සටහන් කර ගන්න. </string>
+    <string name="prompt_text2"> “වෙළුම ඉහළට” සහ “බලය” යතුරු දෙකම එකවර ඔබාගෙන සිටින්න… </string>
+    <string name="prompt_text3"> තත්පර 3 ක් සඳහා යතුරු දෙකම එබීමෙන් පසුව “වෙළුම ඉහළට” යතුර පමණක් මුදා හරින්න.</string>
+    <string name="prompt_text4"> ඔබ මෙනු විකල්ප දුටු විගස “බලය” යතුර මුදා හරින්න. </string>
+    <string name="prompt_text5"> “Apply update from SD card” ඉස්මතු කිරීමට “වෙළුම ඉහළට / පහළට” යතුර භාවිතා කර “බලය” යතුර ඔබන්න. </string>
+    <string name="prompt_text6"> යාවත්කාලීන කිරීම සාර්ථක වූ පසු, තිරයේ පතුලේ ඔබට පෙනෙනු ඇත
         “Install from SD card completed with status 0”. </string>
-    <string name ="prompt_text7"> “Reboot system now” ඉස්මතු කිරීමට “වෙළුම ඉහළට / පහළට” යතුර ඔබන්න. 
+    <string name="prompt_text7"> “Reboot system now” ඉස්මතු කිරීමට “වෙළුම ඉහළට / පහළට” යතුර ඔබන්න.
 	          උද්දීපනය කළ පසු, “බලය” යතුර කෙටියෙන් ඔබන්න (උපාංගය දැන් ස්වයංක්‍රීයව නැවත ආරම්භ වේ).
 		කරුණාකර සටහන් කරන්න: උපාංගය නැවත ආරම්භ කිරීමට මිනිත්තු කිහිපයක් ගතවනු ඇත. </string>
-    <string name ="prompt_text8">
+    <string name="prompt_text8">
         <Data><![CDATA[ඔබගේ දුරකථනය නැවත ආරම්භ වූ පසු,
         ඔබට අවශ්‍ය නම්, ඔබට සැකසීම්> දුරකථනය ගැන> ගොඩනැගීමේ අංකය වෙතින් මෘදුකාංග අනුවාදය පරීක්ෂා කළ හැකිය.
         සාර්ථක යාවත්කාලීනයක් 
@@ -37,18 +37,18 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">හෙලෝ හිස් කැබැල්ල</string>
     <string name="checkbox_tv">මම උපදෙස් කියවා තේරුම් ගෙන ඇති අතර Nokia 3.1 Plus Android 10 මෘදුකාංග යාවත්කාලීනය ලැබීමට සූදානම්ව සිටිමි.</string>
-    <string name ="important_notice"> වැදගත් දැන්වීම </string>
-    <string name ="check_title"> ඔබගේ උපාංගය සුදානම් බව සහතික කිරීම සඳහා අවසාන පරීක්‍ෂා කරමු… </string>
-    <string name ="new_version"> ඔබගේ දුරකථනය දැනටමත් යාවත්කාලීනව පවතී. </string>
-    <string name ="back"> ආපසු </string>
-    <string name ="next"> ඊළඟ </string>
-    <string name ="sdcard"> SD කාඩ් පත ඇතුළත් කර ඇත </string>
-    <string name ="sd_space"> SD කාඩ් පතේ අවම වශයෙන් 600MB නිදහස් ඉඩක්. </string>
-    <string name ="power"> බලයෙන් 30% කට වඩා. </string>
-    <string name ="check_for_updates"> යාවත්කාලීන කිරීම් සඳහා පරීක්ෂා කරන්න </string>
-    <string name ="new_version_desc"> පිටවීමට කරුණාකර හරි ඔබන්න. </string>
+    <string name="important_notice"> වැදගත් දැන්වීම </string>
+    <string name="check_title"> ඔබගේ උපාංගය සුදානම් බව සහතික කිරීම සඳහා අවසාන පරීක්‍ෂා කරමු… </string>
+    <string name="new_version"> ඔබගේ දුරකථනය දැනටමත් යාවත්කාලීනව පවතී. </string>
+    <string name="back"> ආපසු </string>
+    <string name="next"> ඊළඟ </string>
+    <string name="sdcard"> SD කාඩ් පත ඇතුළත් කර ඇත </string>
+    <string name="sd_space"> SD කාඩ් පතේ අවම වශයෙන් 600MB නිදහස් ඉඩක්. </string>
+    <string name="power"> බලයෙන් 30% කට වඩා. </string>
+    <string name="check_for_updates"> යාවත්කාලීන කිරීම් සඳහා පරීක්ෂා කරන්න </string>
+    <string name="new_version_desc"> පිටවීමට කරුණාකර හරි ඔබන්න. </string>
 
-    <string name ="import_desc_update">
+    <string name="import_desc_update">
         <Data><![CDATA[ඔබ යාවත්කාලීනය ආරම්භ කළ පසු, මෙම පියවර <br> ඔබගේ උපාංගයේ නොපෙන්වයි.
         <br><br>
 අපි ඔබට නිර්දේශ කරමු:
@@ -79,6 +79,7 @@
                 ]]>
         </Data>
     </string>
-<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+    <string name="prompt_text5_1">විකල්ප මාරු කිරීමට “Volume Down” හෝ “Volume Up” යතුර භාවිතා කරන්න, “Update.zip” තෝරන්න, සහ “Power” යතුර ඔබන්න.</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

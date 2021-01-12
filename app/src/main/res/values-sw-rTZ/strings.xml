@@ -78,6 +78,7 @@ Mara moja sawa kuendelea, bonyeza Ijayo
                 ]]>
         </Data>
     </string>
-<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+    <string name="prompt_text5_1">Tumia kitufe cha "Volume Down" au "Volume Up" kubadili chaguo, chagua "Update.zip", na ubonyeze kitufe cha "Power".</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

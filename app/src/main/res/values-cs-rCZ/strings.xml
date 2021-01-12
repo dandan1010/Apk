@@ -78,6 +78,7 @@ Až budete pokračovat, stiskněte Další
                 ]]>
         </Data>
     </string>
-<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+    <string name="prompt_text5_1">Pomocí kláves „Snížení hlasitosti“ nebo „Zvýšení hlasitosti“ přepněte možnosti, vyberte „Update.zip“ a stiskněte klávesu „Napájení“.</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

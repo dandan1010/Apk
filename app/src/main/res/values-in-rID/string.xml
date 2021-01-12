@@ -19,7 +19,7 @@
         <Data><![CDATA[Setelah ponsel Anda dihidupkan ulang,
          jika mau, Anda dapat memeriksa versi Perangkat Lunak dari Pengaturan> Tentang Telepon> Nomor Bangun.
          Pembaruan yang berhasil akan ditampilkan sebagai
-		    “<font><b>"00WW_3_15L"</b></font>”.
+		    “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
         </Data>
     </string>
@@ -80,5 +80,6 @@ Setelah OK untuk melanjutkan, tekan Next
         </Data>
     </string>
     <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <string name="prompt_text5_1">Gunakan tombol "Volume Turun" atau "Volume Naik" untuk beralih opsi, pilih "Update.zip", dan tekan tombol "Daya".</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

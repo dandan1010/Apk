@@ -19,7 +19,7 @@
         <Data><![CDATA[Nakon ponovnog pokretanja telefona,
          ako želite, inačicu softvera možete provjeriti u Postavke> O telefonu> Broj izrade.
          Uspješno ažuriranje prikazat će se kao
-		    “<font><b>"00WW_3_15L"</b></font>”.
+		    “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
         </Data>
     </string>
@@ -80,5 +80,6 @@ Kada u redu nastavite, pritisnite Dalje
         </Data>
     </string>
     <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <string name="prompt_text5_1">Upotrijebite tipku "Smanjivanje glasnoće" ili "Pojačavanje glasnoće" za promjenu opcija, odaberite "Update.zip" i pritisnite tipku "Power".</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

@@ -1,20 +1,20 @@
 <resources>
-    <string name = "app_name"> Nokia 3.1 Plus Android 10 Yazılım Güncellemesi </string>
-    <string name = "button_next"> "Sonraki" </string>
-    <string name = "exit"> "Tamam" </string>
-    <string name = "button_update"> "Güncelle" </string>
+    <string name="app_name"> Nokia 3.1 Plus Android 10 Yazılım Güncellemesi </string>
+    <string name="button_next"> "Sonraki" </string>
+    <string name="exit"> "Tamam" </string>
+    <string name="button_update"> "Güncelle" </string>
 
-    <string name = "prompt_text1">Bu güncellemenin başarıyla yüklenmesi için bazı önemli adımları izlemeniz gerekecek, lütfen aşağıdaki adımları okuyun ve not alın.</string>
-    <string name = "prompt_text2">"Sesi Açma" ve "Güç" tuşlarına aynı anda basın ve basılı tutun…</string>
-    <string name = "prompt_text3">Her iki tuşa da 3 saniye boyunca basmaya devam edin ve ardından yalnızca “Sesi Açma” Tuşunu bırakın.</string>
-    <string name = "prompt_text4">Menü seçeneklerini gördüğünüzde, "Güç" tuşunu bırakın.</string>
-    <string name = "prompt_text5">"Sesi Aç / Kapat" tuşunu kullanarak“Apply update from SD card”, ve "Güç" tuşuna basın.</string>
-    <string name = "prompt_text6">Güncelleme başarılı olduktan sonra, ekranın altında şunu göreceksiniz
+    <string name="prompt_text1">Bu güncellemenin başarıyla yüklenmesi için bazı önemli adımları izlemeniz gerekecek, lütfen aşağıdaki adımları okuyun ve not alın.</string>
+    <string name="prompt_text2">"Sesi Açma" ve "Güç" tuşlarına aynı anda basın ve basılı tutun…</string>
+    <string name="prompt_text3">Her iki tuşa da 3 saniye boyunca basmaya devam edin ve ardından yalnızca “Sesi Açma” Tuşunu bırakın.</string>
+    <string name="prompt_text4">Menü seçeneklerini gördüğünüzde, "Güç" tuşunu bırakın.</string>
+    <string name="prompt_text5">"Sesi Aç / Kapat" tuşunu kullanarak“Apply update from SD card”, ve "Güç" tuşuna basın.</string>
+    <string name="prompt_text6">Güncelleme başarılı olduktan sonra, ekranın altında şunu göreceksiniz
         “Install from SD card completed with status 0”.</string>
-    <string name = "prompt_text7">Vurgulamak için "Sesi Aç / Kapat" tuşuna basın“Reboot system now”. bir Zamanlar
+    <string name="prompt_text7">Vurgulamak için "Sesi Aç / Kapat" tuşuna basın“Reboot system now”. bir Zamanlar
          vurgulandığında, kısaca "Güç" tuşuna basın (cihaz şimdi
          otomatik olarak yeniden başlat). Lütfen dikkat: Cihazın yeniden başlaması birkaç dakika sürebilir.</string>
-    <string name = "prompt_text8">
+    <string name="prompt_text8">
         <Data><![CDATA[Telefonunuz yeniden başlatıldıktan sonra
  Dilerseniz Yazılım sürümünü Ayarlar> Telefon Hakkında> Yapı numarası’ndan kontrol edebilirsiniz.
  Başarılı bir güncelleme 
@@ -78,6 +78,7 @@ Devam etmek için Tamam’a basın, İleri’ye basın
                 ]]>
         </Data>
     </string>
-<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+    <string name="prompt_text5_1">Seçenekler arasında geçiş yapmak için "Sesi Kısma" veya "Sesi Açma" tuşunu kullanın, "Update.zip" öğesini seçin ve "Güç" tuşuna basın.</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

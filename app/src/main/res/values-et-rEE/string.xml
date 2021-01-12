@@ -19,7 +19,7 @@
         <Data><![CDATA[Pärast telefoni taaskäivitamist
          soovi korral saate tarkvaraversiooni kontrollida menüüst Seaded> Teave telefoni kohta> Järjenumber.
          Edukas värskendus kuvatakse kui
-		    “<font><b>"00WW_3_15L"</b></font>”.
+		    “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
         </Data>
     </string>
@@ -80,5 +80,6 @@ Kui jätkamiseks on OK, vajutage Järgmine
         </Data>
     </string>
     <!--    以上是2020-9-7的翻译，之后的修改在备注之下-->
-
+    <string name="prompt_text5_1">Kasutage suvandite vahetamiseks klahve „Helitugevuse vähendamine” või „Helitugevuse suurendamine”, valige “Update.zip” ja vajutage toitenuppu.</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

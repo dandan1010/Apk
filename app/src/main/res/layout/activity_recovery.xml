@@ -110,6 +110,13 @@
                 android:background="@drawable/view_enable"
                 android:layout_marginStart="@dimen/dimen_8_8dp"
                 />
+            <View
+                android:id="@+id/navigation9"
+                android:layout_width="@dimen/dimen_5dp"
+                android:layout_height="@dimen/dimen_5dp"
+                android:background="@drawable/view_enable"
+                android:layout_marginStart="@dimen/dimen_8_8dp"
+                />
         </LinearLayout>
         <TextView
             android:id="@+id/next_tv"

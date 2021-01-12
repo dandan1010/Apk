@@ -51,7 +51,8 @@ public class RecoveryActivity extends BaseActivity implements View.OnClickListen
         navigations = new View[]{findViewById(R.id.navigation1), findViewById(R.id.navigation2),
                 findViewById(R.id.navigation3), findViewById(R.id.navigation4),
                 findViewById(R.id.navigation5), findViewById(R.id.navigation6),
-                findViewById(R.id.navigation7), findViewById(R.id.navigation8)};
+                findViewById(R.id.navigation7), findViewById(R.id.navigation8),
+                findViewById(R.id.navigation9)};
         navigation = findViewById(R.id.navigation);
     }
 
@@ -65,8 +66,8 @@ public class RecoveryActivity extends BaseActivity implements View.OnClickListen
             case R.id.back_tv:
                 if (clickNums == 1) {
                     clickNums = 0;
-                }else {
-                    clickNums --;
+                } else {
+                    clickNums--;
                 }
                 setView(clickNums);
                 break;
@@ -74,7 +75,7 @@ public class RecoveryActivity extends BaseActivity implements View.OnClickListen
     }
 
     private void setView(int clickNum) {
-        for (int i = 0 ;i< navigations.length;i++) {
+        for (int i = 0; i < navigations.length; i++) {
             if (i + 1 == clickNum) {
                 navigations[i].setEnabled(true);
             } else {
@@ -105,19 +106,23 @@ public class RecoveryActivity extends BaseActivity implements View.OnClickListen
                 promptText.setText(R.string.prompt_text5);
                 break;
             case 6:
+                recoverImg.setImageResource(R.mipmap.device_img_05_1);
+                promptText.setText(R.string.prompt_text5_1);
+                break;
+            case 7:
                 recoverImg.setImageResource(R.mipmap.device_img_06);
                 promptText.setText(R.string.prompt_text6);
                 break;
-            case 7:
+            case 8:
                 recoverImg.setImageResource(R.mipmap.device_img_07);
                 promptText.setText(getResources().getString(R.string.prompt_text7));
                 break;
-            case 8:
+            case 9:
                 recoverImg.setImageResource(R.mipmap.device_img_08);
                 promptText.setText(Html.fromHtml(getResources().getString(R.string.prompt_text8)));
-            break;
-            case 9:
-                clickNums --;
+                break;
+            case 10:
+                clickNums--;
                 Intent intent = new Intent(RecoveryActivity.this, ImportantActivity.class);
                 intent.putExtra("path", path);
                 startActivity(intent);

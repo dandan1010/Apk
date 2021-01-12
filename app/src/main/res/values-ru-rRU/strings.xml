@@ -1,21 +1,21 @@
 <resources>
-    <string name = "app_name"> Обновление ПО Nokia 3.1 Plus для Android 10 </string>
-    <string name = "button_next"> "Далее" </string>
-    <string name = "exit"> "Хорошо" </string>
-    <string name = "button_update"> "Обновить" </string>
+    <string name="app_name"> Обновление ПО Nokia 3.1 Plus для Android 10 </string>
+    <string name="button_next"> "Далее" </string>
+    <string name="exit"> "Хорошо" </string>
+    <string name="button_update"> "Обновить" </string>
 
-    <string name = "prompt_text1"> Вам нужно будет выполнить некоторые ключевые шаги, чтобы установить это обновление.
+    <string name="prompt_text1"> Вам нужно будет выполнить некоторые ключевые шаги, чтобы установить это обновление.
         успешно, прочтите и примите к сведению следующие шаги. </string>
-    <string name = "prompt_text2"> Одновременно нажмите и удерживайте клавиши «Увеличение громкости» и «Питание»… </string>
-    <string name = "prompt_text3"> Удерживайте нажатыми обе клавиши в течение 3 секунд, а затем отпустите только клавишу «Увеличение громкости». </string>
-    <string name = "prompt_text4"> Когда вы увидите пункты меню, отпустите кнопку «Power». </string>
-    <string name = "prompt_text5"> Используйте клавишу «Увеличение / уменьшение громкости», чтобы выделить «Применить обновление с SD-карты», и нажмите клавишу «Питание».</string>
-    <string name = "prompt_text6"> После успешного обновления внизу экрана вы увидите
+    <string name="prompt_text2"> Одновременно нажмите и удерживайте клавиши «Увеличение громкости» и «Питание»… </string>
+    <string name="prompt_text3"> Удерживайте нажатыми обе клавиши в течение 3 секунд, а затем отпустите только клавишу «Увеличение громкости». </string>
+    <string name="prompt_text4"> Когда вы увидите пункты меню, отпустите кнопку «Power». </string>
+    <string name="prompt_text5"> Используйте клавишу «Увеличение / уменьшение громкости», чтобы выделить «Применить обновление с SD-карты», и нажмите клавишу «Питание».</string>
+    <string name="prompt_text6"> После успешного обновления внизу экрана вы увидите
         «Install from SD card completed with status 0».</string>
-    <string name = "prompt_text7">Нажмите кнопку «Volum sus / jos», чтобы выделить «Reboot system now». 
+    <string name="prompt_text7">Нажмите кнопку «Volum sus / jos», чтобы выделить «Reboot system now».
         После выделения кратковременно нажмите кнопку «Pornire» (теперь устройство автоматически перезагрузится).
         Обратите внимание: перезагрузка устройства может занять несколько минут.</string>
-    <string name = "prompt_text8">
+    <string name="prompt_text8">
         <Data><![CDATA[После перезагрузки телефона
         при желании вы можете проверить версию программного обеспечения, выбрав «Настройки»> «О телефоне»> «Номер сборки».
         Успешное обновление будет отображаться как
@@ -36,20 +36,20 @@
              
     </string>
     <!-- TODO: Remove or change this placeholder text -->
-     <string name = "hello_blank_fragment"> Привет, пустой фрагмент </string>
-    <string name = "checkbox_tv"> Я прочитал и понял инструкции и готов получить обновление программного обеспечения Nokia 3.1 Plus Android 10. </string>
-    <string name = "important_notice"> Важное примечание </string>
-    <string name = "check_title"> Давайте проведем заключительную проверку, чтобы убедиться, что ваше устройство готово… </string>
-    <string name = "new_version"> На вашем телефоне уже установлена ​​последняя версия. </string>
-    <string name = "back"> Назад </string>
-    <string name = "next"> Далее </string>
-    <string name = "sdcard"> SD-карта вставлена ​​</string>
-    <string name = "sd_space"> Не менее 600 МБ свободного места на SD-карте. </string>
-    <string name = "power"> Более 30% мощности. </string>
-    <string name = "check_for_updates"> Проверить обновления </string>
-    <string name = "new_version_desc"> Нажмите OK для выхода. </string>
+    <string name="hello_blank_fragment"> Привет, пустой фрагмент </string>
+    <string name="checkbox_tv"> Я прочитал и понял инструкции и готов получить обновление программного обеспечения Nokia 3.1 Plus Android 10. </string>
+    <string name="important_notice"> Важное примечание </string>
+    <string name="check_title"> Давайте проведем заключительную проверку, чтобы убедиться, что ваше устройство готово… </string>
+    <string name="new_version"> На вашем телефоне уже установлена ​​последняя версия. </string>
+    <string name="back"> Назад </string>
+    <string name="next"> Далее </string>
+    <string name="sdcard"> SD-карта вставлена ​​</string>
+    <string name="sd_space"> Не менее 600 МБ свободного места на SD-карте. </string>
+    <string name="power"> Более 30% мощности. </string>
+    <string name="check_for_updates"> Проверить обновления </string>
+    <string name="new_version_desc"> Нажмите OK для выхода. </string>
 
-    <string name = "import_desc_update">
+    <string name="import_desc_update">
         <Data><![CDATA[После запуска обновления эти шаги <br> не будут отображаться на вашем устройстве.
         <br><br>
 Мы рекомендуем вам либо:
@@ -80,6 +80,7 @@
                 ]]>
         </Data>
     </string>
-<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+    <string name="prompt_text5_1">Используйте кнопку «Уменьшить громкость» или «Увеличить громкость» для переключения параметров, выберите «Update.zip» и нажмите клавишу «Питание».</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

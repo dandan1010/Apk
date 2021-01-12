@@ -80,5 +80,6 @@ Setelah OK untuk meneruskan, tekan Seterusnya
         </Data>
     </string>
     <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <string name="prompt_text5_1">Gunakan tombol "Volume Turun" atau "Naikkan Volume" untuk menukar pilihan, pilih "Update.zip", dan tekan kekunci "Kuasa".</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

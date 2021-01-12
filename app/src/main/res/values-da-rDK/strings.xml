@@ -80,6 +80,7 @@ Når du er OK for at fortsætte, skal du trykke på Næste
                 ]]>
         </Data>
     </string>
-<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+    <string name="prompt_text5_1">Brug "Volume Down" eller "Volume Up" -tasten til at skifte indstillinger, vælg "Update.zip", og tryk på "Power" -tasten.</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

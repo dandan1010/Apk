@@ -1,8 +1,8 @@
 <resources>
-    <string name ="app_name"> Aktualizacja oprogramowania Nokia 3.1 Plus Android 10 </string>
-    <string name ="button_next"> "Dalej" </string>
-    <string name ="exit"> "OK" </string>
-    <string name ="button_update"> "Aktualizuj" </string>
+    <string name="app_name"> Aktualizacja oprogramowania Nokia 3.1 Plus Android 10 </string>
+    <string name="button_next"> "Dalej" </string>
+    <string name="exit"> "OK" </string>
+    <string name="button_update"> "Aktualizuj" </string>
 
     <string name="prompt_text1">Aby zainstalować tę aktualizację, należy wykonać kilka kluczowych czynności
         pomyślnie, przeczytaj i zanotuj poniższe kroki.</string>
@@ -79,6 +79,7 @@ Gdy OK, aby kontynuować, naciśnij Dalej
                 ]]>
         </Data>
     </string>
-<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+    <string name="prompt_text5_1">Użyj przycisku „Zmniejsz głośność” lub „Zwiększ głośność”, aby zmienić opcje, wybierz „Update.zip” i naciśnij przycisk „Zasilanie”.</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

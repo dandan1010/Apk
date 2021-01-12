@@ -21,7 +21,7 @@
          </Data>
     </string>
 
-    <string name="apk_title" >تحديث برنامجNokia 3.1 Plus\nAndroid 10\n</string>
+    <string name="apk_title">تحديث برنامجNokia 3.1 Plus\nAndroid 10\n</string>
 
     <string name="guild_line_text">تحديث البرنامج هذا مخصص فقط لمستخدمي Nokia 3.1 Plus مع إصدارات البرامج:
              \n\n
@@ -74,6 +74,7 @@
                 ]]>
         </Data>
     </string>
-<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+    <string name="prompt_text5_1">استخدم مفتاح "خفض مستوى الصوت" أو "رفع الصوت" للتبديل بين الخيارات ، وحدد "Update.zip" ، واضغط على مفتاح "التشغيل".</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

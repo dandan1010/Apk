@@ -8,7 +8,6 @@
         android:id="@+id/error_text"
         android:layout_width="@dimen/dimen_312dp"
         android:layout_height="@dimen/dimen_168dp"
-        android:text="@string/check_title"
         android:textAlignment="center"
         android:textColor="#FF000000"
         android:textSize="@dimen/dimen_32sp"

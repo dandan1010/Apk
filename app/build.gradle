@@ -8,8 +8,8 @@ android {
         applicationId "com.hmdglobal.app.n3dot1plusswupdate"
         minSdkVersion 26
         targetSdkVersion 30
-        versionCode 1234567893
-        versionName "1234567893.0"
+        versionCode 1234567894
+        versionName "1234567894.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }

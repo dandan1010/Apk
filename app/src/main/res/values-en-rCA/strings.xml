@@ -79,6 +79,7 @@ Once OK to continue, press Next
                 ]]>
         </Data>
     </string>
-<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+    <string name="prompt_text5_1">Use “Volume Down” or “Volume Up” key to switch options, select “Update.zip”, and press the “Power” key.</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

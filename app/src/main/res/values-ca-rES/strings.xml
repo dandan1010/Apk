@@ -80,5 +80,6 @@ Quan estigueu d’acord per continuar, premeu Següent
         </Data>
     </string>
 <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <string name="prompt_text5_1">Utilitzeu la tecla "Baixar el volum" o "Augmentar el volum" per canviar les opcions, seleccioneu "Update.zip" i premeu la tecla "Encendre".</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

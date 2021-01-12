@@ -8,7 +8,7 @@
         kérjük, olvassa el és vegye figyelembe a következő lépéseket.</string>
     <string name="prompt_text2">Nyomja meg és tartsa lenyomva egyszerre a „Hangerő növelése” és a „Bekapcsoló” gombokat…</string>
     <string name="prompt_text3">Tartsa nyomva mindkét gombot 3 másodpercig, majd engedje fel csak a „Hangerő növelése” gombot.</string>
-    <string name="prompt_text4">Miután meglátta a menüopciókat, engedje fel a „Erő” gombot.</string>
+    <string name="prompt_text4">Miután meglátta a menüopciókat, engedje fel a „bekapcsoló” gombot.</string>
     <string name="prompt_text5">A „Hangerő növelése / csökkentése” gombbal jelölje ki a „Apply update from SD card” elemet, majd nyomja meg a „Bekapcsoló” gombot. </string>
     <string name="prompt_text6">Miután a frissítés sikeres volt, a képernyő alján látni fogja
         “Install from SD card completed with status 0”.</string>
@@ -19,7 +19,7 @@
         <Data><![CDATA[Miután a telefon újraindult,
          ha szeretné, ellenőrizheti a szoftver verzióját a Beállítások> A telefonról> Build szám menüpontból.
          A sikeres frissítés mint
-		    “<font><b>"00WW_3_15L"</b></font>”.
+		    “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
         </Data>
     </string>
@@ -65,7 +65,7 @@ Miután folytatta az OK-t, nyomja meg az Update gombot.
     </string>
 
     <string name="import_desc_next">
-        <Data><![CDATA[Once you start the update, these steps will not be shown on your device.
+        <Data><![CDATA[A frissítés elindítása után ezek a lépések <br> nem jelennek meg eszközén.
         <br><br>
 Azt javasoljuk, hogy:
 <br><br>
@@ -80,5 +80,6 @@ Miután folytatta, nyomja meg a Tovább gombot
         </Data>
     </string>
     <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <string name="prompt_text5_1">A „Volume Down” vagy a „Volume Up” gombbal válthat az opciók között, válassza az „Update.zip” lehetőséget, majd nyomja meg a „Power” gombot.</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

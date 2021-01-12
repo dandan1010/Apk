@@ -1,25 +1,25 @@
 <resources>
-    <string name = "app_name"> Actualizare Nokia 3.1 Plus Android 10 SW </string>
-    <string name = "button_next"> "următor" </string>
-    <string name = "exit"> "Ok" </string>
-    <string name = "button_update"> "Actualizare" </string>
+    <string name="app_name"> Actualizare Nokia 3.1 Plus Android 10 SW </string>
+    <string name="button_next"> "următor" </string>
+    <string name="exit"> "Ok" </string>
+    <string name="button_update"> "Actualizare" </string>
 
-    <string name = "prompt_text1"> Va trebui să urmați câțiva pași cheie pentru ca această actualizare să poată fi instalată
+    <string name="prompt_text1"> Va trebui să urmați câțiva pași cheie pentru ca această actualizare să poată fi instalată
         cu succes, citiți și luați notă de pașii următori. </string>
-    <string name = "prompt_text2"> Apăsați și mențineți apăsate simultan tastele „Creștere volum” și „Pornire” simultan ... </string>
-    <string name = "prompt_text3"> Continuați să apăsați ambele taste timp de 3 secunde și apoi eliberați doar tasta „Creștere volum”. </string>
-    <string name = "prompt_text4"> După ce vedeți opțiunile din meniu, eliberați tasta „Pornire”. </string>
-    <string name = "prompt_text5"> Folosiți tasta „Volum sus / jos” pentru a evidenția „Apply update from SD card” și apăsați tasta „Pornire”.</string>
-    <string name = "prompt_text6"> După ce actualizarea are succes, în partea de jos a ecranului veți vedea 
+    <string name="prompt_text2"> Apăsați și mențineți apăsate simultan tastele „Creștere volum” și „Pornire” simultan ... </string>
+    <string name="prompt_text3"> Continuați să apăsați ambele taste timp de 3 secunde și apoi eliberați doar tasta „Creștere volum”. </string>
+    <string name="prompt_text4"> După ce vedeți opțiunile din meniu, eliberați tasta „Pornire”. </string>
+    <string name="prompt_text5"> Folosiți tasta „Volum sus / jos” pentru a evidenția „Apply update from SD card” și apăsați tasta „Pornire”.</string>
+    <string name="prompt_text6"> După ce actualizarea are succes, în partea de jos a ecranului veți vedea
         “Install from SD card completed with status 0”.</string>
-    <string name = "prompt_text7"> Apăsați tasta „Volum sus / jos” pentru a evidenția „Reboot system now”. 
+    <string name="prompt_text7"> Apăsați tasta „Volum sus / jos” pentru a evidenția „Reboot system now”.
          Odată evidențiat, apăsați scurt tasta „Pornire” (dispozitivul va reporni automat automat).
          Vă rugăm să rețineți: Dispozitivul poate dura câteva minute pentru a reporni.</string>
-    <string name = "prompt_text8">
+    <string name="prompt_text8">
         <Data><![CDATA[După repornirea telefonului,
         dacă doriți, puteți verifica versiunea software din Setări> Despre telefon> Număr compilare.
         O actualizare de succes va apărea ca 
-            “<font><b>"00WW_3_15L"</b></font>”.
+            “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
@@ -35,20 +35,20 @@
              
     </string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name = "hello_blank_fragment"> Bună ziua fragment </string>
-    <string name = "checkbox_tv"> Am citit și am înțeles instrucțiunile și sunt gata să primesc actualizarea software-ului Nokia 3.1 Plus Android 10. </string>
-    <string name = "important_notice"> Notificare importantă </string>
-    <string name = "check_title"> Să facem verificările finale pentru a ne asigura că dispozitivul este gata ... </string>
-    <string name = "new_version"> Telefonul dvs. este deja actualizat. </string>
-    <string name = "back"> Înapoi </string>
-    <string name = "next"> Next </string>
-    <string name = "sdcard"> Cardul SD este introdus </string>
-    <string name = "sd_space"> Cel puțin 600 MB spațiu liber pe cardul SD. </string>
-    <string name = "power"> Mai mult de 30% din putere. </string>
-    <string name = "check_for_updates"> Căutați actualizări </string>
-    <string name = "new_version_desc"> Vă rugăm să apăsați OK pentru a ieși. </string>
+    <string name="hello_blank_fragment"> Bună ziua fragment </string>
+    <string name="checkbox_tv"> Am citit și am înțeles instrucțiunile și sunt gata să primesc actualizarea software-ului Nokia 3.1 Plus Android 10. </string>
+    <string name="important_notice"> Notificare importantă </string>
+    <string name="check_title"> Să facem verificările finale pentru a ne asigura că dispozitivul este gata ... </string>
+    <string name="new_version"> Telefonul dvs. este deja actualizat. </string>
+    <string name="back"> Înapoi </string>
+    <string name="next"> Next </string>
+    <string name="sdcard"> Cardul SD este introdus </string>
+    <string name="sd_space"> Cel puțin 600 MB spațiu liber pe cardul SD. </string>
+    <string name="power"> Mai mult de 30% din putere. </string>
+    <string name="check_for_updates"> Căutați actualizări </string>
+    <string name="new_version_desc"> Vă rugăm să apăsați OK pentru a ieși. </string>
 
-    <string name = "import_desc_update">
+    <string name="import_desc_update">
         <Data><![CDATA[Odată ce ați început actualizarea, acești pași <br> nu vor fi afișați pe dispozitivul dvs.
         <br><br>
 Vă recomandăm fie:
@@ -79,6 +79,7 @@ Odată OK pentru a continua, apăsați Următorul
                 ]]>
         </Data>
     </string>
-<!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+    <string name="prompt_text5_1">Folosiți tasta „Volume Down” sau „Volume Up” pentru a comuta opțiunile, selectați „Update.zip” și apăsați tasta „Power”.</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

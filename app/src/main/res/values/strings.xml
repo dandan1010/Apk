@@ -10,7 +10,7 @@
     <string name="prompt_text3">Keep pressing both keys  for 3 seconds and then release only the “Volume Up” Key.</string>
     <string name="prompt_text4">Once you see the menu options, release the “Power” key. </string>
     <string name="prompt_text5">Use the “Volume Up/Down” key to highlight the “Apply update from SD card”, and press the “Power” key. </string>
-    <string name="prompt_text6">After the update is successful, at the bottom of the screen you will see 
+    <string name="prompt_text6">After the update is successful, at the bottom of the screen you will see
         “Install from SD card completed with status 0”.</string>
     <string name="prompt_text7">Press the “Volume Up/Down” key to highlight “Reboot system now”. Once  
         highlighted, briefly press the “Power” key (the device will now
@@ -81,4 +81,7 @@ Once OK to continue, press Next
         </Data>
     </string>
 <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
+
+    <string name="prompt_text5_1">Use “Volume Down” or “Volume Up” key to switch options, select “Update.zip”,and press the “Power” key.</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

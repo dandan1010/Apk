@@ -21,6 +21,7 @@ import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.CompoundButton;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.google.android.vending.expansion.downloader.DownloadProgressInfo;
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
@@ -63,6 +64,7 @@ public class ImportantActivity extends BaseActivity implements CompoundButton.On
     private PowerManager powerManager;
     private IStub mDownloaderClientStub;
     private IDownloaderService mRemoteService;
+    private Context mContext;
 
     @Override
     public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
@@ -206,6 +208,7 @@ public class ImportantActivity extends BaseActivity implements CompoundButton.On
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_important);
+        mContext = this;
         Intent intent = getIntent();
         path = intent.getStringExtra("path");
         Log.d(TAG, "sdcard path : " + path);

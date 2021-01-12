@@ -19,7 +19,7 @@
         <Data><![CDATA[Matapos mag-restart ang iyong telepono,
          kung nais mo, maaari mong suriin ang bersyon ng Software mula sa Mga setting > Tungkol sa Telepono > Bumuo ng numero.
          Ipapakita ang isang matagumpay na pag-update bilang
-		    “<font><b>"00WW_3_15L"</b></font>”.
+		    “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
         </Data>
     </string>
@@ -80,5 +80,6 @@ Kapag OK na magpatuloy, pindutin ang Susunod
         </Data>
     </string>
     <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <string name="prompt_text5_1">Gamitin ang susi ng "Volume Down" o "Volume Up" upang magbago ng mga opsyon, piliin ang "Volume Up"Update.zip",at pindutin ang susi ng "Power".</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>

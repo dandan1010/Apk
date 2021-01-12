@@ -19,7 +19,7 @@
         <Data><![CDATA[Dopo il riavvio del telefono,
          se lo desideri, puoi controllare la versione del software da Impostazioni> Informazioni sul telefono> Numero build.
          Un aggiornamento riuscito verrà visualizzato come
-		    “<font><b>"00WW_3_15L"</b></font>”.
+		    “<font><b>"00WW_3_15K"</b></font>”.
                 ]]>
          </Data>
     </string>
@@ -80,5 +80,6 @@ Una volta OK per continuare, premere Avanti
         </Data>
     </string>
     <!--    以上是2020-8-25的翻译，之后的修改在备注之下-->
-
+    <string name="prompt_text5_1">Utilizzare il tasto "Volume giù" o "Volume su" per cambiare le opzioni, selezionare "Update.zip" e premere il tasto "Accensione".</string>
+    <!--    以上是2021-1-8的翻译，之后的修改在备注之下-->
 </resources>
